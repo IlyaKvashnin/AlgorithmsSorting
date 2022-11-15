@@ -7,8 +7,23 @@ using System.Threading.Tasks;
 
 namespace AlgorithmsSorting.ConsoleUI
 {
+    /// <summary>
+    /// Класс, для удобного вывода в консоль.
+    /// </summary>
+    public static class ArrayStringsExtension
+    {
+        public static void Print(this string[] array)
+        {
+            array.ToList().ForEach(x => Console.WriteLine(x));
+        }
+    }
+
+    /// <summary>
+    /// Класс, содержащий методы вывода работы сортировок.
+    /// </summary>
     internal class TextSortingActions
     {
+        
         public static void PrintSelectionSort()
         {
 
@@ -20,10 +35,31 @@ namespace AlgorithmsSorting.ConsoleUI
 
 
             Console.WriteLine("Массив в файле до изменений: ");
-            arr.ToList().ForEach(x =>  Console.WriteLine(x));
+            arr.Print();
 
             Console.WriteLine("\nТекст после сортировки: ");
-            sort.Sort(arr).ToList().ForEach(x => Console.WriteLine(x));
+            sort.Sort(arr);
+            arr.Print();
+
+        }
+
+        public static void PrintRadixSort()
+        {
+
+            ConsoleHelper.CleanScreen();
+            FileWorker fileWorker = new FileWorker();
+            RadixSort radixSort = new RadixSort();
+
+            var arr = fileWorker.ReadFile(FileWorker.PathToFile);
+            int n = arr.Count();
+
+
+            Console.WriteLine("Массив в файле до изменений: ");
+            arr.Print();
+
+            Console.WriteLine("\nТекст после сортировки: ");
+            radixSort.MSD_sort(arr, 0, n - 1, 0);
+            arr.Print();
 
         }
     }

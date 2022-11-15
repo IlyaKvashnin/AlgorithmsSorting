@@ -8,7 +8,8 @@ namespace AlgorithmsSorting.ConsoleUI
 
                  new MenuCategory("Cортировка текста",new Menu[]
                 {
-                    new MenuApplicationTextSorting("Тестовый вывод",TextSortingActions.PrintSelectionSort),
+                    new MenuApplicationTextSorting("Сортировка выборками",TextSortingActions.PrintSelectionSort),
+                    new MenuApplicationTextSorting("Поразрядная сортировка",TextSortingActions.PrintRadixSort),
                     new ReturnMenu("Вернуться назад")
                 }),
                 new MenuCategory("Алгоритмы внутренней сортировки",new Menu[]

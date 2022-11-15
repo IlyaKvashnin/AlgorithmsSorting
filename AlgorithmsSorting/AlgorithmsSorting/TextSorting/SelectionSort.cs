@@ -6,9 +6,16 @@ using System.Threading.Tasks;
 
 namespace AlgorithmsSorting.TextSorting
 {
+    /// <summary>
+    /// Класс сортировки выборками
+    /// </summary>
     public class SelectionSort
     {
-        public string[] Sort(string[] source)
+        /// <summary>
+        /// Метод сортировки выборками.
+        /// </summary>
+        /// <param name="source">Входной массив</param>
+        public void Sort(string[] source)
         {
             int min;
             for (int i = 0; i < source.Count() - 1; i++)
@@ -25,8 +32,6 @@ namespace AlgorithmsSorting.TextSorting
                 source[i] = source[min];
                 source[min] = temp;
             }
-
-            return source;
         }
     }
 }
