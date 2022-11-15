@@ -5,11 +5,14 @@ namespace AlgorithmsSorting.ConsoleUI
     {
         public static MenuCategory mainMenu = new MenuCategory("Главное меню", new Menu[]
             {
-                new MenuApplicationTest("Тестовый вывод",TextSortingActions.Print),
 
+                 new MenuCategory("Cортировка текста",new Menu[]
+                {
+                    new MenuApplicationTextSorting("Тестовый вывод",TextSortingActions.PrintSelectionSort),
+                    new ReturnMenu("Вернуться назад")
+                }),
                 new MenuCategory("Алгоритмы внутренней сортировки",new Menu[]
                 {
-                    new MenuApplicationTest("Тестовый вывод",TextSortingActions.Print),
                     new ReturnMenu("Вернуться назад")
                 }),
                 new ReturnMenu("Выход")

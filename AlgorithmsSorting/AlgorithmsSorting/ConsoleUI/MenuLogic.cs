@@ -44,7 +44,7 @@ namespace AlgorithmsSorting.ConsoleUI
                                 _current = category;
                                 ConsoleHelper.CleanScreen();
                                 break;
-                            case MenuApplicationTest executeAction:
+                            case MenuApplicationTextSorting executeAction:
                                 executeAction.Action();
                                 ReturnToMainMenu(index);
                                 break;

@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="InternalSortingAlgorithms\" />
     <Folder Include="TableSorting\" />
-    <Folder Include="TextSorting\" />
   </ItemGroup>
 
 </Project>
