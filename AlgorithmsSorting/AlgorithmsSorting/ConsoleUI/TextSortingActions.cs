@@ -1,6 +1,7 @@
 ﻿using AlgorithmsSorting.TextSorting;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,14 +32,20 @@ namespace AlgorithmsSorting.ConsoleUI
             FileWorker fileWorker = new FileWorker();
             SelectionSort sort = new SelectionSort();
 
+            fileWorker.WriteFile(FileWorker.PathToFile);
             var arr = fileWorker.ReadFile(FileWorker.PathToFile);
 
 
             Console.WriteLine("Массив в файле до изменений: ");
             arr.Print();
 
-            Console.WriteLine("\nТекст после сортировки: ");
+            Console.WriteLine("\nПроцесс сортировки: ");
             sort.Sort(arr);
+            Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.WriteLine();
+            sort.WriteLogsData(FileWorker.PathToLogsSelection,arr);
+            
             arr.Print();
 
         }
@@ -50,6 +57,7 @@ namespace AlgorithmsSorting.ConsoleUI
             FileWorker fileWorker = new FileWorker();
             RadixSort radixSort = new RadixSort();
 
+            fileWorker.WriteFile(FileWorker.PathToFile);
             var arr = fileWorker.ReadFile(FileWorker.PathToFile);
             int n = arr.Count();
 
@@ -57,9 +65,13 @@ namespace AlgorithmsSorting.ConsoleUI
             Console.WriteLine("Массив в файле до изменений: ");
             arr.Print();
 
-            Console.WriteLine("\nТекст после сортировки: ");
+            Console.WriteLine("\nПроцесс сортировки: ");
             radixSort.MSD_sort(arr, 0, n - 1, 0);
+            Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.WriteLine();
             arr.Print();
+            radixSort.WriteLogsData(FileWorker.PathToLogsRadix,arr);
 
         }
     }

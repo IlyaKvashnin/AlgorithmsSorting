@@ -1,0 +1,54 @@
+Сравниваем bdzeh и hfholejkevjs
+bdzeh по алфавиту находится раньше чем hfholejkevjs
+Сравниваем jlvydlqru и bdzeh
+Сравниваем xnkdjgw и bdzeh
+Сравниваем ipvqatok
+ и bdzeh
+Меняем местами hfholejkevjs и bdzeh
+Получаем массив: 
+bdzeh
+hfholejkevjs
+jlvydlqru
+xnkdjgw
+ipvqatok
+
+ 
+Сравниваем jlvydlqru и hfholejkevjs
+Сравниваем xnkdjgw и hfholejkevjs
+Сравниваем ipvqatok
+ и hfholejkevjs
+Меняем местами hfholejkevjs и hfholejkevjs
+Получаем массив: 
+bdzeh
+hfholejkevjs
+jlvydlqru
+xnkdjgw
+ipvqatok
+
+ 
+Сравниваем xnkdjgw и jlvydlqru
+Сравниваем ipvqatok
+ и jlvydlqru
+ipvqatok
+ по алфавиту находится раньше чем jlvydlqru
+Меняем местами jlvydlqru и ipvqatok
+
+Получаем массив: 
+bdzeh
+hfholejkevjs
+ipvqatok
+
+xnkdjgw
+jlvydlqru
+ 
+Сравниваем jlvydlqru и xnkdjgw
+jlvydlqru по алфавиту находится раньше чем xnkdjgw
+Получаем массив: 
+bdzeh
+hfholejkevjs
+ipvqatok
+
+jlvydlqru
+xnkdjgw
+ 
+Количество уникальных слов: 5
