@@ -36,12 +36,23 @@ namespace AlgorithmsSorting
                 File.Delete(path);
             }
             using StreamWriter sw = new StreamWriter(path, true);
-            StringBuilder str = new();
+            List<string> strings = new();
             foreach (var item in logs)
             {
-                str.Append(item.toString());
+                strings.Add(item.toString());
             }
-            sw.WriteLine(str);
+            strings.ForEach(s => sw.WriteLine(s));
+
+            //var list = new List<string>();
+            //foreach (var item in array)
+            //{
+            //    if (!list.Contains(item))
+            //    {
+            //        list.Add(item);
+            //    }
+            //}
+            //sw.WriteLine("Количество уникальных слов: " + list.Count());
+            //Console.WriteLine("Количество уникальных слов: " + list.Count());
 
         }
     }

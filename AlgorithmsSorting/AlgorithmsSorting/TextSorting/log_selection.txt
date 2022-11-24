@@ -1,54 +1,53 @@
-Сравниваем bdzeh и hfholejkevjs
-bdzeh по алфавиту находится раньше чем hfholejkevjs
-Сравниваем jlvydlqru и bdzeh
-Сравниваем xnkdjgw и bdzeh
-Сравниваем ipvqatok
- и bdzeh
-Меняем местами hfholejkevjs и bdzeh
+Сравниваем nsihuaothjn и cuscpkp
+Сравниваем ldcxw и cuscpkp
+Сравниваем yyrtqoxyrs и cuscpkp
+Сравниваем spvjnpcbjazt
+ и cuscpkp
+Меняем местами cuscpkp и cuscpkp
 Получаем массив: 
-bdzeh
-hfholejkevjs
-jlvydlqru
-xnkdjgw
-ipvqatok
+cuscpkp
+nsihuaothjn
+ldcxw
+yyrtqoxyrs
+spvjnpcbjazt
 
  
-Сравниваем jlvydlqru и hfholejkevjs
-Сравниваем xnkdjgw и hfholejkevjs
-Сравниваем ipvqatok
- и hfholejkevjs
-Меняем местами hfholejkevjs и hfholejkevjs
+Сравниваем ldcxw и nsihuaothjn
+ldcxw по алфавиту находится раньше чем nsihuaothjn
+Сравниваем yyrtqoxyrs и ldcxw
+Сравниваем spvjnpcbjazt
+ и ldcxw
+Меняем местами nsihuaothjn и ldcxw
 Получаем массив: 
-bdzeh
-hfholejkevjs
-jlvydlqru
-xnkdjgw
-ipvqatok
+cuscpkp
+ldcxw
+nsihuaothjn
+yyrtqoxyrs
+spvjnpcbjazt
 
  
-Сравниваем xnkdjgw и jlvydlqru
-Сравниваем ipvqatok
- и jlvydlqru
-ipvqatok
- по алфавиту находится раньше чем jlvydlqru
-Меняем местами jlvydlqru и ipvqatok
-
+Сравниваем yyrtqoxyrs и nsihuaothjn
+Сравниваем spvjnpcbjazt
+ и nsihuaothjn
+Меняем местами nsihuaothjn и nsihuaothjn
 Получаем массив: 
-bdzeh
-hfholejkevjs
-ipvqatok
+cuscpkp
+ldcxw
+nsihuaothjn
+yyrtqoxyrs
+spvjnpcbjazt
 
-xnkdjgw
-jlvydlqru
  
-Сравниваем jlvydlqru и xnkdjgw
-jlvydlqru по алфавиту находится раньше чем xnkdjgw
+Сравниваем spvjnpcbjazt
+ и yyrtqoxyrs
+spvjnpcbjazt
+ по алфавиту находится раньше чем yyrtqoxyrs
 Получаем массив: 
-bdzeh
-hfholejkevjs
-ipvqatok
+cuscpkp
+ldcxw
+nsihuaothjn
+spvjnpcbjazt
 
-jlvydlqru
-xnkdjgw
+yyrtqoxyrs
  
 Количество уникальных слов: 5

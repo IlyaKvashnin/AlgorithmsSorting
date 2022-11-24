@@ -28,25 +28,25 @@ namespace AlgorithmsSorting.ConsoleUI
         public static void PrintSelectionSort()
         {
 
-            ConsoleHelper.CleanScreen();
-            FileWorker fileWorker = new FileWorker();
-            SelectionSort sort = new SelectionSort();
+            //ConsoleHelper.CleanScreen();
+            //FileWorker fileWorker = new FileWorker();
+            //SelectionSort sort = new SelectionSort();
 
-            fileWorker.WriteFile(FileWorker.PathToFile);
-            var arr = fileWorker.ReadFile(FileWorker.PathToFile);
+            //fileWorker.WriteFile(FileWorker.PathToFile);
+            //var arr = fileWorker.ReadFile(FileWorker.PathToFile);
 
 
-            Console.WriteLine("Массив в файле до изменений: ");
-            arr.Print();
+            //Console.WriteLine("Массив в файле до изменений: ");
+            //arr.Print();
 
-            Console.WriteLine("\nПроцесс сортировки: ");
-            sort.Sort(arr);
-            Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
-            Console.BackgroundColor = ConsoleColor.Black;
-            Console.WriteLine();
-            sort.WriteLogsData(FileWorker.PathToLogsSelection,arr);
+            //Console.WriteLine("\nПроцесс сортировки: ");
+            //sort.Sort(arr);
+            //Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
+            //Console.BackgroundColor = ConsoleColor.Black;
+            //Console.WriteLine();
+            //sort.WriteLogsData(FileWorker.PathToLogsSelection,arr);
             
-            arr.Print();
+            //arr.Print();
 
         }
 
@@ -56,23 +56,20 @@ namespace AlgorithmsSorting.ConsoleUI
             ConsoleHelper.CleanScreen();
             FileWorker fileWorker = new FileWorker();
             RadixSort radixSort = new RadixSort();
-
-            fileWorker.WriteFile(FileWorker.PathToFile);
             var arr = fileWorker.ReadFile(FileWorker.PathToFile);
+            
             int n = arr.Count();
-
-
             Console.WriteLine("Массив в файле до изменений: ");
             arr.Print();
-
-            Console.WriteLine("\nПроцесс сортировки: ");
             radixSort.MSD_sort(arr, 0, n - 1, 0);
+            radixSort.logger.PrintLogs();
+            
             Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
             Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine();
             arr.Print();
-            radixSort.WriteLogsData(FileWorker.PathToLogsRadix,arr);
-
+            fileWorker.WriteLogs(FileWorker.PathToLogsRadix, radixSort.logger.Logs);
+            radixSort.logger.Logs.Clear();
         }
     }
 }
