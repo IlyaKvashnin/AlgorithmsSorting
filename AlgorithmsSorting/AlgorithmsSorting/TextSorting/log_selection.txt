@@ -1,53 +1,17 @@
-Сравниваем nsihuaothjn и cuscpkp
-Сравниваем ldcxw и cuscpkp
-Сравниваем yyrtqoxyrs и cuscpkp
-Сравниваем spvjnpcbjazt
- и cuscpkp
-Меняем местами cuscpkp и cuscpkp
-Получаем массив: 
-cuscpkp
-nsihuaothjn
-ldcxw
-yyrtqoxyrs
-spvjnpcbjazt
-
- 
-Сравниваем ldcxw и nsihuaothjn
-ldcxw по алфавиту находится раньше чем nsihuaothjn
-Сравниваем yyrtqoxyrs и ldcxw
-Сравниваем spvjnpcbjazt
- и ldcxw
-Меняем местами nsihuaothjn и ldcxw
-Получаем массив: 
-cuscpkp
-ldcxw
-nsihuaothjn
-yyrtqoxyrs
-spvjnpcbjazt
-
- 
-Сравниваем yyrtqoxyrs и nsihuaothjn
-Сравниваем spvjnpcbjazt
- и nsihuaothjn
-Меняем местами nsihuaothjn и nsihuaothjn
-Получаем массив: 
-cuscpkp
-ldcxw
-nsihuaothjn
-yyrtqoxyrs
-spvjnpcbjazt
-
- 
-Сравниваем spvjnpcbjazt
- и yyrtqoxyrs
-spvjnpcbjazt
- по алфавиту находится раньше чем yyrtqoxyrs
-Получаем массив: 
-cuscpkp
-ldcxw
-nsihuaothjn
-spvjnpcbjazt
-
-yyrtqoxyrs
- 
-Количество уникальных слов: 5
+[Compare] Сравниваем seoidgbsrmpsi и getyrumhoqelc
+[Compare] Сравниваем gfnjaobpnx и getyrumhoqelc
+[Compare] Сравниваем flqtsjmzs и getyrumhoqelc
+[Info] flqtsjmzs по алфавиту находится раньше чем getyrumhoqelc
+[Compare] Сравниваем oclbmra и flqtsjmzs
+[Swap] Меняем местами getyrumhoqelc и flqtsjmzs
+[Compare] Сравниваем gfnjaobpnx и seoidgbsrmpsi
+[Info] gfnjaobpnx по алфавиту находится раньше чем seoidgbsrmpsi
+[Compare] Сравниваем getyrumhoqelc и gfnjaobpnx
+[Info] getyrumhoqelc по алфавиту находится раньше чем gfnjaobpnx
+[Compare] Сравниваем oclbmra и getyrumhoqelc
+[Swap] Меняем местами seoidgbsrmpsi и getyrumhoqelc
+[Compare] Сравниваем seoidgbsrmpsi и gfnjaobpnx
+[Compare] Сравниваем oclbmra и gfnjaobpnx
+[Swap] Меняем местами gfnjaobpnx и gfnjaobpnx
+[Compare] Сравниваем oclbmra и seoidgbsrmpsi
+[Info] oclbmra по алфавиту находится раньше чем seoidgbsrmpsi

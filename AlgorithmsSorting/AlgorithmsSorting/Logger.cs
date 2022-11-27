@@ -15,7 +15,7 @@ namespace AlgorithmsSorting
             string inputChar;
             do
             {
-                System.Console.WriteLine("Если вы хотите постепенно просматривать записи в логах, управляя нажатием клавиш введите y/yes");
+                System.Console.WriteLine("Если вы хотите постепенно просматривать записи в логах, управляя нажатием \"enter\" введите y/yes");
                 inputChar = System.Console.ReadLine();
                 var needInputChar = inputChar?.ToLower();
                 if ((needInputChar == "y") || (needInputChar == "yes"))

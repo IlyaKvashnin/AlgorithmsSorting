@@ -11,7 +11,7 @@ namespace AlgorithmsSorting.TextSorting
     {
         private readonly Random _random = new Random();
 
-        public StringBuilder GenerateArray(int count)
+        public StringBuilder GenerateData(int count)
         {
             var builder = new StringBuilder(count);
 

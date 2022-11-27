@@ -25,8 +25,7 @@ namespace AlgorithmsSorting
             {
                 File.Delete(path);
             }
-            using StreamWriter sw = new StreamWriter(path, true);
-            sw.WriteLine(str);
+            File.WriteAllText(path,str.ToString());
         }
 
         public void WriteLogs(string path, List<Record> logs)
