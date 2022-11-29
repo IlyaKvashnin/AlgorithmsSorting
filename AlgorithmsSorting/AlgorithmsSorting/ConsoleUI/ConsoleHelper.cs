@@ -47,6 +47,23 @@ namespace AlgorithmsSorting.ConsoleUI
             }
         }
 
+        public static int ReadNumberTime()
+        {
+            Console.WriteLine("Введите числом период отображения записей");
+            string input = Console.ReadLine();
+            int number;
+
+            bool success = int.TryParse(input, out number);
+            if (success)
+            {
+                return number;
+            }
+            else
+            {
+                return ReadNumberTime();
+            }
+        }
+
         public static void PrintNumberElements(string[] array)
         {
             Console.WriteLine("Количество повторений для каждого слова в тексте." , Console.BackgroundColor = ConsoleColor.DarkRed);

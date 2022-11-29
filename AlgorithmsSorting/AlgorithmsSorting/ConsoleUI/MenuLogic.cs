@@ -52,6 +52,10 @@ namespace AlgorithmsSorting.ConsoleUI
                                 executeAction.Action();
                                 ReturnToMainMenu(index);
                                 break;
+                            case MenuApplicationInternalSorting executeAction:
+                                executeAction.Action();
+                                ReturnToMainMenu(index);
+                                break;
                             case MenuAction action:
                                 action.Action(action);
                                 return;

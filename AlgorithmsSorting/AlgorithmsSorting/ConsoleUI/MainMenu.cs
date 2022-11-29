@@ -14,6 +14,8 @@ namespace AlgorithmsSorting.ConsoleUI
                 }),
                 new MenuCategory("Алгоритмы внутренней сортировки",new Menu[]
                 {
+                    new MenuApplicationInternalSorting("Сортировка пузырьком", InternalSortingActions.PrintBubbleSort),
+                    new MenuApplicationInternalSorting("Быстрая сортировка", InternalSortingActions.PrintQuickSort),
                     new ReturnMenu("Вернуться назад")
                 }),
                 new MenuCategory("Алгоритмы внешней сортировки",new Menu[]

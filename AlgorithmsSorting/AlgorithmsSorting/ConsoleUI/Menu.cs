@@ -56,4 +56,14 @@ namespace AlgorithmsSorting.ConsoleUI
             Action = action;
         }
     }
+
+    public class MenuApplicationInternalSorting : Menu
+    {
+        public Action Action { get; }
+
+        public MenuApplicationInternalSorting(string name, Action action) : base(name)
+        {
+            Action = action;
+        }
+    }
 }
