@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorithmsSorting.ExternalSortingAlgorithms;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,6 +34,52 @@ namespace AlgorithmsSorting.ConsoleUI
         public static int ReadNumber()
         {
             Console.WriteLine("Введите числом количество слов для сортировки");
+            string input = Console.ReadLine();
+            int number;
+
+            bool success = int.TryParse(input, out number);
+            if (success)
+            {
+                return number;
+            }
+            else
+            {
+                return ReadNumber();
+            }
+        }
+        public static int ReadColumnNumber()
+        {
+            Console.WriteLine("Введите номер столбца, по которому сортировать (нумерация с 0)");
+            string input = Console.ReadLine();
+            int number;
+
+            bool success = int.TryParse(input, out number);
+            if (success)
+            {
+                return number;
+            }
+            else
+            {
+                return ReadNumber();
+            }
+        }
+        public static ColumnType ReadColumnType()
+        {
+            string inputChar;
+            do
+            {
+                System.Console.WriteLine("Введите int/integer или str/string в соответствии с типом данных в столбце");
+                inputChar = System.Console.ReadLine();
+                var needInputChar = inputChar?.ToLower();
+                if ((needInputChar == "int") || (needInputChar == "integer"))
+                    return ColumnType.integer;
+                else if ((needInputChar == "str") || (needInputChar == "string"))
+                    return ColumnType.str;
+            } while (true);
+        }
+        public static int ReadMaxWaysNumber()
+        {
+            Console.WriteLine("Введите количество путей для многопутевой сортировки");
             string input = Console.ReadLine();
             int number;
 

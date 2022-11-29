@@ -34,12 +34,15 @@ namespace AlgorithmsSorting.ConsoleUI
         public static void PrintDirectMergeSort()
         {
             ConsoleHelper.CleanScreen();
+            var columnNumber = ConsoleHelper.ReadColumnNumber();
+            ConsoleHelper.CleanScreen();
+            var type = ConsoleHelper.ReadColumnType();
             Stopwatch sw = new Stopwatch();
             sw.Start();
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            DirectMergeSort dm = new DirectMergeSort(filename, 1, ColumnType.str);
+            DirectMergeSort dm = new DirectMergeSort(filename, columnNumber, type);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData(filename);
@@ -49,12 +52,15 @@ namespace AlgorithmsSorting.ConsoleUI
         public static void PrintNaturalMergeSort()
         {
             ConsoleHelper.CleanScreen();
+            var columnNumber = ConsoleHelper.ReadColumnNumber();
+            ConsoleHelper.CleanScreen();
+            var type = ConsoleHelper.ReadColumnType();
             Stopwatch sw = new Stopwatch();
             sw.Start();
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            NaturalMergeSort dm = new NaturalMergeSort(filename, 1, ColumnType.str);
+            NaturalMergeSort dm = new NaturalMergeSort(filename, columnNumber, type);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData("result.txt");
@@ -64,12 +70,17 @@ namespace AlgorithmsSorting.ConsoleUI
         public static void PrintMultipathMergeSort()
         {
             ConsoleHelper.CleanScreen();
+            var maxWays = ConsoleHelper.ReadMaxWaysNumber();
+            ConsoleHelper.CleanScreen();
+            var columnNumber = ConsoleHelper.ReadColumnNumber();
+            ConsoleHelper.CleanScreen();
+            var type = ConsoleHelper.ReadColumnType();
             Stopwatch sw = new Stopwatch();
             sw.Start();
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            MultipathMergeSort dm = new MultipathMergeSort(filename, 0, ColumnType.str);
+            MultipathMergeSort dm = new MultipathMergeSort(filename, columnNumber, type, maxWays);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData("result.txt");
