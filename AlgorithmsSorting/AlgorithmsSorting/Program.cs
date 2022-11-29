@@ -59,17 +59,5 @@ namespace AlgorithmsSorting
                 Console.WriteLine();
             }
         }
-
-        public static void Generator(string file, int count) // для тестов
-        {
-            using (StreamWriter bw = new StreamWriter(File.Create(file)))
-            {
-                Random rnd = new Random();
-                for (int i = 0; i < count; i++)
-                {
-                    bw.Write(rnd.Next(-500, 500));
-                }
-            }
-        }
     }
 }
