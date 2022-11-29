@@ -16,6 +16,13 @@ namespace AlgorithmsSorting.ConsoleUI
                 {
                     new ReturnMenu("Вернуться назад")
                 }),
+                new MenuCategory("Алгоритмы внешней сортировки",new Menu[]
+                {
+                    new MenuApplicationExternalSorting("Сортировка прямым слиянием",ExternalSortingActions.PrintDirectMergeSort),
+                    new MenuApplicationExternalSorting("Сортировка естественным слиянием",ExternalSortingActions.PrintNaturalMergeSort),
+                    new MenuApplicationExternalSorting("Сортировка многопутевым слиянием",ExternalSortingActions.PrintMultipathMergeSort),
+                    new ReturnMenu("Вернуться назад")
+                }),
                 new ReturnMenu("Выход")
             });
     }

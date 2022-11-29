@@ -22,16 +22,13 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             _lineComparer = new(_columnNumber, _columnType);
             this.SplitToFiles();
 
+
         }
         public MultipathMergeSort(string filename, int columnNumber)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
         }
-        // [1, 2, 3,' 1], [2, 5, 6], [5], [2, 7, 9]
-        // [5, 6, 1, 2]
-        // 
-        // 1, 2, 2, 2, 3, 5, 5, 6, 7, 9
         public void Sort()
         {
             List<StreamReader> inputFiles = new();
@@ -42,6 +39,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             bool isOrderInversed = false;
             int currentOutputFileId = 0;
             int numOfValidInputs = maxWays;
+            int count = 0;
             string str1;
             string str2;
             string? readenString;
@@ -52,11 +50,22 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 outputFiles.Add(new StreamWriter($"f{i + maxWays}.txt"));
                 isInputValid.Add(true);
                 isFileReadable.Add(true);
-                currElements.Add(inputFiles[i].ReadLine());
-
+                var temp = inputFiles[i].ReadLine();
+                
+                if (temp != null)
+                {
+                    currElements.Add(temp);
+                    count++;
+                }
+                
             }
+            
             while (true)
             {
+                if (count == 1)
+                {
+                    break;
+                }
                 while (numOfValidInputs > 0)
                 {
                     while (numOfValidInputs > 0)

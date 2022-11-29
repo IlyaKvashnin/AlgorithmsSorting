@@ -47,4 +47,13 @@ namespace AlgorithmsSorting.ConsoleUI
             Action = action;
         }
     }
+    public class MenuApplicationExternalSorting : Menu
+    {
+        public Action Action { get; }
+
+        public MenuApplicationExternalSorting(string name, Action action) : base(name)
+        {
+            Action = action;
+        }
+    }
 }
