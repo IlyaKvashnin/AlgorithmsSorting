@@ -30,5 +30,44 @@ namespace AlgorithmsSorting.ConsoleUI
             System.Console.SetCursorPosition(0, 0);
         }
 
+        public static int ReadNumber()
+        {
+            Console.WriteLine("Введите числом количество слов для сортировки");
+            string input = Console.ReadLine();
+            int number;
+
+            bool success = int.TryParse(input, out number);
+            if (success)
+            {
+                return number;
+            }
+            else
+            {
+                return ReadNumber();
+            }
+        }
+
+        public static void PrintNumberElements(string[] array)
+        {
+            Console.WriteLine("Количество повторений для каждого слова в тексте." , Console.BackgroundColor = ConsoleColor.DarkRed);
+            Console.BackgroundColor = ConsoleColor.Black;
+            Dictionary<string,int> dict = new Dictionary<string,int>();
+
+            foreach (var item in array)
+            {
+                if (!dict.ContainsKey(item))
+                {
+                    dict.Add(item, 1);
+                }
+                else
+                {
+                    dict[item]++;
+                }
+            }
+           foreach (var item in dict)
+            {
+                Console.WriteLine(String.Format("Слово {0} вcтречается {1} раз(a)",item.Key,item.Value));
+            }
+        }
     }
 }

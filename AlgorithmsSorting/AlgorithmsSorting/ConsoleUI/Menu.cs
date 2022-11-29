@@ -38,11 +38,11 @@ namespace AlgorithmsSorting.ConsoleUI
         }
     }
 
-    public class MenuApplicationTest : Menu
+    public class MenuApplicationTextSorting : Menu
     {
         public Action Action { get; }
 
-        public MenuApplicationTest(string name, Action action) : base(name)
+        public MenuApplicationTextSorting(string name, Action action) : base(name)
         {
             Action = action;
         }

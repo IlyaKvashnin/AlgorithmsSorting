@@ -1,5 +1,6 @@
 ﻿using AlgorithmsSorting.ConsoleUI;
 using AlgorithmsSorting.ExternalSortingAlgorithms;
+using AlgorithmsSorting.TextSorting;
 using System;
 using System.Diagnostics;
 
