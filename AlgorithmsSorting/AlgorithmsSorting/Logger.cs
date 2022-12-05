@@ -10,6 +10,13 @@ namespace AlgorithmsSorting
     {
         public List<Record> Logs = new List<Record>();
 
+        public void AddLog(Record record, int timeout)
+        {
+            Logs.Add(record);
+            Console.WriteLine(record.toString());
+            Thread.Sleep(timeout);
+        }
+
         public void PrintLogs()
         {
             string inputChar;

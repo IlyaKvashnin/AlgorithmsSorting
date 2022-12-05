@@ -3,12 +3,12 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Threading;
 
 public class Sorts
 {
         private int[] array { get; set; }
-        public List<string> logs;
-        public int delay { get; set; }
+        public Logger logger = new Logger();
         private List<string> arrayChanges;
 
         public Sorts(int[] arr)
@@ -18,107 +18,98 @@ public class Sorts
             arrayChanges.Add(GetArray(arr));
         }
 
-        public int[] Bubblesort()
-        {
-            logs = new List<string>();
-            
+        public int[] BubbleSort(int timeout)
+        {   
             int[] temp = new int[array.Length];
             Array.Copy(array, temp, array.Length);
 
             for (int i = 0; i < temp.Length; i++)
             {
-                //logs.Add(i + " - i");
                 for (int j = i + 1; j < temp.Length; j++)
                 {
                     //logs.Add(j + " - j");
-                    logs.Add($"Сравниваем элементы {temp[i]} и {temp[j]}");
+                    logger.AddLog(new Record("Compare",$"Сравниваем элементы {temp[i]} и {temp[j]}"),timeout);
 
                     if (temp[i] > temp[j])
-                        Swap(temp, i, j);
+                        Swap(temp, i, j,timeout);
                 }
             }
-
-            WriteData("bubbleSort.txt");
 
             return temp;
         }
 
-        public int[] Quicksort()
-        {
-            logs = new List<string>();
-
+        public int[] QuickSort(int timeout)
+        { 
             int[] temp = new int[array.Length];
             Array.Copy(array, temp, array.Length);
-            int[] result = Quicksorting(temp, 0, temp.Length - 1);
-
-            WriteData("quickSort.txt");
+            int[] result = Sort(temp, 0, temp.Length - 1, timeout);
 
             return result;
         }
 
-        private int[] Quicksorting(int[] arr, int left, int right)
+        private int[] Sort(int[] arr, int left, int right,int timeout)
         {
             if (left < right)
             {
-                logs.Add("Левый индекс меньше правого");
-                int pivot = Partition(arr, left, right);
+                logger.AddLog(new Record("Info", "Левый индекс меньше правого"), timeout);
+
+                int pivot = Partition(arr, left, right,timeout);
 
                 if (pivot > 1)
                 {
-                    logs.Add($"pivot > 1. Вызываем QuickSort({left}, {pivot - 1})");
-                    Quicksorting(arr, left, pivot - 1);
+                    logger.AddLog(new Record("Call", $"pivot > 1. Вызываем QuickSort({left}, {pivot - 1})"), timeout);
+                    Sort(arr, left, pivot - 1,timeout);
                 }
                 if (pivot + 1 < right)
                 {
-                    logs.Add($"pivot + 1 < правого индекса. Вызываем QuickSort({pivot + 1}, {right})");
-                    Quicksorting(arr, pivot + 1, right);
+                    logger.AddLog(new Record("Call", $"pivot + 1 < правого индекса. Вызываем QuickSort({pivot + 1}, {right})"), timeout);
+                    Sort(arr, pivot + 1, right,timeout);
                 }
             }
-            //logs.Add($"правый индекс больше левого. Возвращаем массив {GetArray(arr)}");
 
             return arr;
         }
 
-        private int Partition(int[] arr, int left, int right)
-        { 
-            logs.Add("\nВходим в блок partition");
-            logs.Add($"pivot = {arr[left]}");
+        private int Partition(int[] arr, int left, int right,int timeout)
+        {
+            logger.AddLog(new Record("Info", "\nВходим в блок partition"), timeout);
+            logger.AddLog(new Record("Info", $"pivot = {arr[left]}"), timeout);
+
             int pivot = arr[left];
             while (true)
             {
                 while (arr[left] < pivot)
                 {
-                    logs.Add($"{arr[left]} < {pivot}, поэтому смотрим следующий элеменет");
+                    logger.AddLog(new Record("Info", $"{arr[left]} < {pivot}, поэтому смотрим следующий элеменет"), timeout);
                     left++;
                 }
 
                 while (arr[right] > pivot)
                 {
-                    logs.Add($"{arr[right]} > {pivot}, поэтому смотрим предыдущий элеменет");
+                    logger.AddLog(new Record("Info", $"{arr[right]} > {pivot}, поэтому смотрим предыдущий элеменет"), timeout);
                     right--;
                 }
 
                 if (left < right)
                 {
-                    logs.Add("Левый индекс меньше правого");
+                    logger.AddLog(new Record("Info", "Левый индекс меньше правого"), timeout);
                     if (arr[left] == arr[right]) return right;
 
-                    Swap(arr, left, right);
+                    Swap(arr, left, right,timeout);
                 }
                 else
-                {
-                    logs.Add("Правый индекс меньше левого. Возвращаем правый индекс");
-                    logs.Add("Выходим из блока partition\n");
-                    logs.Add(" ");
+                { 
+                    logger.AddLog(new Record("Info", "Правый индекс меньше левого. Возвращаем правый индекс"), timeout);
+                    logger.AddLog(new Record("Info", "Выходим из блока partition\n"), timeout);
                     return right;
                 }
             }
         }
 
-        public void Swap(int[] array, int i, int j)
+        public void Swap(int[] array, int i, int j,int timeout)
         {
-            logs.Add($"Меняем местами элементы {array[i]} и {array[j]} с индексами {i} и {j} : " +
-                $"{GetArray(array)}");
+            logger.AddLog(new Record("Info", $"Меняем местами элементы {array[i]} и {array[j]} с индексами {i} и {j}. \n" +
+                $"Array :{GetArray(array)}"), timeout);
 
             var temp = array[i];
             array[i] = array[j];
@@ -136,20 +127,5 @@ public class Sorts
             }
             res.Append(arr[arr.Length - 1]);
             return res.ToString();
-        }
-
-        private void WriteData(string path)
-        {
-            File.Delete(path);
-            using StreamWriter sw = new StreamWriter(path, true);
-            foreach (var line in logs)
-            {
-                sw.WriteLine(line);
-            }
-            sw.WriteLine();
-            foreach (var line in arrayChanges)
-            {
-                sw.WriteLine(line);
-            }
         }
 }

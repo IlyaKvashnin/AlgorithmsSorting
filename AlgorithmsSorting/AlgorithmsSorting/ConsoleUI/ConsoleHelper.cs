@@ -31,7 +31,7 @@ namespace AlgorithmsSorting.ConsoleUI
             System.Console.SetCursorPosition(0, 0);
         }
 
-        public static int ReadNumber()
+        public static int ReadNumberOfLength()
         {
             Console.WriteLine("Введите числом количество слов для сортировки");
             string input = Console.ReadLine();
@@ -44,7 +44,7 @@ namespace AlgorithmsSorting.ConsoleUI
             }
             else
             {
-                return ReadNumber();
+                return ReadNumberOfLength();
             }
         }
         public static int ReadColumnNumber()
@@ -60,7 +60,7 @@ namespace AlgorithmsSorting.ConsoleUI
             }
             else
             {
-                return ReadNumber();
+                return ReadNumberOfLength();
             }
         }
         public static ColumnType ReadColumnType()
@@ -90,13 +90,13 @@ namespace AlgorithmsSorting.ConsoleUI
             }
             else
             {
-                return ReadNumber();
+                return ReadNumberOfLength();
             }
         }
 
         public static int ReadNumberTime()
         {
-            Console.WriteLine("Введите числом период отображения записей");
+            Console.WriteLine("Введите число, которое будет соответствовать задержки в милисекундах между шагами сортировки.");
             string input = Console.ReadLine();
             int number;
 
@@ -113,8 +113,11 @@ namespace AlgorithmsSorting.ConsoleUI
 
         public static void PrintNumberElements(string[] array)
         {
+            Console.WriteLine();
             Console.WriteLine("Количество повторений для каждого слова в тексте." , Console.BackgroundColor = ConsoleColor.DarkRed);
             Console.BackgroundColor = ConsoleColor.Black;
+            Console.WriteLine();
+
             Dictionary<string,int> dict = new Dictionary<string,int>();
 
             foreach (var item in array)

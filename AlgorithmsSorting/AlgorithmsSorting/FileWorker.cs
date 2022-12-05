@@ -12,6 +12,8 @@ namespace AlgorithmsSorting
         public const string PathToFile = "../../../TextSorting/test.txt";
         public const string PathToLogsRadix = "../../../TextSorting/log_radix.txt";
         public const string PathToLogsSelection = "../../../TextSorting/log_selection.txt";
+        public const string PathToLogsBubble = "../../../InternalSorting/log_bubble.txt";
+        public const string PathToLogsQuick = "../../../InternalSorting/log_quick.txt";
         public string[] ReadFile(string path)
         {
             string text = File.ReadAllText(path);
@@ -41,18 +43,6 @@ namespace AlgorithmsSorting
                 strings.Add(item.toString());
             }
             strings.ForEach(s => sw.WriteLine(s));
-
-            //var list = new List<string>();
-            //foreach (var item in array)
-            //{
-            //    if (!list.Contains(item))
-            //    {
-            //        list.Add(item);
-            //    }
-            //}
-            //sw.WriteLine("Количество уникальных слов: " + list.Count());
-            //Console.WriteLine("Количество уникальных слов: " + list.Count());
-
         }
     }
 }

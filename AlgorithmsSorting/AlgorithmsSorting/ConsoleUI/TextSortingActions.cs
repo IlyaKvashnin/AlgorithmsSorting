@@ -32,7 +32,8 @@ namespace AlgorithmsSorting.ConsoleUI
             SelectionSort selectionSort = new SelectionSort();
             StringsGenerator stringsGenerator = new StringsGenerator();
 
-            int length = ConsoleHelper.ReadNumber();
+            int length = ConsoleHelper.ReadNumberOfLength();
+            Console.WriteLine();
             StringBuilder data = stringsGenerator.GenerateData(length);
             fileWorker.WriteFile(FileWorker.PathToFile, data);
 
@@ -41,14 +42,19 @@ namespace AlgorithmsSorting.ConsoleUI
             int n = arr.Count();
             Console.WriteLine("Массив в файле до изменений: ");
             arr.Print();
-            selectionSort.Sort(arr);
-            selectionSort.logger.PrintLogs();
             Console.WriteLine();
+            int time = ConsoleHelper.ReadNumberTime();
+            Console.WriteLine();
+
+            selectionSort.Sort(arr,time);
+
+
             ConsoleHelper.PrintNumberElements(arr);
             Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
             Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine();
             arr.Print();
+
             fileWorker.WriteLogs(FileWorker.PathToLogsSelection, selectionSort.logger.Logs);
             selectionSort.logger.Logs.Clear();
 
@@ -56,31 +62,36 @@ namespace AlgorithmsSorting.ConsoleUI
 
         public static void PrintRadixSort()
         {
-
             ConsoleHelper.CleanScreen();
             FileWorker fileWorker = new FileWorker();
             RadixSort radixSort = new RadixSort();
             StringsGenerator stringsGenerator = new StringsGenerator();
 
-            int length = ConsoleHelper.ReadNumber();
+            int length = ConsoleHelper.ReadNumberOfLength();
+            Console.WriteLine();
             StringBuilder data = stringsGenerator.GenerateData(length);
             fileWorker.WriteFile(FileWorker.PathToFile, data);
 
             var arr = fileWorker.ReadFile(FileWorker.PathToFile);
-            
+
             int n = arr.Count();
             Console.WriteLine("Массив в файле до изменений: ");
             arr.Print();
-            radixSort.MSD_sort(arr, 0, n - 1, 0);
-            radixSort.logger.PrintLogs();
             Console.WriteLine();
+            int time = ConsoleHelper.ReadNumberTime();
+            Console.WriteLine();
+
+            radixSort.MSD_sort(arr, 0, n - 1, 0,time);
+
             ConsoleHelper.PrintNumberElements(arr);
             Console.WriteLine("\nМассив после сортировки: ", Console.BackgroundColor = ConsoleColor.DarkGreen);
             Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine();
             arr.Print();
+
             fileWorker.WriteLogs(FileWorker.PathToLogsRadix, radixSort.logger.Logs);
             radixSort.logger.Logs.Clear();
+
         }
     }
 }

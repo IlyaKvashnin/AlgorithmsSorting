@@ -1,17 +1,17 @@
-[Compare] Сравниваем seoidgbsrmpsi и getyrumhoqelc
-[Compare] Сравниваем gfnjaobpnx и getyrumhoqelc
-[Compare] Сравниваем flqtsjmzs и getyrumhoqelc
-[Info] flqtsjmzs по алфавиту находится раньше чем getyrumhoqelc
-[Compare] Сравниваем oclbmra и flqtsjmzs
-[Swap] Меняем местами getyrumhoqelc и flqtsjmzs
-[Compare] Сравниваем gfnjaobpnx и seoidgbsrmpsi
-[Info] gfnjaobpnx по алфавиту находится раньше чем seoidgbsrmpsi
-[Compare] Сравниваем getyrumhoqelc и gfnjaobpnx
-[Info] getyrumhoqelc по алфавиту находится раньше чем gfnjaobpnx
-[Compare] Сравниваем oclbmra и getyrumhoqelc
-[Swap] Меняем местами seoidgbsrmpsi и getyrumhoqelc
-[Compare] Сравниваем seoidgbsrmpsi и gfnjaobpnx
-[Compare] Сравниваем oclbmra и gfnjaobpnx
-[Swap] Меняем местами gfnjaobpnx и gfnjaobpnx
-[Compare] Сравниваем oclbmra и seoidgbsrmpsi
-[Info] oclbmra по алфавиту находится раньше чем seoidgbsrmpsi
+[Compare] Сравниваем aw и jdelq
+[Info] aw по алфавиту находится раньше чем jdelq
+[Compare] Сравниваем edl и aw
+[Compare] Сравниваем mtbemlgkhczj и aw
+[Compare] Сравниваем fzjwbq и aw
+[Swap] Меняем местами jdelq и aw
+[Compare] Сравниваем edl и jdelq
+[Info] edl по алфавиту находится раньше чем jdelq
+[Compare] Сравниваем mtbemlgkhczj и edl
+[Compare] Сравниваем fzjwbq и edl
+[Swap] Меняем местами jdelq и edl
+[Compare] Сравниваем mtbemlgkhczj и jdelq
+[Compare] Сравниваем fzjwbq и jdelq
+[Info] fzjwbq по алфавиту находится раньше чем jdelq
+[Swap] Меняем местами jdelq и fzjwbq
+[Compare] Сравниваем jdelq и mtbemlgkhczj
+[Info] jdelq по алфавиту находится раньше чем mtbemlgkhczj
