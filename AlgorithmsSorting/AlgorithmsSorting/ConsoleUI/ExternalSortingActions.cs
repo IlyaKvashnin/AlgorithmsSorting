@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AlgorithmsSorting.TextSorting;
 
 namespace AlgorithmsSorting.ConsoleUI
 {
@@ -33,6 +34,7 @@ namespace AlgorithmsSorting.ConsoleUI
         }
         public static void PrintDirectMergeSort()
         {
+            FileWorker fileWorker = new FileWorker();
             ConsoleHelper.CleanScreen();
             var columnNumber = ConsoleHelper.ReadColumnNumber();
             ConsoleHelper.CleanScreen();
@@ -42,15 +44,19 @@ namespace AlgorithmsSorting.ConsoleUI
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            DirectMergeSort dm = new DirectMergeSort(filename, columnNumber, type);
+            int time = ConsoleHelper.ReadNumberTime();
+            DirectMergeSort dm = new DirectMergeSort(filename, columnNumber, type, time);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData(filename);
             sw.Stop();
             Console.WriteLine($"Elapsed: {(double)sw.ElapsedMilliseconds / 1000} seconds");
+            fileWorker.WriteLogs(FileWorker.PathToLogsDirectMerge, dm.logger.Logs);
+            dm.logger.Logs.Clear();
         }
         public static void PrintNaturalMergeSort()
         {
+            FileWorker fileWorker = new FileWorker();
             ConsoleHelper.CleanScreen();
             var columnNumber = ConsoleHelper.ReadColumnNumber();
             ConsoleHelper.CleanScreen();
@@ -60,15 +66,19 @@ namespace AlgorithmsSorting.ConsoleUI
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            NaturalMergeSort dm = new NaturalMergeSort(filename, columnNumber, type);
+            int time = ConsoleHelper.ReadNumberTime();
+            NaturalMergeSort dm = new NaturalMergeSort(filename, columnNumber, type, time);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData("result.txt");
             sw.Stop();
             Console.WriteLine($"Elapsed: {(double)sw.ElapsedMilliseconds / 1000} seconds");
+            fileWorker.WriteLogs(FileWorker.PathToLogsNaturalMerge, dm.logger.Logs);
+            dm.logger.Logs.Clear();
         }
         public static void PrintMultipathMergeSort()
         {
+            FileWorker fileWorker = new FileWorker();
             ConsoleHelper.CleanScreen();
             var maxWays = ConsoleHelper.ReadMaxWaysNumber();
             ConsoleHelper.CleanScreen();
@@ -80,12 +90,15 @@ namespace AlgorithmsSorting.ConsoleUI
             string filename = "data.txt";
             Console.WriteLine("Before sort: ");
             OutputData(filename);
-            MultipathMergeSort dm = new MultipathMergeSort(filename, columnNumber, type, maxWays);
+            int time = ConsoleHelper.ReadNumberTime();
+            MultipathMergeSort dm = new MultipathMergeSort(filename, columnNumber, type, maxWays, time);
             dm.Sort();
             Console.WriteLine("After sort: ");
             OutputData("result.txt");
             sw.Stop();
             Console.WriteLine($"Elapsed: {(double)sw.ElapsedMilliseconds / 1000} seconds");
+            fileWorker.WriteLogs(FileWorker.PathToLogsMultipathMerge, dm.logger.Logs);
+            dm.logger.Logs.Clear();
         }
 
     }

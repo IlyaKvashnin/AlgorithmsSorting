@@ -9,29 +9,33 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
 {
     public class DirectMergeSort
     {
+        private int _timeout = 0;
+        public Logger logger = new Logger();
         public string FileInput { get; set; }
         private int _columnNumber = 0;
         private ColumnType _columnType = ColumnType.str;
         private long iterations, segments;
 
-        public DirectMergeSort(string filename)
+        public DirectMergeSort(string filename, int timeout)
         {
             FileInput = filename;
             iterations = 1; // степень двойки, количество элементов в каждой последовательности
+            _timeout = timeout;
         }
-        public DirectMergeSort(string filename, int columnNumber, ColumnType type)
+        public DirectMergeSort(string filename, int columnNumber, ColumnType type, int timeout)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
             _columnType = type;
             iterations = 1;
-
+            _timeout = timeout;
         }
-        public DirectMergeSort(string filename, int columnNumber)
+        public DirectMergeSort(string filename, int columnNumber, int timeout)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
             iterations = 1;
+            _timeout = timeout;
         }
 
         public void Sort()
@@ -92,12 +96,12 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     if (flag)
                     {
                         writerA.WriteLine(element);
-                        Console.WriteLine($"Считываем элемент {element} с файла \"{FileInput}\" и записываем в файл a.txt.");
+                        logger.AddLog(new Record("Info", $"Считываем элемент {element} с файла \"{FileInput}\" и записываем в файл a.txt."), _timeout);
                     }
                     else
                     {
                         writerB.WriteLine(element);
-                        Console.WriteLine($"Считываем элемент {element} с файла \"{FileInput}\" и записываем в файл b.txt.");
+                        logger.AddLog(new Record("Info", $"Считываем элемент {element} с файла \"{FileInput}\" и записываем в файл b.txt."), _timeout);
                     }
                     counter++;
                 }
@@ -118,11 +122,11 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             {
                 if (counterA == 0 && counterB != 0)
                 {
-                    Console.WriteLine($"Серия a закончилась, дописываем {counterB} элементов серии b.");
+                    logger.AddLog(new Record("Write", $"Серия a закончилась, дописываем {counterB} элементов серии b."), _timeout);
                 }
                 if (counterB == 0 && counterA != 0)
                 {
-                    Console.WriteLine($"Серия b закончилась, дописываем {counterA} элементов серии a.");
+                    logger.AddLog(new Record("Write", $"Серия b закончилась, дописываем {counterA} элементов серии a."), _timeout);
                 }
                 if (counterA == 0 && counterB == 0)
                 {
@@ -136,7 +140,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     {
                         strA = readerA.ReadLine();
                         elementA = int.Parse(strA.Split(";")[_columnNumber]);
-                        Console.WriteLine($"Считываем элемент {elementA} с файла \"a.txt\".");
+                        logger.AddLog(new Record("Read", $"Считываем элемент {elementA} с файла \"a.txt\"."), _timeout);
                         pickedA = true;
                     }
                 }
@@ -147,7 +151,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     {
                         strB = readerB.ReadLine();
                         elementB = int.Parse(strB.Split(";")[_columnNumber]);
-                        Console.WriteLine($"Считываем элемент {elementB} с файла \"b.txt\".");
+                        logger.AddLog(new Record("Read", $"Считываем элемент {elementB} с файла \"b.txt\"."), _timeout);
                         pickedB = true;
                     }
                 }
@@ -158,14 +162,14 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     {
                         if (elementA < elementB)
                         {
-                            Console.WriteLine($"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\".");
+                            logger.AddLog(new Record("Write", $"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\"."), _timeout);
                             sr.WriteLine(strA);
                             counterA--;
                             pickedA = false;
                         }
                         else
                         {
-                            Console.WriteLine($"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\".");
+                            logger.AddLog(new Record("Write", $"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\"."), _timeout);
                             sr.WriteLine(strB);
                             counterB--;
                             pickedB = false;
@@ -173,7 +177,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     }
                     else
                     {
-                        Console.WriteLine($"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\".");
+                        logger.AddLog(new Record("Write", $"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\"."), _timeout);
                         sr.WriteLine(strA);
                         counterA--;
                         pickedA = false;
@@ -181,7 +185,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 }
                 else if (pickedB)
                 {
-                    Console.WriteLine($"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\".");
+                    logger.AddLog(new Record("Write", $"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\"."), _timeout);
                     sr.WriteLine(strB);
                     counterB--;
                     pickedB = false;
@@ -192,7 +196,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             readerB.Close();
             iterations *= 2;
             Console.WriteLine();
-            Console.WriteLine($"Увеличиваем размер серии в 2 раза(теперь она равна {iterations}).");
+            logger.AddLog(new Record("Info", $"Увеличиваем размер серии в 2 раза(теперь она равна {iterations})."), _timeout);
             Console.WriteLine();
 
 
@@ -212,11 +216,11 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 {
                     if (counterA == 0 && counterB != 0)
                     {
-                        Console.WriteLine($"Серия a закончилась, дописываем {counterB} элементов серии b.");
+                        logger.AddLog(new Record("Write", $"Серия a закончилась, дописываем {counterB} элементов серии b."), _timeout);
                     }
                     if (counterB == 0 && counterA != 0)
                     {
-                        Console.WriteLine($"Серия b закончилась, дописываем {counterA} элементов серии a.");
+                        logger.AddLog(new Record("Write", $"Серия b закончилась, дописываем {counterA} элементов серии a."), _timeout);
                     }
                     if (counterA == 0 && counterB == 0)
                     {
@@ -230,7 +234,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         {
                             strA = readerA.ReadLine();
                             elementA = strA.Split(";")[_columnNumber];
-                            Console.WriteLine($"Считываем элемент {elementA} с файла \"a.txt\".");
+                            logger.AddLog(new Record("Read", $"Считываем элемент {elementA} с файла \"a.txt\"."), _timeout);
                             pickedA = true;
                         }
                     }
@@ -241,7 +245,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         {
                             strB = readerB.ReadLine();
                             elementB = strB.Split(";")[_columnNumber];
-                            Console.WriteLine($"Считываем элемент {elementB} с файла \"b.txt\".");
+                            logger.AddLog(new Record("Read", $"Считываем элемент {elementB} с файла \"b.txt\"."), _timeout);
                             pickedB = true;
                         }
                     }
@@ -252,14 +256,14 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         {
                             if (String.CompareOrdinal(elementA, elementB) < 0)
                             {
-                                Console.WriteLine($"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\".");
+                                logger.AddLog(new Record("Write", $"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\"."), _timeout);
                                 sr.WriteLine(strA);
                                 counterA--;
                                 pickedA = false;
                             }
                             else
                             {
-                                Console.WriteLine($"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\".");
+                                logger.AddLog(new Record("Write", $"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\"."), _timeout);
                                 sr.WriteLine(strB);
                                 counterB--;
                                 pickedB = false;
@@ -267,7 +271,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         }
                         else
                         {
-                            Console.WriteLine($"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\".");
+                            logger.AddLog(new Record("Write", $"Добавляем {elementA} из файла \"a.txt\" в файл \"{FileInput}\"."), _timeout);
                             sr.WriteLine(strA);
                             counterA--;
                             pickedA = false;
@@ -275,7 +279,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                     }
                     else if (pickedB)
                     {
-                        Console.WriteLine($"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\".");
+                        logger.AddLog(new Record("Write", $"Добавляем {elementB} из файла \"b.txt\" в файл \"{FileInput}\"."), _timeout);
                         sr.WriteLine(strB);
                         counterB--;
                         pickedB = false;
@@ -283,7 +287,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 }
                 iterations *= 2;
                 Console.WriteLine();
-                Console.WriteLine($"Увеличиваем размер серии в 2 раза (теперь она равна {iterations}).");
+                logger.AddLog(new Record("Info", $"Увеличиваем размер серии в 2 раза (теперь она равна {iterations})."), _timeout);
                 Console.WriteLine();
             }
 

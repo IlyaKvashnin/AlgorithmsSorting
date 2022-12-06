@@ -14,6 +14,9 @@ namespace AlgorithmsSorting
         public const string PathToLogsSelection = "../../../TextSorting/log_selection.txt";
         public const string PathToLogsBubble = "../../../InternalSorting/log_bubble.txt";
         public const string PathToLogsQuick = "../../../InternalSorting/log_quick.txt";
+        public const string PathToLogsNaturalMerge = "../../../ExternalSorting/log_natural.txt";
+        public const string PathToLogsDirectMerge = "../../../ExternalSorting/log_direct.txt";
+        public const string PathToLogsMultipathMerge = "../../../ExternalSorting/log_multipath.txt";
         public string[] ReadFile(string path)
         {
             string text = File.ReadAllText(path);

@@ -4,17 +4,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace AlgorithmsSorting.ExternalSortingAlgorithms
 {
     public class MultipathMergeSort
     {
+        private int _timeout = 0;
+        public Logger logger = new Logger();
         private int _columnNumber = 0;
         private ColumnType _columnType = ColumnType.str;
         string FileInput = "data.txt";
         int maxWays = 3;
         LineComparer _lineComparer;
-        public MultipathMergeSort(string filename, int columnNumber, ColumnType type, int maxWays)
+        public MultipathMergeSort(string filename, int columnNumber, ColumnType type, int maxWays, int time)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
@@ -22,21 +25,24 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             _lineComparer = new(_columnNumber, _columnType);
             this.maxWays = maxWays;
             this.SplitToFiles();
+            _timeout = time;
         }
-        public MultipathMergeSort(string filename, int columnNumber, ColumnType type)
+        public MultipathMergeSort(string filename, int columnNumber, ColumnType type, int time)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
             _columnType = type;
             _lineComparer = new(_columnNumber, _columnType);
             this.SplitToFiles();
+            _timeout = time;
         }
-        public MultipathMergeSort(string filename, int columnNumber)
+        public MultipathMergeSort(string filename, int columnNumber, int time)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
             _lineComparer = new(_columnNumber, _columnType);
             this.SplitToFiles();
+            _timeout= time;
         }
         public void Sort()
         {
@@ -52,7 +58,6 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
             string str1;
             string str2;
             string? readenString;
-            //Console.WriteLine("\n Считываем по элементу из каждого входного файла");
             for (int i = 0; i < maxWays; i++)
             {
                 inputFiles.Add(new StreamReader($"f{i}.txt"));
@@ -60,7 +65,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 isInputValid.Add(true);
                 isFileReadable.Add(true);
                 var temp = inputFiles[i].ReadLine();
-                
+                logger.AddLog(new Record("Read", $"Считываем элемент {temp} из файла f{i}"), _timeout);
                 if (temp != null)
                 {
                     currElements.Add(temp);
@@ -82,11 +87,10 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         int minElemIndex = IndexOfMin(currElements, isInputValid);
                         
                         outputFiles[currentOutputFileId].WriteLine(currElements[minElemIndex]);
-                        //Console.WriteLine($"\n Записываем элемент {currElements[minElemIndex]} в файл f{currentOutputFileId + maxWays}");
-                        
+                        logger.AddLog(new Record("Write", $"Записываем элемент {currElements[minElemIndex]} в файл f{(!isOrderInversed?currentOutputFileId + maxWays : currentOutputFileId)}"), _timeout);
                         string? nextElem = inputFiles[minElemIndex].ReadLine();
-                        //Console.WriteLine($"\n Читаем элемент {nextElem} из файла f{minElemIndex}");
-
+                        logger.AddLog(new Record("Read", $"Считываем элемент {nextElem} из файла f{(!isOrderInversed ? minElemIndex : minElemIndex + maxWays)}"), _timeout);
+                        
                         if (nextElem is null)
                         {
                             isFileReadable[minElemIndex] = false;
@@ -109,11 +113,11 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                         isInputValid[i] = isFileReadable[i];
                         numOfValidInputs += isInputValid[i] ? 1 : 0;
                     }
-                    //Console.WriteLine($"\n Меняем текущий выходной файл");
                     currentOutputFileId = currentOutputFileId >= maxWays - 1 ? 0 : currentOutputFileId + 1;
                 }
                 int numsOfNull = 0;
                 bool isEnd = false;
+                logger.AddLog(new Record("Info", $"Меняем входные и выходные файлы местами"), _timeout);
                 for (int i = 0; i < maxWays; i++)
                 {
                     inputFiles[i].Close();
@@ -121,13 +125,13 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
 
                     if (isOrderInversed)
                     {
-                        //Console.WriteLine($"\n Меняем f{i} и f{i+ maxWays} местами");
+                        
                         inputFiles[i] = new StreamReader($"f{i + maxWays}.txt");
                         outputFiles[i] = new StreamWriter($"f{i}.txt");
                     }
                     else
                     {
-                        //Console.WriteLine($"\n Меняем f{i+maxWays} и f{i} местами");
+                        
                         inputFiles[i] = new StreamReader($"f{i}.txt");
                         outputFiles[i] = new StreamWriter($"f{i + maxWays}.txt");
                     }
@@ -196,7 +200,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
 
         private void SplitToFiles()
         {
-            //Console.WriteLine($"\n Разделение на {maxWays} файла(ов)");
+            logger.AddLog(new Record("Info", $"Разделение на {maxWays} файла(ов)"), _timeout);
             var origFile = new StreamReader(File.OpenRead(FileInput));
             List<StreamWriter> files = new();
             for (int i = 0; i < maxWays; i++)

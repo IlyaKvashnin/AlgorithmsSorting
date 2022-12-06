@@ -1,0 +1,1940 @@
+[Info] Разделение на 4 файла(ов)
+[Info] Считываем элемент Nigeria;Africa;Abuja;923768;206139589 из файла f0
+[Info] Считываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 из файла f1
+[Info] Считываем элемент Egypt;Africa;Cairo;1001450;102334404 из файла f2
+[Info] Считываем элемент South Africa;Africa;Cape Town;1219090;59308690 из файла f3
+[Info] Записываем элемент Egypt;Africa;Cairo;1001450;102334404 в файл f4
+[Info] Считываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 из файла f2
+[Info] Записываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 в файл f4
+[Info] Считываем элемент Algeria;Africa;Algiers;2381741;43851044 из файла f1
+[Info] Записываем элемент South Africa;Africa;Cape Town;1219090;59308690 в файл f4
+[Info] Считываем элемент Kenya;Africa;Nairobi;580367;53771296 из файла f3
+[Info] Записываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 в файл f4
+[Info] Считываем элемент Sudan;Africa;Khartoum;1861484;43849260 из файла f2
+[Info] Записываем элемент Algeria;Africa;Algiers;2381741;43851044 в файл f4
+[Info] Считываем элемент Cameroon;Africa;Yaounde;475440;26545863 из файла f1
+[Info] Записываем элемент Cameroon;Africa;Yaounde;475440;26545863 в файл f4
+[Info] Считываем элемент Malawi;Africa;Lilongwe;118484;19129952 из файла f1
+[Info] Записываем элемент Kenya;Africa;Nairobi;580367;53771296 в файл f4
+[Info] Считываем элемент Angola;Africa;Luanda;1246700;32866272 из файла f3
+[Info] Записываем элемент Nigeria;Africa;Abuja;923768;206139589 в файл f4
+[Info] Считываем элемент Uganda;Africa;Kampala;241038;45741007 из файла f0
+[Info] Записываем элемент Malawi;Africa;Lilongwe;118484;19129952 в файл f5
+[Info] Считываем элемент Zambia;Africa;Lusaka;752618;18383955 из файла f1
+[Info] Записываем элемент Angola;Africa;Luanda;1246700;32866272 в файл f5
+[Info] Считываем элемент Mozambique;Africa;Maputo;799380;31255435 из файла f3
+[Info] Записываем элемент Sudan;Africa;Khartoum;1861484;43849260 в файл f5
+[Info] Считываем элемент Morocco;Africa;Rabat;446550;36910560 из файла f2
+[Info] Записываем элемент Uganda;Africa;Kampala;241038;45741007 в файл f5
+[Info] Считываем элемент Ghana;Africa;Accra;238533;31072940 из файла f0
+[Info] Записываем элемент Morocco;Africa;Rabat;446550;36910560 в файл f5
+[Info] Считываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 из файла f2
+[Info] Записываем элемент Zambia;Africa;Lusaka;752618;18383955 в файл f5
+[Info] Считываем элемент Guinea;Africa;Conakry;245857;13132795 из файла f1
+[Info] Записываем элемент Mozambique;Africa;Maputo;799380;31255435 в файл f5
+[Info] Считываем элемент Niger;Africa;Niamey;1186408;24206644 из файла f3
+[Info] Записываем элемент Niger;Africa;Niamey;1186408;24206644 в файл f6
+[Info] Считываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 из файла f3
+[Info] Записываем элемент Ghana;Africa;Accra;238533;31072940 в файл f6
+[Info] Считываем элемент Madagascar;Africa;Antananarivo;587041;27691018 из файла f0
+[Info] Записываем элемент Guinea;Africa;Conakry;245857;13132795 в файл f6
+[Info] Считываем элемент Rwanda;Africa;Kigali;26338;12952218 из файла f1
+[Info] Записываем элемент Rwanda;Africa;Kigali;26338;12952218 в файл f6
+[Info] Считываем элемент Libya;Africa;Tripoli;1759540;6871292 из файла f1
+[Info] Записываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 в файл f6
+[Info] Считываем элемент Chad;Africa;N'djamena;1284000;16425864 из файла f3
+[Info] Записываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 в файл f6
+[Info] Считываем элемент Senegal;Africa;Dakar;196722;16743927 из файла f2
+[Info] Записываем элемент Madagascar;Africa;Antananarivo;587041;27691018 в файл f6
+[Info] Считываем элемент Mali;Africa;Bamako;1240192;20250833 из файла f0
+[Info] Записываем элемент Mali;Africa;Bamako;1240192;20250833 в файл f7
+[Info] Считываем элемент Zimbabwe;Africa;Harare;390757;14862924 из файла f0
+[Info] Записываем элемент Chad;Africa;N'djamena;1284000;16425864 в файл f7
+[Info] Считываем элемент Somalia;Africa;Mogadishu;637657;15893222 из файла f3
+[Info] Записываем элемент Libya;Africa;Tripoli;1759540;6871292 в файл f7
+[Info] Считываем элемент Congo;Africa;Brazzaville;342000;5518087 из файла f1
+[Info] Записываем элемент Senegal;Africa;Dakar;196722;16743927 в файл f7
+[Info] Считываем элемент Benin;Africa;Porto-Novo;112622;12123200 из файла f2
+[Info] Записываем элемент Congo;Africa;Brazzaville;342000;5518087 в файл f7
+[Info] Считываем элемент Gabon;Africa;Libreville;267667;2225734 из файла f1
+[Info] Записываем элемент Zimbabwe;Africa;Harare;390757;14862924 в файл f7
+[Info] Считываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 из файла f0
+[Info] Записываем элемент Somalia;Africa;Mogadishu;637657;15893222 в файл f7
+[Info] Считываем элемент Tunisia;Africa;Tunis;163610;11818619 из файла f3
+[Info] Записываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 в файл f4
+[Info] Считываем элемент Togo;Africa;Lome;56785;8278724 из файла f0
+[Info] Записываем элемент Benin;Africa;Porto-Novo;112622;12123200 в файл f4
+[Info] Считываем элемент Burundi;Africa;Bujumbura;27830;11890784 из файла f2
+[Info] Записываем элемент Tunisia;Africa;Tunis;163610;11818619 в файл f4
+[Info] Считываем элемент South Sudan;Africa;Juba;644329;11193725 из файла f3
+[Info] Записываем элемент Gabon;Africa;Libreville;267667;2225734 в файл f4
+[Info] Считываем элемент Lesotho;Africa;Maseru;30355;2142249 из файла f1
+[Info] Записываем элемент Burundi;Africa;Bujumbura;27830;11890784 в файл f4
+[Info] Считываем элемент Liberia;Africa;Monrovia;111369;5057681 из файла f2
+[Info] Записываем элемент Lesotho;Africa;Maseru;30355;2142249 в файл f4
+[Info] Считываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 из файла f1
+[Info] Записываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 в файл f4
+[Info] Считываем элемент Tanzania;Africa;United Republic of;0;947300 из файла f1
+[Info] Записываем элемент Togo;Africa;Lome;56785;8278724 в файл f4
+[Info] Считываем элемент Sierra Leone;Africa;Freetown;71740;7976983 из файла f0
+[Info] Записываем элемент South Sudan;Africa;Juba;644329;11193725 в файл f4
+[Info] Считываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 из файла f3
+[Info] Записываем элемент Sierra Leone;Africa;Freetown;71740;7976983 в файл f4
+[Info] Считываем элемент Gambia;Africa;Banjul;11295;2416668 из файла f0
+[Info] Записываем элемент Tanzania;Africa;United Republic of;0;947300 в файл f5
+[Info] Считываем элемент Comoros;Africa;Moroni;2235;869601 из файла f1
+[Info] Записываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 в файл f5
+[Info] Считываем элемент Eritrea;Africa;Asmara;117600;3546421 из файла f3
+[Info] Записываем элемент Liberia;Africa;Monrovia;111369;5057681 в файл f5
+[Info] Считываем элемент Central African Republic;Africa;Bangui;622984;4829767 из файла f2
+[Info] Записываем элемент Gambia;Africa;Banjul;11295;2416668 в файл f5
+[Info] Считываем элемент Botswana;Africa;Gaborone;581730;2351627 из файла f0
+[Info] Записываем элемент Eritrea;Africa;Asmara;117600;3546421 в файл f5
+[Info] Считываем элемент Namibia;Africa;Windhoek;824292;2540905 из файла f3
+[Info] Записываем элемент Comoros;Africa;Moroni;2235;869601 в файл f5
+[Info] Считываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 из файла f1
+[Info] Записываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 в файл f5
+[Info] Считываем элемент Cabo Verde;Africa;Praia;4033;555987 из файла f1
+[Info] Записываем элемент Cabo Verde;Africa;Praia;4033;555987 в файл f5
+[Info] Считываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 из файла f1
+[Info] Записываем элемент Botswana;Africa;Gaborone;581730;2351627 в файл f5
+[Info] Считываем элемент Eswatini;Africa;Mbabane;17364;1160164 из файла f0
+[Info] Записываем элемент Central African Republic;Africa;Bangui;622984;4829767 в файл f5
+[Info] Считываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 из файла f2
+[Info] Записываем элемент Namibia;Africa;Windhoek;824292;2540905 в файл f5
+[Info] Считываем элемент Mauritius;Africa;Port Louis;2040;1271768 из файла f3
+[Info] Записываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 в файл f5
+[Info] Считываем элемент Fiji;Australia;Suva;18274;896445 из файла f1
+[Info] Записываем элемент Eswatini;Africa;Mbabane;17364;1160164 в файл f6
+[Info] Считываем элемент Djibouti;Africa;Djibouti;23200;988000 из файла f0
+[Info] Записываем элемент Fiji;Australia;Suva;18274;896445 в файл f6
+[Info] Считываем элемент Solomon Islands;Australia;Honiara;28896;686884 из файла f1
+[Info] Записываем элемент Mauritius;Africa;Port Louis;2040;1271768 в файл f6
+[Info] Считываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 из файла f3
+[Info] Записываем элемент Djibouti;Africa;Djibouti;23200;988000 в файл f6
+[Info] Считываем элемент New Zealand;Australia;Wellington;267710;4822233 из файла f0
+[Info] Записываем элемент New Zealand;Australia;Wellington;267710;4822233 в файл f6
+[Info] Считываем элемент India;Eurasia;New Delhi;3287263;1380004385 из файла f0
+[Info] Записываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 в файл f6
+[Info] Считываем элемент Seychelles;Africa;Victoria;455;98347 из файла f2
+[Info] Записываем элемент Solomon Islands;Australia;Honiara;28896;686884 в файл f6
+[Info] Считываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 из файла f1
+[Info] Записываем элемент India;Eurasia;New Delhi;3287263;1380004385 в файл f6
+[Info] Считываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 из файла f0
+[Info] Записываем элемент Seychelles;Africa;Victoria;455;98347 в файл f6
+[Info] Считываем элемент Australia;Australia;Canberra;7741220;25499884 из файла f2
+[Info] Записываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 в файл f6
+[Info] Считываем элемент Tonga;Australia;Nuku'alofa;747;105695 из файла f3
+[Info] Записываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 в файл f6
+[Info] Считываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 из файла f1
+[Info] Записываем элемент Tonga;Australia;Nuku'alofa;747;105695 в файл f6
+[Info] Считываем элемент China;Eurasia;Beijing;9596961;1439323776 из файла f3
+[Info] Записываем элемент Australia;Australia;Canberra;7741220;25499884 в файл f6
+[Info] Считываем элемент Samoa;Australia;Apia;2831;198414 из файла f2
+[Info] Записываем элемент China;Eurasia;Beijing;9596961;1439323776 в файл f6
+[Info] Считываем элемент Philippines;Eurasia;Manila;300000;109581078 из файла f3
+[Info] Записываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 в файл f7
+[Info] Считываем элемент Germany;Eurasia;Berlin;357022;83783942 из файла f0
+[Info] Записываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 в файл f7
+[Info] Считываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 из файла f1
+[Info] Записываем элемент Samoa;Australia;Apia;2831;198414 в файл f7
+[Info] Считываем элемент Guam;Australia;Hagatna;544;168775 из файла f2
+[Info] Записываем элемент Philippines;Eurasia;Manila;300000;109581078 в файл f7
+[Info] Считываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 из файла f3
+[Info] Записываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 в файл f7
+[Info] Считываем элемент Turkey;Eurasia;Ankara;783562;84339067 из файла f3
+[Info] Записываем элемент Germany;Eurasia;Berlin;357022;83783942 в файл f7
+[Info] Считываем элемент Thailand;Eurasia;Bangkok;513120;69799978 из файла f0
+[Info] Записываем элемент Thailand;Eurasia;Bangkok;513120;69799978 в файл f7
+[Info] Считываем элемент Iraq;Eurasia;Baghdad;438317;40222493 из файла f0
+[Info] Записываем элемент Guam;Australia;Hagatna;544;168775 в файл f7
+[Info] Считываем элемент Kiribati;Australia;Tarawa;811;119449 из файла f2
+[Info] Записываем элемент Turkey;Eurasia;Ankara;783562;84339067 в файл f7
+[Info] Считываем элемент Spain;Eurasia;Madrid;505370;46754778 из файла f3
+[Info] Записываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 в файл f7
+[Info] Считываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 из файла f1
+[Info] Записываем элемент Kiribati;Australia;Tarawa;811;119449 в файл f7
+[Info] Считываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 из файла f2
+[Info] Записываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 в файл f4
+[Info] Считываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 из файла f2
+[Info] Записываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 в файл f4
+[Info] Считываем элемент Japan;Eurasia;Tokyo;377915;126476461 из файла f2
+[Info] Записываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 в файл f4
+[Info] Считываем элемент France;Eurasia;Paris;643801;65273511 из файла f1
+[Info] Записываем элемент Japan;Eurasia;Tokyo;377915;126476461 в файл f4
+[Info] Считываем элемент Italy;Eurasia;Roma;301340;60461826 из файла f2
+[Info] Записываем элемент Iraq;Eurasia;Baghdad;438317;40222493 в файл f4
+[Info] Считываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 из файла f0
+[Info] Записываем элемент Spain;Eurasia;Madrid;505370;46754778 в файл f4
+[Info] Считываем элемент Ukraine;Eurasia;Kiev;603550;43733762 из файла f3
+[Info] Записываем элемент Ukraine;Eurasia;Kiev;603550;43733762 в файл f4
+[Info] Считываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 из файла f3
+[Info] Записываем элемент France;Eurasia;Paris;643801;65273511 в файл f4
+[Info] Считываем элемент Poland;Eurasia;Warsaw;312685;37846611 из файла f1
+[Info] Записываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 в файл f4
+[Info] Считываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 из файла f0
+[Info] Записываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 в файл f5
+[Info] Считываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 из файла f0
+[Info] Записываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 в файл f5
+[Info] Считываем элемент Belgium;Eurasia;Brussels;30528;11589623 из файла f0
+[Info] Записываем элемент Italy;Eurasia;Roma;301340;60461826 в файл f5
+[Info] Считываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 из файла f2
+[Info] Записываем элемент Belgium;Eurasia;Brussels;30528;11589623 в файл f5
+[Info] Считываем элемент Czechia;Eurasia;Prague;78867;10708981 из файла f0
+[Info] Записываем элемент Poland;Eurasia;Warsaw;312685;37846611 в файл f5
+[Info] Считываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 из файла f1
+[Info] Записываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 в файл f5
+[Info] Считываем элемент Yemen;Eurasia;Sanaa;527968;29825964 из файла f3
+[Info] Записываем элемент Yemen;Eurasia;Sanaa;527968;29825964 в файл f5
+[Info] Считываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 из файла f3
+[Info] Записываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 в файл f5
+[Info] Считываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 из файла f2
+[Info] Записываем элемент Czechia;Eurasia;Prague;78867;10708981 в файл f5
+[Info] Считываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 из файла f0
+[Info] Записываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 в файл f5
+[Info] Считываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 из файла f2
+[Info] Записываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 в файл f6
+[Info] Считываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 из файла f1
+[Info] Записываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 в файл f6
+[Info] Считываем элемент Belarus;Eurasia;Minsk;207600;9449323 из файла f0
+[Info] Записываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 в файл f6
+[Info] Считываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 из файла f3
+[Info] Записываем элемент Belarus;Eurasia;Minsk;207600;9449323 в файл f6
+[Info] Считываем элемент Austria;Eurasia;Vienna;83871;9006398 из файла f0
+[Info] Записываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 в файл f6
+[Info] Считываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 из файла f2
+[Info] Записываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 в файл f6
+[Info] Считываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 из файла f1
+[Info] Записываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 в файл f6
+[Info] Считываем элемент Sweden;Eurasia;Stockholm;450295;10099265 из файла f3
+[Info] Записываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 в файл f6
+[Info] Считываем элемент Romania;Eurasia;Bucharest;238391;19237691 из файла f2
+[Info] Записываем элемент Sweden;Eurasia;Stockholm;450295;10099265 в файл f6
+[Info] Считываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 из файла f3
+[Info] Записываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 в файл f6
+[Info] Считываем элемент Greece;Eurasia;Athens;131957;10423054 из файла f1
+[Info] Записываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 в файл f6
+[Info] Считываем элемент Hungary;Eurasia;Budapest;93028;9660351 из файла f3
+[Info] Записываем элемент Austria;Eurasia;Vienna;83871;9006398 в файл f6
+[Info] Считываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 из файла f0
+[Info] Записываем элемент Hungary;Eurasia;Budapest;93028;9660351 в файл f6
+[Info] Считываем элемент Hong Kong;Eurasia;-;1104;7496981 из файла f3
+[Info] Записываем элемент Hong Kong;Eurasia;-;1104;7496981 в файл f7
+[Info] Считываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 из файла f3
+[Info] Записываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 в файл f7
+[Info] Считываем элемент Norway;Eurasia;Oslo;323802;5421241 из файла f0
+[Info] Записываем элемент Greece;Eurasia;Athens;131957;10423054 в файл f7
+[Info] Считываем элемент Jordan;Eurasia;Amman;89342;10203134 из файла f1
+[Info] Записываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 в файл f7
+[Info] Считываем элемент Finland;Eurasia;Helsinki;338145;5540720 из файла f3
+[Info] Записываем элемент Romania;Eurasia;Bucharest;238391;19237691 в файл f7
+[Info] Считываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 из файла f2
+[Info] Записываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 в файл f7
+[Info] Считываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 из файла f2
+[Info] Записываем элемент Norway;Eurasia;Oslo;323802;5421241 в файл f7
+[Info] Считываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 из файла f0
+[Info] Записываем элемент Finland;Eurasia;Helsinki;338145;5540720 в файл f7
+[Info] Считываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 из файла f3
+[Info] Записываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 в файл f7
+[Info] Считываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 из файла f3
+[Info] Записываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 в файл f7
+[Info] Считываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 из файла f0
+[Info] Записываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 в файл f7
+[Info] Считываем элемент Israel;Eurasia;Jerusalem;20770;8655535 из файла f2
+[Info] Записываем элемент Jordan;Eurasia;Amman;89342;10203134 в файл f7
+[Info] Считываем элемент Portugal;Eurasia;Lisbon;92090;10196709 из файла f1
+[Info] Записываем элемент Portugal;Eurasia;Lisbon;92090;10196709 в файл f7
+[Info] Считываем элемент Serbia;Eurasia;Belgrade;77474;8737371 из файла f1
+[Info] Записываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 в файл f4
+[Info] Считываем элемент Latvia;Eurasia;Riga;64589;1886198 из файла f0
+[Info] Записываем элемент Israel;Eurasia;Jerusalem;20770;8655535 в файл f4
+[Info] Считываем элемент Switzerland;Eurasia;Bern;41277;8654622 из файла f2
+[Info] Записываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 в файл f4
+[Info] Считываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 из файла f3
+[Info] Записываем элемент Switzerland;Eurasia;Bern;41277;8654622 в файл f4
+[Info] Считываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 из файла f2
+[Info] Записываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 в файл f4
+[Info] Считываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 из файла f2
+[Info] Записываем элемент Latvia;Eurasia;Riga;64589;1886198 в файл f4
+[Info] Считываем элемент Bahrain;Eurasia;Manama;760;1701575 из файла f0
+[Info] Записываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 в файл f4
+[Info] Считываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 из файла f3
+[Info] Записываем элемент Bahrain;Eurasia;Manama;760;1701575 в файл f4
+[Info] Считываем элемент Macao;Eurasia;-;31;649335 из файла f0
+[Info] Записываем элемент Serbia;Eurasia;Belgrade;77474;8737371 в файл f4
+[Info] Считываем элемент Lebanon;Eurasia;Beirut;10400;6825445 из файла f1
+[Info] Записываем элемент Lebanon;Eurasia;Beirut;10400;6825445 в файл f5
+[Info] Считываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 из файла f1
+[Info] Записываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 в файл f5
+[Info] Считываем элемент Croatia;Eurasia;Zagreb;56594;4105267 из файла f2
+[Info] Записываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 в файл f5
+[Info] Считываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 из файла f1
+[Info] Записываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 в файл f5
+[Info] Считываем элемент Reunion;Eurasia;Saint-denis;2512;895312 из файла f3
+[Info] Записываем элемент Macao;Eurasia;-;31;649335 в файл f5
+[Info] Считываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 из файла f0
+[Info] Записываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 в файл f5
+[Info] Считываем элемент Canada;North America;Ottawa;9984670;37742154 из файла f0
+[Info] Записываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 в файл f5
+[Info] Считываем элемент Singapore;Eurasia;Singapore;697;5850342 из файла f1
+[Info] Записываем элемент Croatia;Eurasia;Zagreb;56594;4105267 в файл f5
+[Info] Считываем элемент Qatar;Eurasia;Doha;11586;2881053 из файла f2
+[Info] Записываем элемент Singapore;Eurasia;Singapore;697;5850342 в файл f5
+[Info] Считываем элемент Oman;Eurasia;Muscat;309500;5106626 из файла f1
+[Info] Записываем элемент Canada;North America;Ottawa;9984670;37742154 в файл f5
+[Info] Считываем элемент Jamaica;North America;Kingston;10991;2961167 из файла f0
+[Info] Записываем элемент Jamaica;North America;Kingston;10991;2961167 в файл f6
+[Info] Считываем элемент Puerto Rico;North America;San Juan;13790;2860853 из файла f0
+[Info] Записываем элемент Qatar;Eurasia;Doha;11586;2881053 в файл f6
+[Info] Считываем элемент Albania;Eurasia;Tirana;28748;2877797 из файла f2
+[Info] Записываем элемент Puerto Rico;North America;San Juan;13790;2860853 в файл f6
+[Info] Считываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 из файла f0
+[Info] Записываем элемент Reunion;Eurasia;Saint-denis;2512;895312 в файл f6
+[Info] Считываем элемент Bhutan;Eurasia;Thimphu;38394;771608 из файла f3
+[Info] Записываем элемент Albania;Eurasia;Tirana;28748;2877797 в файл f6
+[Info] Считываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 из файла f2
+[Info] Записываем элемент Oman;Eurasia;Muscat;309500;5106626 в файл f6
+[Info] Считываем элемент Ireland;Eurasia;Dublin;70273;4937786 из файла f1
+[Info] Записываем элемент Bhutan;Eurasia;Thimphu;38394;771608 в файл f6
+[Info] Считываем элемент Jersey;Eurasia;Saint Helier;116;107800 из файла f3
+[Info] Записываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 в файл f6
+[Info] Считываем элемент Colombia;South America;Bogota;1138910;50882891 из файла f0
+[Info] Записываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 в файл f6
+[Info] Считываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 из файла f2
+[Info] Записываем элемент Ireland;Eurasia;Dublin;70273;4937786 в файл f6
+[Info] Считываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 из файла f1
+[Info] Записываем элемент Colombia;South America;Bogota;1138910;50882891 в файл f7
+[Info] Считываем элемент Argentina;South America;Buenos Aires;2780400;45195774 из файла f0
+[Info] Записываем элемент Jersey;Eurasia;Saint Helier;116;107800 в файл f7
+[Info] Считываем элемент Isle of Man;Eurasia;Douglas;572;85033 из файла f3
+[Info] Записываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 в файл f7
+[Info] Считываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 из файла f2
+[Info] Записываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 в файл f7
+[Info] Считываем элемент Armenia;Eurasia;Yerevan;29743;2963243 из файла f1
+[Info] Записываем элемент Argentina;South America;Buenos Aires;2780400;45195774 в файл f7
+[Info] Считываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 из файла f0
+[Info] Записываем элемент Armenia;Eurasia;Yerevan;29743;2963243 в файл f7
+[Info] Считываем элемент Estonia;Eurasia;Tallinn;45228;1326535 из файла f1
+[Info] Записываем элемент Estonia;Eurasia;Tallinn;45228;1326535 в файл f7
+[Info] Считываем элемент Montenegro;Eurasia;Podgorica;13812;628066 из файла f1
+[Info] Записываем элемент Isle of Man;Eurasia;Douglas;572;85033 в файл f7
+[Info] Считываем элемент United States of America;North America;Washington;0;9826675 из файла f3
+[Info] Записываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 в файл f7
+[Info] Считываем элемент Grenada;Eurasia;Saint George's;344;112523 из файла f2
+[Info] Записываем элемент United States of America;North America;Washington;0;9826675 в файл f4
+[Info] Считываем элемент Nicaragua;North America;Managua;130370;6624554 из файла f3
+[Info] Записываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 в файл f4
+[Info] Считываем элемент Paraguay;South America;Asuncion;406752;7132538 из файла f0
+[Info] Записываем элемент Nicaragua;North America;Managua;130370;6624554 в файл f4
+[Info] Считываем элемент El Salvador;North America;San Salvador;21041;6486205 из файла f3
+[Info] Записываем элемент Montenegro;Eurasia;Podgorica;13812;628066 в файл f4
+[Info] Считываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 из файла f1
+[Info] Записываем элемент El Salvador;North America;San Salvador;21041;6486205 в файл f4
+[Info] Считываем элемент Costa Rica;North America;San Jose;51100;5094118 из файла f3
+[Info] Записываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 в файл f4
+[Info] Считываем элемент Maldives;Eurasia;Male;298;540544 из файла f1
+[Info] Записываем элемент Maldives;Eurasia;Male;298;540544 в файл f4
+[Info] Считываем элемент Malta;Eurasia;Valletta;316;441543 из файла f1
+[Info] Записываем элемент Malta;Eurasia;Valletta;316;441543 в файл f4
+[Info] Считываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 из файла f1
+[Info] Записываем элемент Grenada;Eurasia;Saint George's;344;112523 в файл f4
+[Info] Считываем элемент Cuba;North America;Havana;110860;11326616 из файла f2
+[Info] Записываем элемент Paraguay;South America;Asuncion;406752;7132538 в файл f4
+[Info] Считываем элемент Curacao;South America;Willemstad;444;164093 из файла f0
+[Info] Записываем элемент Curacao;South America;Willemstad;444;164093 в файл f4
+[Info] Считываем элемент  из файла f0
+[Info] Записываем элемент Costa Rica;North America;San Jose;51100;5094118 в файл f4
+[Info] Считываем элемент Panama;North America;Panama;75420;4314767 из файла f3
+[Info] Записываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 в файл f4
+[Info] Считываем элемент Guatemala;North America;Guatemala City;108889;17915568 из файла f1
+[Info] Записываем элемент Panama;North America;Panama;75420;4314767 в файл f4
+[Info] Считываем элемент Mexico;South America;Mexico City;1964375;128932753 из файла f3
+[Info] Записываем элемент Guatemala;North America;Guatemala City;108889;17915568 в файл f5
+[Info] Считываем элемент Haiti;North America;Port-au-prince;27750;11402528 из файла f1
+[Info] Записываем элемент Cuba;North America;Havana;110860;11326616 в файл f5
+[Info] Считываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 из файла f2
+[Info] Записываем элемент Mexico;South America;Mexico City;1964375;128932753 в файл f5
+[Info] Считываем элемент Ecuador;South America;Quito;283561;17643054 из файла f3
+[Info] Записываем элемент Haiti;North America;Port-au-prince;27750;11402528 в файл f5
+[Info] Считываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 из файла f1
+[Info] Записываем элемент Ecuador;South America;Quito;283561;17643054 в файл f5
+[Info] Считываем элемент Suriname;South America;Paramaribo;163820;586632 из файла f3
+[Info] Записываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 в файл f5
+[Info] Считываем элемент Greenland;North America;Nuuk;2166086;56770 из файла f2
+[Info] Записываем элемент Suriname;South America;Paramaribo;163820;586632 в файл f6
+[Info] Считываем элемент Saint Lucia;South America;Castries;616;183627 из файла f3
+[Info] Записываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 в файл f6
+[Info] Считываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 из файла f1
+[Info] Записываем элемент Greenland;North America;Nuuk;2166086;56770 в файл f6
+[Info] Считываем элемент Brazil;South America;Brasilia;8514877;212559417 из файла f2
+[Info] Записываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 в файл f6
+[Info] Считываем элемент Peru;South America;Lima;1285216;32971854 из файла f1
+[Info] Записываем элемент Saint Lucia;South America;Castries;616;183627 в файл f6
+[Info] Считываем элемент  из файла f3
+[Info] Записываем элемент Brazil;South America;Brasilia;8514877;212559417 в файл f6
+[Info] Считываем элемент Chile;South America;Santiago;756102;19116201 из файла f2
+[Info] Записываем элемент Peru;South America;Lima;1285216;32971854 в файл f7
+[Info] Считываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 из файла f1
+[Info] Записываем элемент Chile;South America;Santiago;756102;19116201 в файл f7
+[Info] Считываем элемент Guyana;South America;Georgetown;214969;786552 из файла f2
+[Info] Записываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 в файл f7
+[Info] Считываем элемент Uruguay;South America;Montevideo;176215;3473730 из файла f1
+[Info] Записываем элемент Uruguay;South America;Montevideo;176215;3473730 в файл f4
+[Info] Считываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 из файла f1
+[Info] Записываем элемент Guyana;South America;Georgetown;214969;786552 в файл f4
+[Info] Считываем элемент  из файла f2
+[Info] Записываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 в файл f4
+[Info] Считываем элемент Aruba;South America;Oranjestad;180;106766 из файла f1
+[Info] Записываем элемент Aruba;South America;Oranjestad;180;106766 в файл f5
+[Info] Считываем элемент Dominica;South America;Roseau;751;71986 из файла f1
+[Info] Записываем элемент Dominica;South America;Roseau;751;71986 в файл f5
+[Info] Считываем элемент  из файла f1
+[Info] Меняем входные и выходные файлы местами
+[Info] Записываем элемент Egypt;Africa;Cairo;1001450;102334404 в файл f2
+[Info] Считываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 из файла f6
+[Info] Записываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 в файл f2
+[Info] Считываем элемент Algeria;Africa;Algiers;2381741;43851044 из файла f5
+[Info] Записываем элемент South Africa;Africa;Cape Town;1219090;59308690 в файл f2
+[Info] Считываем элемент Kenya;Africa;Nairobi;580367;53771296 из файла f7
+[Info] Записываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 в файл f2
+[Info] Считываем элемент Sudan;Africa;Khartoum;1861484;43849260 из файла f6
+[Info] Записываем элемент Algeria;Africa;Algiers;2381741;43851044 в файл f2
+[Info] Считываем элемент Cameroon;Africa;Yaounde;475440;26545863 из файла f5
+[Info] Записываем элемент Cameroon;Africa;Yaounde;475440;26545863 в файл f2
+[Info] Считываем элемент Malawi;Africa;Lilongwe;118484;19129952 из файла f5
+[Info] Записываем элемент Kenya;Africa;Nairobi;580367;53771296 в файл f2
+[Info] Считываем элемент Angola;Africa;Luanda;1246700;32866272 из файла f7
+[Info] Записываем элемент Nigeria;Africa;Abuja;923768;206139589 в файл f2
+[Info] Считываем элемент Uganda;Africa;Kampala;241038;45741007 из файла f4
+[Info] Записываем элемент Malawi;Africa;Lilongwe;118484;19129952 в файл f3
+[Info] Считываем элемент Zambia;Africa;Lusaka;752618;18383955 из файла f5
+[Info] Записываем элемент Angola;Africa;Luanda;1246700;32866272 в файл f3
+[Info] Считываем элемент Mozambique;Africa;Maputo;799380;31255435 из файла f7
+[Info] Записываем элемент Sudan;Africa;Khartoum;1861484;43849260 в файл f3
+[Info] Считываем элемент Morocco;Africa;Rabat;446550;36910560 из файла f6
+[Info] Записываем элемент Uganda;Africa;Kampala;241038;45741007 в файл f3
+[Info] Считываем элемент Ghana;Africa;Accra;238533;31072940 из файла f4
+[Info] Записываем элемент Morocco;Africa;Rabat;446550;36910560 в файл f3
+[Info] Считываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 из файла f6
+[Info] Записываем элемент Zambia;Africa;Lusaka;752618;18383955 в файл f3
+[Info] Считываем элемент Guinea;Africa;Conakry;245857;13132795 из файла f5
+[Info] Записываем элемент Mozambique;Africa;Maputo;799380;31255435 в файл f3
+[Info] Считываем элемент Niger;Africa;Niamey;1186408;24206644 из файла f7
+[Info] Записываем элемент Niger;Africa;Niamey;1186408;24206644 в файл f0
+[Info] Считываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 из файла f7
+[Info] Записываем элемент Ghana;Africa;Accra;238533;31072940 в файл f0
+[Info] Считываем элемент Madagascar;Africa;Antananarivo;587041;27691018 из файла f4
+[Info] Записываем элемент Guinea;Africa;Conakry;245857;13132795 в файл f0
+[Info] Считываем элемент Rwanda;Africa;Kigali;26338;12952218 из файла f5
+[Info] Записываем элемент Rwanda;Africa;Kigali;26338;12952218 в файл f0
+[Info] Считываем элемент Libya;Africa;Tripoli;1759540;6871292 из файла f5
+[Info] Записываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 в файл f0
+[Info] Считываем элемент Chad;Africa;N'djamena;1284000;16425864 из файла f7
+[Info] Записываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 в файл f0
+[Info] Считываем элемент Senegal;Africa;Dakar;196722;16743927 из файла f6
+[Info] Записываем элемент Madagascar;Africa;Antananarivo;587041;27691018 в файл f0
+[Info] Считываем элемент Mali;Africa;Bamako;1240192;20250833 из файла f4
+[Info] Записываем элемент Mali;Africa;Bamako;1240192;20250833 в файл f1
+[Info] Считываем элемент Zimbabwe;Africa;Harare;390757;14862924 из файла f4
+[Info] Записываем элемент Chad;Africa;N'djamena;1284000;16425864 в файл f1
+[Info] Считываем элемент Somalia;Africa;Mogadishu;637657;15893222 из файла f7
+[Info] Записываем элемент Libya;Africa;Tripoli;1759540;6871292 в файл f1
+[Info] Считываем элемент Congo;Africa;Brazzaville;342000;5518087 из файла f5
+[Info] Записываем элемент Senegal;Africa;Dakar;196722;16743927 в файл f1
+[Info] Считываем элемент Benin;Africa;Porto-Novo;112622;12123200 из файла f6
+[Info] Записываем элемент Congo;Africa;Brazzaville;342000;5518087 в файл f1
+[Info] Считываем элемент Gabon;Africa;Libreville;267667;2225734 из файла f5
+[Info] Записываем элемент Zimbabwe;Africa;Harare;390757;14862924 в файл f1
+[Info] Считываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 из файла f4
+[Info] Записываем элемент Somalia;Africa;Mogadishu;637657;15893222 в файл f1
+[Info] Считываем элемент Tunisia;Africa;Tunis;163610;11818619 из файла f7
+[Info] Записываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 в файл f2
+[Info] Считываем элемент Togo;Africa;Lome;56785;8278724 из файла f4
+[Info] Записываем элемент Benin;Africa;Porto-Novo;112622;12123200 в файл f2
+[Info] Считываем элемент Burundi;Africa;Bujumbura;27830;11890784 из файла f6
+[Info] Записываем элемент Tunisia;Africa;Tunis;163610;11818619 в файл f2
+[Info] Считываем элемент South Sudan;Africa;Juba;644329;11193725 из файла f7
+[Info] Записываем элемент Gabon;Africa;Libreville;267667;2225734 в файл f2
+[Info] Считываем элемент Lesotho;Africa;Maseru;30355;2142249 из файла f5
+[Info] Записываем элемент Burundi;Africa;Bujumbura;27830;11890784 в файл f2
+[Info] Считываем элемент Liberia;Africa;Monrovia;111369;5057681 из файла f6
+[Info] Записываем элемент Lesotho;Africa;Maseru;30355;2142249 в файл f2
+[Info] Считываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 из файла f5
+[Info] Записываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 в файл f2
+[Info] Считываем элемент Tanzania;Africa;United Republic of;0;947300 из файла f5
+[Info] Записываем элемент Togo;Africa;Lome;56785;8278724 в файл f2
+[Info] Считываем элемент Sierra Leone;Africa;Freetown;71740;7976983 из файла f4
+[Info] Записываем элемент South Sudan;Africa;Juba;644329;11193725 в файл f2
+[Info] Считываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 из файла f7
+[Info] Записываем элемент Sierra Leone;Africa;Freetown;71740;7976983 в файл f2
+[Info] Считываем элемент Gambia;Africa;Banjul;11295;2416668 из файла f4
+[Info] Записываем элемент Tanzania;Africa;United Republic of;0;947300 в файл f3
+[Info] Считываем элемент Comoros;Africa;Moroni;2235;869601 из файла f5
+[Info] Записываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 в файл f3
+[Info] Считываем элемент Eritrea;Africa;Asmara;117600;3546421 из файла f7
+[Info] Записываем элемент Liberia;Africa;Monrovia;111369;5057681 в файл f3
+[Info] Считываем элемент Central African Republic;Africa;Bangui;622984;4829767 из файла f6
+[Info] Записываем элемент Gambia;Africa;Banjul;11295;2416668 в файл f3
+[Info] Считываем элемент Botswana;Africa;Gaborone;581730;2351627 из файла f4
+[Info] Записываем элемент Eritrea;Africa;Asmara;117600;3546421 в файл f3
+[Info] Считываем элемент Namibia;Africa;Windhoek;824292;2540905 из файла f7
+[Info] Записываем элемент Comoros;Africa;Moroni;2235;869601 в файл f3
+[Info] Считываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 из файла f5
+[Info] Записываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 в файл f3
+[Info] Считываем элемент Cabo Verde;Africa;Praia;4033;555987 из файла f5
+[Info] Записываем элемент Cabo Verde;Africa;Praia;4033;555987 в файл f3
+[Info] Считываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 из файла f5
+[Info] Записываем элемент Botswana;Africa;Gaborone;581730;2351627 в файл f3
+[Info] Считываем элемент Eswatini;Africa;Mbabane;17364;1160164 из файла f4
+[Info] Записываем элемент Central African Republic;Africa;Bangui;622984;4829767 в файл f3
+[Info] Считываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 из файла f6
+[Info] Записываем элемент Namibia;Africa;Windhoek;824292;2540905 в файл f3
+[Info] Считываем элемент Mauritius;Africa;Port Louis;2040;1271768 из файла f7
+[Info] Записываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 в файл f3
+[Info] Считываем элемент Fiji;Australia;Suva;18274;896445 из файла f5
+[Info] Записываем элемент Eswatini;Africa;Mbabane;17364;1160164 в файл f0
+[Info] Считываем элемент Djibouti;Africa;Djibouti;23200;988000 из файла f4
+[Info] Записываем элемент Fiji;Australia;Suva;18274;896445 в файл f0
+[Info] Считываем элемент Solomon Islands;Australia;Honiara;28896;686884 из файла f5
+[Info] Записываем элемент Mauritius;Africa;Port Louis;2040;1271768 в файл f0
+[Info] Считываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 из файла f7
+[Info] Записываем элемент Djibouti;Africa;Djibouti;23200;988000 в файл f0
+[Info] Считываем элемент New Zealand;Australia;Wellington;267710;4822233 из файла f4
+[Info] Записываем элемент New Zealand;Australia;Wellington;267710;4822233 в файл f0
+[Info] Считываем элемент India;Eurasia;New Delhi;3287263;1380004385 из файла f4
+[Info] Записываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 в файл f0
+[Info] Считываем элемент Seychelles;Africa;Victoria;455;98347 из файла f6
+[Info] Записываем элемент Solomon Islands;Australia;Honiara;28896;686884 в файл f0
+[Info] Считываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 из файла f5
+[Info] Записываем элемент India;Eurasia;New Delhi;3287263;1380004385 в файл f0
+[Info] Считываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 из файла f4
+[Info] Записываем элемент Seychelles;Africa;Victoria;455;98347 в файл f0
+[Info] Считываем элемент Australia;Australia;Canberra;7741220;25499884 из файла f6
+[Info] Записываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 в файл f0
+[Info] Считываем элемент Tonga;Australia;Nuku'alofa;747;105695 из файла f7
+[Info] Записываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 в файл f0
+[Info] Считываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 из файла f5
+[Info] Записываем элемент Tonga;Australia;Nuku'alofa;747;105695 в файл f0
+[Info] Считываем элемент China;Eurasia;Beijing;9596961;1439323776 из файла f7
+[Info] Записываем элемент Australia;Australia;Canberra;7741220;25499884 в файл f0
+[Info] Считываем элемент Samoa;Australia;Apia;2831;198414 из файла f6
+[Info] Записываем элемент China;Eurasia;Beijing;9596961;1439323776 в файл f0
+[Info] Считываем элемент Philippines;Eurasia;Manila;300000;109581078 из файла f7
+[Info] Записываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 в файл f1
+[Info] Считываем элемент Germany;Eurasia;Berlin;357022;83783942 из файла f4
+[Info] Записываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 в файл f1
+[Info] Считываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 из файла f5
+[Info] Записываем элемент Samoa;Australia;Apia;2831;198414 в файл f1
+[Info] Считываем элемент Guam;Australia;Hagatna;544;168775 из файла f6
+[Info] Записываем элемент Philippines;Eurasia;Manila;300000;109581078 в файл f1
+[Info] Считываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 из файла f7
+[Info] Записываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 в файл f1
+[Info] Считываем элемент Turkey;Eurasia;Ankara;783562;84339067 из файла f7
+[Info] Записываем элемент Germany;Eurasia;Berlin;357022;83783942 в файл f1
+[Info] Считываем элемент Thailand;Eurasia;Bangkok;513120;69799978 из файла f4
+[Info] Записываем элемент Thailand;Eurasia;Bangkok;513120;69799978 в файл f1
+[Info] Считываем элемент Iraq;Eurasia;Baghdad;438317;40222493 из файла f4
+[Info] Записываем элемент Guam;Australia;Hagatna;544;168775 в файл f1
+[Info] Считываем элемент Kiribati;Australia;Tarawa;811;119449 из файла f6
+[Info] Записываем элемент Turkey;Eurasia;Ankara;783562;84339067 в файл f1
+[Info] Считываем элемент Spain;Eurasia;Madrid;505370;46754778 из файла f7
+[Info] Записываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 в файл f1
+[Info] Считываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 из файла f5
+[Info] Записываем элемент Kiribati;Australia;Tarawa;811;119449 в файл f1
+[Info] Считываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 из файла f6
+[Info] Записываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 в файл f2
+[Info] Считываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 из файла f6
+[Info] Записываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 в файл f2
+[Info] Считываем элемент Japan;Eurasia;Tokyo;377915;126476461 из файла f6
+[Info] Записываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 в файл f2
+[Info] Считываем элемент France;Eurasia;Paris;643801;65273511 из файла f5
+[Info] Записываем элемент Japan;Eurasia;Tokyo;377915;126476461 в файл f2
+[Info] Считываем элемент Italy;Eurasia;Roma;301340;60461826 из файла f6
+[Info] Записываем элемент Iraq;Eurasia;Baghdad;438317;40222493 в файл f2
+[Info] Считываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 из файла f4
+[Info] Записываем элемент Spain;Eurasia;Madrid;505370;46754778 в файл f2
+[Info] Считываем элемент Ukraine;Eurasia;Kiev;603550;43733762 из файла f7
+[Info] Записываем элемент Ukraine;Eurasia;Kiev;603550;43733762 в файл f2
+[Info] Считываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 из файла f7
+[Info] Записываем элемент France;Eurasia;Paris;643801;65273511 в файл f2
+[Info] Считываем элемент Poland;Eurasia;Warsaw;312685;37846611 из файла f5
+[Info] Записываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 в файл f2
+[Info] Считываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 из файла f4
+[Info] Записываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 в файл f3
+[Info] Считываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 из файла f4
+[Info] Записываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 в файл f3
+[Info] Считываем элемент Belgium;Eurasia;Brussels;30528;11589623 из файла f4
+[Info] Записываем элемент Italy;Eurasia;Roma;301340;60461826 в файл f3
+[Info] Считываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 из файла f6
+[Info] Записываем элемент Belgium;Eurasia;Brussels;30528;11589623 в файл f3
+[Info] Считываем элемент Czechia;Eurasia;Prague;78867;10708981 из файла f4
+[Info] Записываем элемент Poland;Eurasia;Warsaw;312685;37846611 в файл f3
+[Info] Считываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 из файла f5
+[Info] Записываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 в файл f3
+[Info] Считываем элемент Yemen;Eurasia;Sanaa;527968;29825964 из файла f7
+[Info] Записываем элемент Yemen;Eurasia;Sanaa;527968;29825964 в файл f3
+[Info] Считываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 из файла f7
+[Info] Записываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 в файл f3
+[Info] Считываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 из файла f6
+[Info] Записываем элемент Czechia;Eurasia;Prague;78867;10708981 в файл f3
+[Info] Считываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 из файла f4
+[Info] Записываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 в файл f3
+[Info] Считываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 из файла f6
+[Info] Записываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 в файл f0
+[Info] Считываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 из файла f5
+[Info] Записываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 в файл f0
+[Info] Считываем элемент Belarus;Eurasia;Minsk;207600;9449323 из файла f4
+[Info] Записываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 в файл f0
+[Info] Считываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 из файла f7
+[Info] Записываем элемент Belarus;Eurasia;Minsk;207600;9449323 в файл f0
+[Info] Считываем элемент Austria;Eurasia;Vienna;83871;9006398 из файла f4
+[Info] Записываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 в файл f0
+[Info] Считываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 из файла f6
+[Info] Записываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 в файл f0
+[Info] Считываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 из файла f5
+[Info] Записываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 в файл f0
+[Info] Считываем элемент Sweden;Eurasia;Stockholm;450295;10099265 из файла f7
+[Info] Записываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 в файл f0
+[Info] Считываем элемент Romania;Eurasia;Bucharest;238391;19237691 из файла f6
+[Info] Записываем элемент Sweden;Eurasia;Stockholm;450295;10099265 в файл f0
+[Info] Считываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 из файла f7
+[Info] Записываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 в файл f0
+[Info] Считываем элемент Greece;Eurasia;Athens;131957;10423054 из файла f5
+[Info] Записываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 в файл f0
+[Info] Считываем элемент Hungary;Eurasia;Budapest;93028;9660351 из файла f7
+[Info] Записываем элемент Austria;Eurasia;Vienna;83871;9006398 в файл f0
+[Info] Считываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 из файла f4
+[Info] Записываем элемент Hungary;Eurasia;Budapest;93028;9660351 в файл f0
+[Info] Считываем элемент Hong Kong;Eurasia;-;1104;7496981 из файла f7
+[Info] Записываем элемент Hong Kong;Eurasia;-;1104;7496981 в файл f1
+[Info] Считываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 из файла f7
+[Info] Записываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 в файл f1
+[Info] Считываем элемент Norway;Eurasia;Oslo;323802;5421241 из файла f4
+[Info] Записываем элемент Greece;Eurasia;Athens;131957;10423054 в файл f1
+[Info] Считываем элемент Jordan;Eurasia;Amman;89342;10203134 из файла f5
+[Info] Записываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 в файл f1
+[Info] Считываем элемент Finland;Eurasia;Helsinki;338145;5540720 из файла f7
+[Info] Записываем элемент Romania;Eurasia;Bucharest;238391;19237691 в файл f1
+[Info] Считываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 из файла f6
+[Info] Записываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 в файл f1
+[Info] Считываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 из файла f6
+[Info] Записываем элемент Norway;Eurasia;Oslo;323802;5421241 в файл f1
+[Info] Считываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 из файла f4
+[Info] Записываем элемент Finland;Eurasia;Helsinki;338145;5540720 в файл f1
+[Info] Считываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 из файла f7
+[Info] Записываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 в файл f1
+[Info] Считываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 из файла f7
+[Info] Записываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 в файл f1
+[Info] Считываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 из файла f4
+[Info] Записываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 в файл f1
+[Info] Считываем элемент Israel;Eurasia;Jerusalem;20770;8655535 из файла f6
+[Info] Записываем элемент Jordan;Eurasia;Amman;89342;10203134 в файл f1
+[Info] Считываем элемент Portugal;Eurasia;Lisbon;92090;10196709 из файла f5
+[Info] Записываем элемент Portugal;Eurasia;Lisbon;92090;10196709 в файл f1
+[Info] Считываем элемент Serbia;Eurasia;Belgrade;77474;8737371 из файла f5
+[Info] Записываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 в файл f2
+[Info] Считываем элемент Latvia;Eurasia;Riga;64589;1886198 из файла f4
+[Info] Записываем элемент Israel;Eurasia;Jerusalem;20770;8655535 в файл f2
+[Info] Считываем элемент Switzerland;Eurasia;Bern;41277;8654622 из файла f6
+[Info] Записываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 в файл f2
+[Info] Считываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 из файла f7
+[Info] Записываем элемент Switzerland;Eurasia;Bern;41277;8654622 в файл f2
+[Info] Считываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 из файла f6
+[Info] Записываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 в файл f2
+[Info] Считываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 из файла f6
+[Info] Записываем элемент Latvia;Eurasia;Riga;64589;1886198 в файл f2
+[Info] Считываем элемент Bahrain;Eurasia;Manama;760;1701575 из файла f4
+[Info] Записываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 в файл f2
+[Info] Считываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 из файла f7
+[Info] Записываем элемент Bahrain;Eurasia;Manama;760;1701575 в файл f2
+[Info] Считываем элемент Macao;Eurasia;-;31;649335 из файла f4
+[Info] Записываем элемент Serbia;Eurasia;Belgrade;77474;8737371 в файл f2
+[Info] Считываем элемент Lebanon;Eurasia;Beirut;10400;6825445 из файла f5
+[Info] Записываем элемент Lebanon;Eurasia;Beirut;10400;6825445 в файл f3
+[Info] Считываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 из файла f5
+[Info] Записываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 в файл f3
+[Info] Считываем элемент Croatia;Eurasia;Zagreb;56594;4105267 из файла f6
+[Info] Записываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 в файл f3
+[Info] Считываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 из файла f5
+[Info] Записываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 в файл f3
+[Info] Считываем элемент Reunion;Eurasia;Saint-denis;2512;895312 из файла f7
+[Info] Записываем элемент Macao;Eurasia;-;31;649335 в файл f3
+[Info] Считываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 из файла f4
+[Info] Записываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 в файл f3
+[Info] Считываем элемент Canada;North America;Ottawa;9984670;37742154 из файла f4
+[Info] Записываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 в файл f3
+[Info] Считываем элемент Singapore;Eurasia;Singapore;697;5850342 из файла f5
+[Info] Записываем элемент Croatia;Eurasia;Zagreb;56594;4105267 в файл f3
+[Info] Считываем элемент Qatar;Eurasia;Doha;11586;2881053 из файла f6
+[Info] Записываем элемент Singapore;Eurasia;Singapore;697;5850342 в файл f3
+[Info] Считываем элемент Oman;Eurasia;Muscat;309500;5106626 из файла f5
+[Info] Записываем элемент Canada;North America;Ottawa;9984670;37742154 в файл f3
+[Info] Считываем элемент Jamaica;North America;Kingston;10991;2961167 из файла f4
+[Info] Записываем элемент Jamaica;North America;Kingston;10991;2961167 в файл f0
+[Info] Считываем элемент Puerto Rico;North America;San Juan;13790;2860853 из файла f4
+[Info] Записываем элемент Qatar;Eurasia;Doha;11586;2881053 в файл f0
+[Info] Считываем элемент Albania;Eurasia;Tirana;28748;2877797 из файла f6
+[Info] Записываем элемент Puerto Rico;North America;San Juan;13790;2860853 в файл f0
+[Info] Считываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 из файла f4
+[Info] Записываем элемент Reunion;Eurasia;Saint-denis;2512;895312 в файл f0
+[Info] Считываем элемент Bhutan;Eurasia;Thimphu;38394;771608 из файла f7
+[Info] Записываем элемент Albania;Eurasia;Tirana;28748;2877797 в файл f0
+[Info] Считываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 из файла f6
+[Info] Записываем элемент Oman;Eurasia;Muscat;309500;5106626 в файл f0
+[Info] Считываем элемент Ireland;Eurasia;Dublin;70273;4937786 из файла f5
+[Info] Записываем элемент Bhutan;Eurasia;Thimphu;38394;771608 в файл f0
+[Info] Считываем элемент Jersey;Eurasia;Saint Helier;116;107800 из файла f7
+[Info] Записываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 в файл f0
+[Info] Считываем элемент Colombia;South America;Bogota;1138910;50882891 из файла f4
+[Info] Записываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 в файл f0
+[Info] Считываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 из файла f6
+[Info] Записываем элемент Ireland;Eurasia;Dublin;70273;4937786 в файл f0
+[Info] Считываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 из файла f5
+[Info] Записываем элемент Colombia;South America;Bogota;1138910;50882891 в файл f1
+[Info] Считываем элемент Argentina;South America;Buenos Aires;2780400;45195774 из файла f4
+[Info] Записываем элемент Jersey;Eurasia;Saint Helier;116;107800 в файл f1
+[Info] Считываем элемент Isle of Man;Eurasia;Douglas;572;85033 из файла f7
+[Info] Записываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 в файл f1
+[Info] Считываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 из файла f6
+[Info] Записываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 в файл f1
+[Info] Считываем элемент Armenia;Eurasia;Yerevan;29743;2963243 из файла f5
+[Info] Записываем элемент Argentina;South America;Buenos Aires;2780400;45195774 в файл f1
+[Info] Считываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 из файла f4
+[Info] Записываем элемент Armenia;Eurasia;Yerevan;29743;2963243 в файл f1
+[Info] Считываем элемент Estonia;Eurasia;Tallinn;45228;1326535 из файла f5
+[Info] Записываем элемент Estonia;Eurasia;Tallinn;45228;1326535 в файл f1
+[Info] Считываем элемент Montenegro;Eurasia;Podgorica;13812;628066 из файла f5
+[Info] Записываем элемент Isle of Man;Eurasia;Douglas;572;85033 в файл f1
+[Info] Считываем элемент United States of America;North America;Washington;0;9826675 из файла f7
+[Info] Записываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 в файл f1
+[Info] Считываем элемент Grenada;Eurasia;Saint George's;344;112523 из файла f6
+[Info] Записываем элемент United States of America;North America;Washington;0;9826675 в файл f2
+[Info] Считываем элемент Nicaragua;North America;Managua;130370;6624554 из файла f7
+[Info] Записываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 в файл f2
+[Info] Считываем элемент Paraguay;South America;Asuncion;406752;7132538 из файла f4
+[Info] Записываем элемент Nicaragua;North America;Managua;130370;6624554 в файл f2
+[Info] Считываем элемент El Salvador;North America;San Salvador;21041;6486205 из файла f7
+[Info] Записываем элемент Montenegro;Eurasia;Podgorica;13812;628066 в файл f2
+[Info] Считываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 из файла f5
+[Info] Записываем элемент El Salvador;North America;San Salvador;21041;6486205 в файл f2
+[Info] Считываем элемент Costa Rica;North America;San Jose;51100;5094118 из файла f7
+[Info] Записываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 в файл f2
+[Info] Считываем элемент Maldives;Eurasia;Male;298;540544 из файла f5
+[Info] Записываем элемент Maldives;Eurasia;Male;298;540544 в файл f2
+[Info] Считываем элемент Malta;Eurasia;Valletta;316;441543 из файла f5
+[Info] Записываем элемент Malta;Eurasia;Valletta;316;441543 в файл f2
+[Info] Считываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 из файла f5
+[Info] Записываем элемент Grenada;Eurasia;Saint George's;344;112523 в файл f2
+[Info] Считываем элемент Cuba;North America;Havana;110860;11326616 из файла f6
+[Info] Записываем элемент Paraguay;South America;Asuncion;406752;7132538 в файл f2
+[Info] Считываем элемент Curacao;South America;Willemstad;444;164093 из файла f4
+[Info] Записываем элемент Curacao;South America;Willemstad;444;164093 в файл f2
+[Info] Считываем элемент  из файла f4
+[Info] Записываем элемент Costa Rica;North America;San Jose;51100;5094118 в файл f2
+[Info] Считываем элемент Panama;North America;Panama;75420;4314767 из файла f7
+[Info] Записываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 в файл f2
+[Info] Считываем элемент Guatemala;North America;Guatemala City;108889;17915568 из файла f5
+[Info] Записываем элемент Panama;North America;Panama;75420;4314767 в файл f2
+[Info] Считываем элемент Mexico;South America;Mexico City;1964375;128932753 из файла f7
+[Info] Записываем элемент Guatemala;North America;Guatemala City;108889;17915568 в файл f3
+[Info] Считываем элемент Haiti;North America;Port-au-prince;27750;11402528 из файла f5
+[Info] Записываем элемент Cuba;North America;Havana;110860;11326616 в файл f3
+[Info] Считываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 из файла f6
+[Info] Записываем элемент Mexico;South America;Mexico City;1964375;128932753 в файл f3
+[Info] Считываем элемент Ecuador;South America;Quito;283561;17643054 из файла f7
+[Info] Записываем элемент Haiti;North America;Port-au-prince;27750;11402528 в файл f3
+[Info] Считываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 из файла f5
+[Info] Записываем элемент Ecuador;South America;Quito;283561;17643054 в файл f3
+[Info] Считываем элемент Suriname;South America;Paramaribo;163820;586632 из файла f7
+[Info] Записываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 в файл f3
+[Info] Считываем элемент Greenland;North America;Nuuk;2166086;56770 из файла f6
+[Info] Записываем элемент Suriname;South America;Paramaribo;163820;586632 в файл f0
+[Info] Считываем элемент Saint Lucia;South America;Castries;616;183627 из файла f7
+[Info] Записываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 в файл f0
+[Info] Считываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 из файла f5
+[Info] Записываем элемент Greenland;North America;Nuuk;2166086;56770 в файл f0
+[Info] Считываем элемент Brazil;South America;Brasilia;8514877;212559417 из файла f6
+[Info] Записываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 в файл f0
+[Info] Считываем элемент Peru;South America;Lima;1285216;32971854 из файла f5
+[Info] Записываем элемент Saint Lucia;South America;Castries;616;183627 в файл f0
+[Info] Считываем элемент  из файла f7
+[Info] Записываем элемент Brazil;South America;Brasilia;8514877;212559417 в файл f0
+[Info] Считываем элемент Chile;South America;Santiago;756102;19116201 из файла f6
+[Info] Записываем элемент Peru;South America;Lima;1285216;32971854 в файл f1
+[Info] Считываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 из файла f5
+[Info] Записываем элемент Chile;South America;Santiago;756102;19116201 в файл f1
+[Info] Считываем элемент Guyana;South America;Georgetown;214969;786552 из файла f6
+[Info] Записываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 в файл f1
+[Info] Считываем элемент Uruguay;South America;Montevideo;176215;3473730 из файла f5
+[Info] Записываем элемент Uruguay;South America;Montevideo;176215;3473730 в файл f2
+[Info] Считываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 из файла f5
+[Info] Записываем элемент Guyana;South America;Georgetown;214969;786552 в файл f2
+[Info] Считываем элемент  из файла f6
+[Info] Записываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 в файл f2
+[Info] Считываем элемент Aruba;South America;Oranjestad;180;106766 из файла f5
+[Info] Записываем элемент Aruba;South America;Oranjestad;180;106766 в файл f3
+[Info] Считываем элемент Dominica;South America;Roseau;751;71986 из файла f5
+[Info] Записываем элемент Dominica;South America;Roseau;751;71986 в файл f3
+[Info] Считываем элемент  из файла f5
+[Info] Меняем входные и выходные файлы местами
+[Info] Записываем элемент Egypt;Africa;Cairo;1001450;102334404 в файл f4
+[Info] Считываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 из файла f2
+[Info] Записываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 в файл f4
+[Info] Считываем элемент South Africa;Africa;Cape Town;1219090;59308690 из файла f2
+[Info] Записываем элемент Malawi;Africa;Lilongwe;118484;19129952 в файл f4
+[Info] Считываем элемент Angola;Africa;Luanda;1246700;32866272 из файла f3
+[Info] Записываем элемент Niger;Africa;Niamey;1186408;24206644 в файл f4
+[Info] Считываем элемент Ghana;Africa;Accra;238533;31072940 из файла f0
+[Info] Записываем элемент South Africa;Africa;Cape Town;1219090;59308690 в файл f4
+[Info] Считываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 из файла f2
+[Info] Записываем элемент Mali;Africa;Bamako;1240192;20250833 в файл f4
+[Info] Считываем элемент Chad;Africa;N'djamena;1284000;16425864 из файла f1
+[Info] Записываем элемент Angola;Africa;Luanda;1246700;32866272 в файл f4
+[Info] Считываем элемент Sudan;Africa;Khartoum;1861484;43849260 из файла f3
+[Info] Записываем элемент Chad;Africa;N'djamena;1284000;16425864 в файл f4
+[Info] Считываем элемент Libya;Africa;Tripoli;1759540;6871292 из файла f1
+[Info] Записываем элемент Libya;Africa;Tripoli;1759540;6871292 в файл f4
+[Info] Считываем элемент Senegal;Africa;Dakar;196722;16743927 из файла f1
+[Info] Записываем элемент Sudan;Africa;Khartoum;1861484;43849260 в файл f4
+[Info] Считываем элемент Uganda;Africa;Kampala;241038;45741007 из файла f3
+[Info] Записываем элемент Senegal;Africa;Dakar;196722;16743927 в файл f4
+[Info] Считываем элемент Congo;Africa;Brazzaville;342000;5518087 из файла f1
+[Info] Записываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 в файл f4
+[Info] Считываем элемент Algeria;Africa;Algiers;2381741;43851044 из файла f2
+[Info] Записываем элемент Algeria;Africa;Algiers;2381741;43851044 в файл f4
+[Info] Считываем элемент Cameroon;Africa;Yaounde;475440;26545863 из файла f2
+[Info] Записываем элемент Ghana;Africa;Accra;238533;31072940 в файл f4
+[Info] Считываем элемент Guinea;Africa;Conakry;245857;13132795 из файла f0
+[Info] Записываем элемент Uganda;Africa;Kampala;241038;45741007 в файл f4
+[Info] Считываем элемент Morocco;Africa;Rabat;446550;36910560 из файла f3
+[Info] Записываем элемент Guinea;Africa;Conakry;245857;13132795 в файл f4
+[Info] Считываем элемент Rwanda;Africa;Kigali;26338;12952218 из файла f0
+[Info] Записываем элемент Rwanda;Africa;Kigali;26338;12952218 в файл f4
+[Info] Считываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 из файла f0
+[Info] Записываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 в файл f4
+[Info] Считываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 из файла f0
+[Info] Записываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 в файл f4
+[Info] Считываем элемент Madagascar;Africa;Antananarivo;587041;27691018 из файла f0
+[Info] Записываем элемент Congo;Africa;Brazzaville;342000;5518087 в файл f4
+[Info] Считываем элемент Zimbabwe;Africa;Harare;390757;14862924 из файла f1
+[Info] Записываем элемент Zimbabwe;Africa;Harare;390757;14862924 в файл f4
+[Info] Считываем элемент Somalia;Africa;Mogadishu;637657;15893222 из файла f1
+[Info] Записываем элемент Morocco;Africa;Rabat;446550;36910560 в файл f4
+[Info] Считываем элемент Zambia;Africa;Lusaka;752618;18383955 из файла f3
+[Info] Записываем элемент Cameroon;Africa;Yaounde;475440;26545863 в файл f4
+[Info] Считываем элемент Kenya;Africa;Nairobi;580367;53771296 из файла f2
+[Info] Записываем элемент Kenya;Africa;Nairobi;580367;53771296 в файл f4
+[Info] Считываем элемент Nigeria;Africa;Abuja;923768;206139589 из файла f2
+[Info] Записываем элемент Madagascar;Africa;Antananarivo;587041;27691018 в файл f4
+[Info] Считываем элемент Eswatini;Africa;Mbabane;17364;1160164 из файла f0
+[Info] Записываем элемент Somalia;Africa;Mogadishu;637657;15893222 в файл f4
+[Info] Считываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 из файла f1
+[Info] Записываем элемент Zambia;Africa;Lusaka;752618;18383955 в файл f4
+[Info] Считываем элемент Mozambique;Africa;Maputo;799380;31255435 из файла f3
+[Info] Записываем элемент Mozambique;Africa;Maputo;799380;31255435 в файл f4
+[Info] Считываем элемент Tanzania;Africa;United Republic of;0;947300 из файла f3
+[Info] Записываем элемент Nigeria;Africa;Abuja;923768;206139589 в файл f4
+[Info] Считываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 из файла f2
+[Info] Записываем элемент Tanzania;Africa;United Republic of;0;947300 в файл f5
+[Info] Считываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 из файла f3
+[Info] Записываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 в файл f5
+[Info] Считываем элемент Liberia;Africa;Monrovia;111369;5057681 из файла f3
+[Info] Записываем элемент Liberia;Africa;Monrovia;111369;5057681 в файл f5
+[Info] Считываем элемент Gambia;Africa;Banjul;11295;2416668 из файла f3
+[Info] Записываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 в файл f5
+[Info] Считываем элемент Benin;Africa;Porto-Novo;112622;12123200 из файла f2
+[Info] Записываем элемент Benin;Africa;Porto-Novo;112622;12123200 в файл f5
+[Info] Считываем элемент Tunisia;Africa;Tunis;163610;11818619 из файла f2
+[Info] Записываем элемент Gambia;Africa;Banjul;11295;2416668 в файл f5
+[Info] Считываем элемент Eritrea;Africa;Asmara;117600;3546421 из файла f3
+[Info] Записываем элемент Eritrea;Africa;Asmara;117600;3546421 в файл f5
+[Info] Считываем элемент Comoros;Africa;Moroni;2235;869601 из файла f3
+[Info] Записываем элемент Tunisia;Africa;Tunis;163610;11818619 в файл f5
+[Info] Считываем элемент Gabon;Africa;Libreville;267667;2225734 из файла f2
+[Info] Записываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 в файл f5
+[Info] Считываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 из файла f1
+[Info] Записываем элемент Eswatini;Africa;Mbabane;17364;1160164 в файл f5
+[Info] Считываем элемент Fiji;Australia;Suva;18274;896445 из файла f0
+[Info] Записываем элемент Fiji;Australia;Suva;18274;896445 в файл f5
+[Info] Считываем элемент Mauritius;Africa;Port Louis;2040;1271768 из файла f0
+[Info] Записываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 в файл f5
+[Info] Считываем элемент Samoa;Australia;Apia;2831;198414 из файла f1
+[Info] Записываем элемент Mauritius;Africa;Port Louis;2040;1271768 в файл f5
+[Info] Считываем элемент Djibouti;Africa;Djibouti;23200;988000 из файла f0
+[Info] Записываем элемент Comoros;Africa;Moroni;2235;869601 в файл f5
+[Info] Считываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 из файла f3
+[Info] Записываем элемент Djibouti;Africa;Djibouti;23200;988000 в файл f5
+[Info] Считываем элемент New Zealand;Australia;Wellington;267710;4822233 из файла f0
+[Info] Записываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 в файл f5
+[Info] Считываем элемент Cabo Verde;Africa;Praia;4033;555987 из файла f3
+[Info] Записываем элемент Gabon;Africa;Libreville;267667;2225734 в файл f5
+[Info] Считываем элемент Burundi;Africa;Bujumbura;27830;11890784 из файла f2
+[Info] Записываем элемент New Zealand;Australia;Wellington;267710;4822233 в файл f5
+[Info] Считываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 из файла f0
+[Info] Записываем элемент Burundi;Africa;Bujumbura;27830;11890784 в файл f5
+[Info] Считываем элемент Lesotho;Africa;Maseru;30355;2142249 из файла f2
+[Info] Записываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 в файл f5
+[Info] Считываем элемент Solomon Islands;Australia;Honiara;28896;686884 из файла f0
+[Info] Записываем элемент Samoa;Australia;Apia;2831;198414 в файл f5
+[Info] Считываем элемент Philippines;Eurasia;Manila;300000;109581078 из файла f1
+[Info] Записываем элемент Solomon Islands;Australia;Honiara;28896;686884 в файл f5
+[Info] Считываем элемент India;Eurasia;New Delhi;3287263;1380004385 из файла f0
+[Info] Записываем элемент Philippines;Eurasia;Manila;300000;109581078 в файл f5
+[Info] Считываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 из файла f1
+[Info] Записываем элемент Lesotho;Africa;Maseru;30355;2142249 в файл f5
+[Info] Считываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 из файла f2
+[Info] Записываем элемент India;Eurasia;New Delhi;3287263;1380004385 в файл f5
+[Info] Считываем элемент Seychelles;Africa;Victoria;455;98347 из файла f0
+[Info] Записываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 в файл f5
+[Info] Считываем элемент Germany;Eurasia;Berlin;357022;83783942 из файла f1
+[Info] Записываем элемент Germany;Eurasia;Berlin;357022;83783942 в файл f5
+[Info] Считываем элемент Thailand;Eurasia;Bangkok;513120;69799978 из файла f1
+[Info] Записываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 в файл f5
+[Info] Считываем элемент Togo;Africa;Lome;56785;8278724 из файла f2
+[Info] Записываем элемент Cabo Verde;Africa;Praia;4033;555987 в файл f5
+[Info] Считываем элемент Botswana;Africa;Gaborone;581730;2351627 из файла f3
+[Info] Записываем элемент Seychelles;Africa;Victoria;455;98347 в файл f5
+[Info] Считываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 из файла f0
+[Info] Записываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 в файл f5
+[Info] Считываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 из файла f0
+[Info] Записываем элемент Thailand;Eurasia;Bangkok;513120;69799978 в файл f5
+[Info] Считываем элемент Guam;Australia;Hagatna;544;168775 из файла f1
+[Info] Записываем элемент Guam;Australia;Hagatna;544;168775 в файл f5
+[Info] Считываем элемент Turkey;Eurasia;Ankara;783562;84339067 из файла f1
+[Info] Записываем элемент Togo;Africa;Lome;56785;8278724 в файл f5
+[Info] Считываем элемент South Sudan;Africa;Juba;644329;11193725 из файла f2
+[Info] Записываем элемент Botswana;Africa;Gaborone;581730;2351627 в файл f5
+[Info] Считываем элемент Central African Republic;Africa;Bangui;622984;4829767 из файла f3
+[Info] Записываем элемент Central African Republic;Africa;Bangui;622984;4829767 в файл f5
+[Info] Считываем элемент Namibia;Africa;Windhoek;824292;2540905 из файла f3
+[Info] Записываем элемент South Sudan;Africa;Juba;644329;11193725 в файл f5
+[Info] Считываем элемент Sierra Leone;Africa;Freetown;71740;7976983 из файла f2
+[Info] Записываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 в файл f5
+[Info] Считываем элемент Tonga;Australia;Nuku'alofa;747;105695 из файла f0
+[Info] Записываем элемент Sierra Leone;Africa;Freetown;71740;7976983 в файл f5
+[Info] Считываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 из файла f2
+[Info] Записываем элемент Tonga;Australia;Nuku'alofa;747;105695 в файл f5
+[Info] Считываем элемент Australia;Australia;Canberra;7741220;25499884 из файла f0
+[Info] Записываем элемент Australia;Australia;Canberra;7741220;25499884 в файл f5
+[Info] Считываем элемент China;Eurasia;Beijing;9596961;1439323776 из файла f0
+[Info] Записываем элемент Turkey;Eurasia;Ankara;783562;84339067 в файл f5
+[Info] Считываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 из файла f1
+[Info] Записываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 в файл f5
+[Info] Считываем элемент Kiribati;Australia;Tarawa;811;119449 из файла f1
+[Info] Записываем элемент Kiribati;Australia;Tarawa;811;119449 в файл f5
+[Info] Считываем элемент Hong Kong;Eurasia;-;1104;7496981 из файла f1
+[Info] Записываем элемент Namibia;Africa;Windhoek;824292;2540905 в файл f5
+[Info] Считываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 из файла f3
+[Info] Записываем элемент China;Eurasia;Beijing;9596961;1439323776 в файл f5
+[Info] Считываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 из файла f0
+[Info] Записываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 в файл f5
+[Info] Считываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 из файла f3
+[Info] Записываем элемент Hong Kong;Eurasia;-;1104;7496981 в файл f6
+[Info] Считываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 из файла f1
+[Info] Записываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 в файл f6
+[Info] Считываем элемент Greece;Eurasia;Athens;131957;10423054 из файла f1
+[Info] Записываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 в файл f6
+[Info] Считываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 из файла f0
+[Info] Записываем элемент Greece;Eurasia;Athens;131957;10423054 в файл f6
+[Info] Считываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 из файла f1
+[Info] Записываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 в файл f6
+[Info] Считываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 из файла f0
+[Info] Записываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 в файл f6
+[Info] Считываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 из файла f2
+[Info] Записываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 в файл f6
+[Info] Считываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 из файла f3
+[Info] Записываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 в файл f6
+[Info] Считываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 из файла f2
+[Info] Записываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 в файл f6
+[Info] Считываем элемент Italy;Eurasia;Roma;301340;60461826 из файла f3
+[Info] Записываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 в файл f6
+[Info] Считываем элемент Belarus;Eurasia;Minsk;207600;9449323 из файла f0
+[Info] Записываем элемент Belarus;Eurasia;Minsk;207600;9449323 в файл f6
+[Info] Считываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 из файла f0
+[Info] Записываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 в файл f6
+[Info] Считываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 из файла f0
+[Info] Записываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 в файл f6
+[Info] Считываем элемент Romania;Eurasia;Bucharest;238391;19237691 из файла f1
+[Info] Записываем элемент Romania;Eurasia;Bucharest;238391;19237691 в файл f6
+[Info] Считываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 из файла f1
+[Info] Записываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 в файл f6
+[Info] Считываем элемент Japan;Eurasia;Tokyo;377915;126476461 из файла f2
+[Info] Записываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 в файл f6
+[Info] Считываем элемент Norway;Eurasia;Oslo;323802;5421241 из файла f1
+[Info] Записываем элемент Italy;Eurasia;Roma;301340;60461826 в файл f6
+[Info] Считываем элемент Belgium;Eurasia;Brussels;30528;11589623 из файла f3
+[Info] Записываем элемент Belgium;Eurasia;Brussels;30528;11589623 в файл f6
+[Info] Считываем элемент Poland;Eurasia;Warsaw;312685;37846611 из файла f3
+[Info] Записываем элемент Poland;Eurasia;Warsaw;312685;37846611 в файл f6
+[Info] Считываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 из файла f3
+[Info] Записываем элемент Norway;Eurasia;Oslo;323802;5421241 в файл f6
+[Info] Считываем элемент Finland;Eurasia;Helsinki;338145;5540720 из файла f1
+[Info] Записываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 в файл f6
+[Info] Считываем элемент Yemen;Eurasia;Sanaa;527968;29825964 из файла f3
+[Info] Записываем элемент Finland;Eurasia;Helsinki;338145;5540720 в файл f6
+[Info] Считываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 из файла f1
+[Info] Записываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 в файл f6
+[Info] Считываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 из файла f0
+[Info] Записываем элемент Japan;Eurasia;Tokyo;377915;126476461 в файл f6
+[Info] Считываем элемент Iraq;Eurasia;Baghdad;438317;40222493 из файла f2
+[Info] Записываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 в файл f6
+[Info] Считываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 из файла f0
+[Info] Записываем элемент Iraq;Eurasia;Baghdad;438317;40222493 в файл f6
+[Info] Считываем элемент Spain;Eurasia;Madrid;505370;46754778 из файла f2
+[Info] Записываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 в файл f6
+[Info] Считываем элемент Sweden;Eurasia;Stockholm;450295;10099265 из файла f0
+[Info] Записываем элемент Sweden;Eurasia;Stockholm;450295;10099265 в файл f6
+[Info] Считываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 из файла f0
+[Info] Записываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 в файл f6
+[Info] Считываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 из файла f1
+[Info] Записываем элемент Spain;Eurasia;Madrid;505370;46754778 в файл f6
+[Info] Считываем элемент Ukraine;Eurasia;Kiev;603550;43733762 из файла f2
+[Info] Записываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 в файл f6
+[Info] Считываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 из файла f1
+[Info] Записываем элемент Yemen;Eurasia;Sanaa;527968;29825964 в файл f6
+[Info] Считываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 из файла f3
+[Info] Записываем элемент Ukraine;Eurasia;Kiev;603550;43733762 в файл f6
+[Info] Считываем элемент France;Eurasia;Paris;643801;65273511 из файла f2
+[Info] Записываем элемент France;Eurasia;Paris;643801;65273511 в файл f6
+[Info] Считываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 из файла f2
+[Info] Записываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 в файл f6
+[Info] Считываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 из файла f2
+[Info] Записываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 в файл f6
+[Info] Считываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 из файла f0
+[Info] Записываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 в файл f6
+[Info] Считываем элемент Czechia;Eurasia;Prague;78867;10708981 из файла f3
+[Info] Записываем элемент Czechia;Eurasia;Prague;78867;10708981 в файл f6
+[Info] Считываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 из файла f3
+[Info] Записываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 в файл f6
+[Info] Считываем элемент Austria;Eurasia;Vienna;83871;9006398 из файла f0
+[Info] Записываем элемент Austria;Eurasia;Vienna;83871;9006398 в файл f6
+[Info] Считываем элемент Hungary;Eurasia;Budapest;93028;9660351 из файла f0
+[Info] Записываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 в файл f6
+[Info] Считываем элемент Jordan;Eurasia;Amman;89342;10203134 из файла f1
+[Info] Записываем элемент Jordan;Eurasia;Amman;89342;10203134 в файл f6
+[Info] Считываем элемент Portugal;Eurasia;Lisbon;92090;10196709 из файла f1
+[Info] Записываем элемент Portugal;Eurasia;Lisbon;92090;10196709 в файл f6
+[Info] Считываем элемент Colombia;South America;Bogota;1138910;50882891 из файла f1
+[Info] Записываем элемент Hungary;Eurasia;Budapest;93028;9660351 в файл f6
+[Info] Считываем элемент Jamaica;North America;Kingston;10991;2961167 из файла f0
+[Info] Записываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 в файл f6
+[Info] Считываем элемент Lebanon;Eurasia;Beirut;10400;6825445 из файла f3
+[Info] Записываем элемент Lebanon;Eurasia;Beirut;10400;6825445 в файл f7
+[Info] Считываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 из файла f3
+[Info] Записываем элемент Jamaica;North America;Kingston;10991;2961167 в файл f7
+[Info] Считываем элемент Qatar;Eurasia;Doha;11586;2881053 из файла f0
+[Info] Записываем элемент Colombia;South America;Bogota;1138910;50882891 в файл f7
+[Info] Считываем элемент Jersey;Eurasia;Saint Helier;116;107800 из файла f1
+[Info] Записываем элемент Qatar;Eurasia;Doha;11586;2881053 в файл f7
+[Info] Считываем элемент Puerto Rico;North America;San Juan;13790;2860853 из файла f0
+[Info] Записываем элемент Jersey;Eurasia;Saint Helier;116;107800 в файл f7
+[Info] Считываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 из файла f1
+[Info] Записываем элемент Puerto Rico;North America;San Juan;13790;2860853 в файл f7
+[Info] Считываем элемент Reunion;Eurasia;Saint-denis;2512;895312 из файла f0
+[Info] Записываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 в файл f7
+[Info] Считываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 из файла f1
+[Info] Записываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 в файл f7
+[Info] Считываем элемент Argentina;South America;Buenos Aires;2780400;45195774 из файла f1
+[Info] Записываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 в файл f7
+[Info] Считываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 из файла f3
+[Info] Записываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 в файл f7
+[Info] Считываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 из файла f3
+[Info] Записываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 в файл f7
+[Info] Считываем элемент Israel;Eurasia;Jerusalem;20770;8655535 из файла f2
+[Info] Записываем элемент Israel;Eurasia;Jerusalem;20770;8655535 в файл f7
+[Info] Считываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 из файла f2
+[Info] Записываем элемент Reunion;Eurasia;Saint-denis;2512;895312 в файл f7
+[Info] Считываем элемент Albania;Eurasia;Tirana;28748;2877797 из файла f0
+[Info] Записываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 в файл f7
+[Info] Считываем элемент Macao;Eurasia;-;31;649335 из файла f3
+[Info] Записываем элемент Argentina;South America;Buenos Aires;2780400;45195774 в файл f7
+[Info] Считываем элемент Armenia;Eurasia;Yerevan;29743;2963243 из файла f1
+[Info] Записываем элемент Albania;Eurasia;Tirana;28748;2877797 в файл f7
+[Info] Считываем элемент Oman;Eurasia;Muscat;309500;5106626 из файла f0
+[Info] Записываем элемент Armenia;Eurasia;Yerevan;29743;2963243 в файл f7
+[Info] Считываем элемент Estonia;Eurasia;Tallinn;45228;1326535 из файла f1
+[Info] Записываем элемент Oman;Eurasia;Muscat;309500;5106626 в файл f7
+[Info] Считываем элемент Bhutan;Eurasia;Thimphu;38394;771608 из файла f0
+[Info] Записываем элемент Macao;Eurasia;-;31;649335 в файл f7
+[Info] Считываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 из файла f3
+[Info] Записываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 в файл f7
+[Info] Считываем элемент Switzerland;Eurasia;Bern;41277;8654622 из файла f2
+[Info] Записываем элемент Bhutan;Eurasia;Thimphu;38394;771608 в файл f7
+[Info] Считываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 из файла f0
+[Info] Записываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 в файл f7
+[Info] Считываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 из файла f0
+[Info] Записываем элемент Switzerland;Eurasia;Bern;41277;8654622 в файл f7
+[Info] Считываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 из файла f2
+[Info] Записываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 в файл f7
+[Info] Считываем элемент Latvia;Eurasia;Riga;64589;1886198 из файла f2
+[Info] Записываем элемент Estonia;Eurasia;Tallinn;45228;1326535 в файл f7
+[Info] Считываем элемент Isle of Man;Eurasia;Douglas;572;85033 из файла f1
+[Info] Записываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 в файл f7
+[Info] Считываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 из файла f3
+[Info] Записываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 в файл f7
+[Info] Считываем элемент Croatia;Eurasia;Zagreb;56594;4105267 из файла f3
+[Info] Записываем элемент Croatia;Eurasia;Zagreb;56594;4105267 в файл f7
+[Info] Считываем элемент Singapore;Eurasia;Singapore;697;5850342 из файла f3
+[Info] Записываем элемент Isle of Man;Eurasia;Douglas;572;85033 в файл f7
+[Info] Считываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 из файла f1
+[Info] Записываем элемент Latvia;Eurasia;Riga;64589;1886198 в файл f7
+[Info] Считываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 из файла f2
+[Info] Записываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 в файл f7
+[Info] Считываем элемент Ireland;Eurasia;Dublin;70273;4937786 из файла f0
+[Info] Записываем элемент Singapore;Eurasia;Singapore;697;5850342 в файл f7
+[Info] Считываем элемент Canada;North America;Ottawa;9984670;37742154 из файла f3
+[Info] Записываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 в файл f7
+[Info] Считываем элемент Bahrain;Eurasia;Manama;760;1701575 из файла f2
+[Info] Записываем элемент Ireland;Eurasia;Dublin;70273;4937786 в файл f7
+[Info] Считываем элемент Suriname;South America;Paramaribo;163820;586632 из файла f0
+[Info] Записываем элемент Bahrain;Eurasia;Manama;760;1701575 в файл f7
+[Info] Считываем элемент Serbia;Eurasia;Belgrade;77474;8737371 из файла f2
+[Info] Записываем элемент Serbia;Eurasia;Belgrade;77474;8737371 в файл f7
+[Info] Считываем элемент United States of America;North America;Washington;0;9826675 из файла f2
+[Info] Записываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 в файл f7
+[Info] Считываем элемент Peru;South America;Lima;1285216;32971854 из файла f1
+[Info] Записываем элемент Canada;North America;Ottawa;9984670;37742154 в файл f7
+[Info] Считываем элемент Guatemala;North America;Guatemala City;108889;17915568 из файла f3
+[Info] Записываем элемент United States of America;North America;Washington;0;9826675 в файл f4
+[Info] Считываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 из файла f2
+[Info] Записываем элемент Guatemala;North America;Guatemala City;108889;17915568 в файл f4
+[Info] Считываем элемент Cuba;North America;Havana;110860;11326616 из файла f3
+[Info] Записываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 в файл f4
+[Info] Считываем элемент Nicaragua;North America;Managua;130370;6624554 из файла f2
+[Info] Записываем элемент Cuba;North America;Havana;110860;11326616 в файл f4
+[Info] Считываем элемент Mexico;South America;Mexico City;1964375;128932753 из файла f3
+[Info] Записываем элемент Peru;South America;Lima;1285216;32971854 в файл f4
+[Info] Считываем элемент Chile;South America;Santiago;756102;19116201 из файла f1
+[Info] Записываем элемент Nicaragua;North America;Managua;130370;6624554 в файл f4
+[Info] Считываем элемент Montenegro;Eurasia;Podgorica;13812;628066 из файла f2
+[Info] Записываем элемент Montenegro;Eurasia;Podgorica;13812;628066 в файл f4
+[Info] Считываем элемент El Salvador;North America;San Salvador;21041;6486205 из файла f2
+[Info] Записываем элемент Suriname;South America;Paramaribo;163820;586632 в файл f4
+[Info] Считываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 из файла f0
+[Info] Записываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 в файл f4
+[Info] Считываем элемент Greenland;North America;Nuuk;2166086;56770 из файла f0
+[Info] Записываем элемент Mexico;South America;Mexico City;1964375;128932753 в файл f4
+[Info] Считываем элемент Haiti;North America;Port-au-prince;27750;11402528 из файла f3
+[Info] Записываем элемент El Salvador;North America;San Salvador;21041;6486205 в файл f4
+[Info] Считываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 из файла f2
+[Info] Записываем элемент Greenland;North America;Nuuk;2166086;56770 в файл f4
+[Info] Считываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 из файла f0
+[Info] Записываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 в файл f4
+[Info] Считываем элемент Maldives;Eurasia;Male;298;540544 из файла f2
+[Info] Записываем элемент Haiti;North America;Port-au-prince;27750;11402528 в файл f4
+[Info] Считываем элемент Ecuador;South America;Quito;283561;17643054 из файла f3
+[Info] Записываем элемент Ecuador;South America;Quito;283561;17643054 в файл f4
+[Info] Считываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 из файла f3
+[Info] Записываем элемент Maldives;Eurasia;Male;298;540544 в файл f4
+[Info] Считываем элемент Malta;Eurasia;Valletta;316;441543 из файла f2
+[Info] Записываем элемент Malta;Eurasia;Valletta;316;441543 в файл f4
+[Info] Считываем элемент Grenada;Eurasia;Saint George's;344;112523 из файла f2
+[Info] Записываем элемент Grenada;Eurasia;Saint George's;344;112523 в файл f4
+[Info] Считываем элемент Paraguay;South America;Asuncion;406752;7132538 из файла f2
+[Info] Записываем элемент Paraguay;South America;Asuncion;406752;7132538 в файл f4
+[Info] Считываем элемент Curacao;South America;Willemstad;444;164093 из файла f2
+[Info] Записываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 в файл f4
+[Info] Считываем элемент Saint Lucia;South America;Castries;616;183627 из файла f0
+[Info] Записываем элемент Curacao;South America;Willemstad;444;164093 в файл f4
+[Info] Считываем элемент Costa Rica;North America;San Jose;51100;5094118 из файла f2
+[Info] Записываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 в файл f4
+[Info] Считываем элемент Aruba;South America;Oranjestad;180;106766 из файла f3
+[Info] Записываем элемент Costa Rica;North America;San Jose;51100;5094118 в файл f4
+[Info] Считываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 из файла f2
+[Info] Записываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 в файл f4
+[Info] Считываем элемент Panama;North America;Panama;75420;4314767 из файла f2
+[Info] Записываем элемент Saint Lucia;South America;Castries;616;183627 в файл f4
+[Info] Считываем элемент Brazil;South America;Brasilia;8514877;212559417 из файла f0
+[Info] Записываем элемент Panama;North America;Panama;75420;4314767 в файл f4
+[Info] Считываем элемент Uruguay;South America;Montevideo;176215;3473730 из файла f2
+[Info] Записываем элемент Chile;South America;Santiago;756102;19116201 в файл f4
+[Info] Считываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 из файла f1
+[Info] Записываем элемент Brazil;South America;Brasilia;8514877;212559417 в файл f4
+[Info] Считываем элемент  из файла f0
+[Info] Записываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 в файл f4
+[Info] Считываем элемент  из файла f1
+[Info] Записываем элемент Uruguay;South America;Montevideo;176215;3473730 в файл f5
+[Info] Считываем элемент Guyana;South America;Georgetown;214969;786552 из файла f2
+[Info] Записываем элемент Aruba;South America;Oranjestad;180;106766 в файл f5
+[Info] Считываем элемент Dominica;South America;Roseau;751;71986 из файла f3
+[Info] Записываем элемент Guyana;South America;Georgetown;214969;786552 в файл f5
+[Info] Считываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 из файла f2
+[Info] Записываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 в файл f5
+[Info] Считываем элемент  из файла f2
+[Info] Записываем элемент Dominica;South America;Roseau;751;71986 в файл f5
+[Info] Считываем элемент  из файла f3
+[Info] Меняем входные и выходные файлы местами
+[Info] Записываем элемент Tanzania;Africa;United Republic of;0;947300 в файл f2
+[Info] Считываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 из файла f5
+[Info] Записываем элемент Egypt;Africa;Cairo;1001450;102334404 в файл f2
+[Info] Считываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 из файла f4
+[Info] Записываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 в файл f2
+[Info] Считываем элемент Liberia;Africa;Monrovia;111369;5057681 из файла f5
+[Info] Записываем элемент Lebanon;Eurasia;Beirut;10400;6825445 в файл f2
+[Info] Считываем элемент Jamaica;North America;Kingston;10991;2961167 из файла f7
+[Info] Записываем элемент Jamaica;North America;Kingston;10991;2961167 в файл f2
+[Info] Считываем элемент Colombia;South America;Bogota;1138910;50882891 из файла f7
+[Info] Записываем элемент Hong Kong;Eurasia;-;1104;7496981 в файл f2
+[Info] Считываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 из файла f6
+[Info] Записываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 в файл f2
+[Info] Считываем элемент Malawi;Africa;Lilongwe;118484;19129952 из файла f4
+[Info] Записываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 в файл f2
+[Info] Считываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 из файла f6
+[Info] Записываем элемент Liberia;Africa;Monrovia;111369;5057681 в файл f2
+[Info] Считываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 из файла f5
+[Info] Записываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 в файл f2
+[Info] Считываем элемент Benin;Africa;Porto-Novo;112622;12123200 из файла f5
+[Info] Записываем элемент Benin;Africa;Porto-Novo;112622;12123200 в файл f2
+[Info] Считываем элемент Gambia;Africa;Banjul;11295;2416668 из файла f5
+[Info] Записываем элемент Gambia;Africa;Banjul;11295;2416668 в файл f2
+[Info] Считываем элемент Eritrea;Africa;Asmara;117600;3546421 из файла f5
+[Info] Записываем элемент Colombia;South America;Bogota;1138910;50882891 в файл f2
+[Info] Считываем элемент Qatar;Eurasia;Doha;11586;2881053 из файла f7
+[Info] Записываем элемент Qatar;Eurasia;Doha;11586;2881053 в файл f2
+[Info] Считываем элемент Jersey;Eurasia;Saint Helier;116;107800 из файла f7
+[Info] Записываем элемент Jersey;Eurasia;Saint Helier;116;107800 в файл f2
+[Info] Считываем элемент Puerto Rico;North America;San Juan;13790;2860853 из файла f7
+[Info] Записываем элемент Eritrea;Africa;Asmara;117600;3546421 в файл f2
+[Info] Считываем элемент Tunisia;Africa;Tunis;163610;11818619 из файла f5
+[Info] Записываем элемент Malawi;Africa;Lilongwe;118484;19129952 в файл f2
+[Info] Считываем элемент Niger;Africa;Niamey;1186408;24206644 из файла f4
+[Info] Записываем элемент Niger;Africa;Niamey;1186408;24206644 в файл f2
+[Info] Считываем элемент South Africa;Africa;Cape Town;1219090;59308690 из файла f4
+[Info] Записываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 в файл f2
+[Info] Считываем элемент Greece;Eurasia;Athens;131957;10423054 из файла f6
+[Info] Записываем элемент South Africa;Africa;Cape Town;1219090;59308690 в файл f2
+[Info] Считываем элемент Mali;Africa;Bamako;1240192;20250833 из файла f4
+[Info] Записываем элемент Mali;Africa;Bamako;1240192;20250833 в файл f2
+[Info] Считываем элемент Angola;Africa;Luanda;1246700;32866272 из файла f4
+[Info] Записываем элемент Angola;Africa;Luanda;1246700;32866272 в файл f2
+[Info] Считываем элемент Chad;Africa;N'djamena;1284000;16425864 из файла f4
+[Info] Записываем элемент Chad;Africa;N'djamena;1284000;16425864 в файл f2
+[Info] Считываем элемент Libya;Africa;Tripoli;1759540;6871292 из файла f4
+[Info] Записываем элемент Greece;Eurasia;Athens;131957;10423054 в файл f2
+[Info] Считываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 из файла f6
+[Info] Записываем элемент Puerto Rico;North America;San Juan;13790;2860853 в файл f2
+[Info] Считываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 из файла f7
+[Info] Записываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 в файл f2
+[Info] Считываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 из файла f6
+[Info] Записываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 в файл f2
+[Info] Считываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 из файла f6
+[Info] Записываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 в файл f2
+[Info] Считываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 из файла f6
+[Info] Записываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 в файл f2
+[Info] Считываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 из файла f7
+[Info] Записываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 в файл f2
+[Info] Считываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 из файла f7
+[Info] Записываем элемент Tunisia;Africa;Tunis;163610;11818619 в файл f2
+[Info] Считываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 из файла f5
+[Info] Записываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 в файл f2
+[Info] Считываем элемент Eswatini;Africa;Mbabane;17364;1160164 из файла f5
+[Info] Записываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 в файл f2
+[Info] Считываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 из файла f6
+[Info] Записываем элемент Eswatini;Africa;Mbabane;17364;1160164 в файл f2
+[Info] Считываем элемент Fiji;Australia;Suva;18274;896445 из файла f5
+[Info] Записываем элемент Libya;Africa;Tripoli;1759540;6871292 в файл f2
+[Info] Считываем элемент Sudan;Africa;Khartoum;1861484;43849260 из файла f4
+[Info] Записываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 в файл f2
+[Info] Считываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 из файла f7
+[Info] Записываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 в файл f2
+[Info] Считываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 из файла f6
+[Info] Записываем элемент Fiji;Australia;Suva;18274;896445 в файл f2
+[Info] Считываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 из файла f5
+[Info] Записываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 в файл f2
+[Info] Считываем элемент Belarus;Eurasia;Minsk;207600;9449323 из файла f6
+[Info] Записываем элемент Sudan;Africa;Khartoum;1861484;43849260 в файл f2
+[Info] Считываем элемент Senegal;Africa;Dakar;196722;16743927 из файла f4
+[Info] Записываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 в файл f2
+[Info] Считываем элемент Mauritius;Africa;Port Louis;2040;1271768 из файла f5
+[Info] Записываем элемент Senegal;Africa;Dakar;196722;16743927 в файл f2
+[Info] Считываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 из файла f4
+[Info] Записываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 в файл f2
+[Info] Считываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 из файла f7
+[Info] Записываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 в файл f2
+[Info] Считываем элемент Israel;Eurasia;Jerusalem;20770;8655535 из файла f7
+[Info] Записываем элемент Mauritius;Africa;Port Louis;2040;1271768 в файл f2
+[Info] Считываем элемент Comoros;Africa;Moroni;2235;869601 из файла f5
+[Info] Записываем элемент Belarus;Eurasia;Minsk;207600;9449323 в файл f2
+[Info] Считываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 из файла f6
+[Info] Записываем элемент Israel;Eurasia;Jerusalem;20770;8655535 в файл f2
+[Info] Считываем элемент Reunion;Eurasia;Saint-denis;2512;895312 из файла f7
+[Info] Записываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 в файл f2
+[Info] Считываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 из файла f6
+[Info] Записываем элемент Comoros;Africa;Moroni;2235;869601 в файл f2
+[Info] Считываем элемент Djibouti;Africa;Djibouti;23200;988000 из файла f5
+[Info] Записываем элемент Djibouti;Africa;Djibouti;23200;988000 в файл f2
+[Info] Считываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 из файла f5
+[Info] Записываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 в файл f2
+[Info] Считываем элемент Algeria;Africa;Algiers;2381741;43851044 из файла f4
+[Info] Записываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 в файл f2
+[Info] Считываем элемент Romania;Eurasia;Bucharest;238391;19237691 из файла f6
+[Info] Записываем элемент Algeria;Africa;Algiers;2381741;43851044 в файл f2
+[Info] Считываем элемент Ghana;Africa;Accra;238533;31072940 из файла f4
+[Info] Записываем элемент Romania;Eurasia;Bucharest;238391;19237691 в файл f2
+[Info] Считываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 из файла f6
+[Info] Записываем элемент Ghana;Africa;Accra;238533;31072940 в файл f2
+[Info] Считываем элемент Uganda;Africa;Kampala;241038;45741007 из файла f4
+[Info] Записываем элемент Uganda;Africa;Kampala;241038;45741007 в файл f2
+[Info] Считываем элемент Guinea;Africa;Conakry;245857;13132795 из файла f4
+[Info] Записываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 в файл f2
+[Info] Считываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 из файла f6
+[Info] Записываем элемент Guinea;Africa;Conakry;245857;13132795 в файл f2
+[Info] Считываем элемент Rwanda;Africa;Kigali;26338;12952218 из файла f4
+[Info] Записываем элемент Reunion;Eurasia;Saint-denis;2512;895312 в файл f2
+[Info] Считываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 из файла f7
+[Info] Записываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 в файл f2
+[Info] Считываем элемент Argentina;South America;Buenos Aires;2780400;45195774 из файла f7
+[Info] Записываем элемент Rwanda;Africa;Kigali;26338;12952218 в файл f2
+[Info] Считываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 из файла f4
+[Info] Записываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 в файл f2
+[Info] Считываем элемент Gabon;Africa;Libreville;267667;2225734 из файла f5
+[Info] Записываем элемент Gabon;Africa;Libreville;267667;2225734 в файл f2
+[Info] Считываем элемент New Zealand;Australia;Wellington;267710;4822233 из файла f5
+[Info] Записываем элемент New Zealand;Australia;Wellington;267710;4822233 в файл f2
+[Info] Считываем элемент Burundi;Africa;Bujumbura;27830;11890784 из файла f5
+[Info] Записываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 в файл f2
+[Info] Считываем элемент Italy;Eurasia;Roma;301340;60461826 из файла f6
+[Info] Записываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 в файл f2
+[Info] Считываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 из файла f4
+[Info] Записываем элемент Argentina;South America;Buenos Aires;2780400;45195774 в файл f2
+[Info] Считываем элемент Albania;Eurasia;Tirana;28748;2877797 из файла f7
+[Info] Записываем элемент Burundi;Africa;Bujumbura;27830;11890784 в файл f2
+[Info] Считываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 из файла f5
+[Info] Записываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 в файл f2
+[Info] Считываем элемент Samoa;Australia;Apia;2831;198414 из файла f5
+[Info] Записываем элемент Samoa;Australia;Apia;2831;198414 в файл f2
+[Info] Считываем элемент Solomon Islands;Australia;Honiara;28896;686884 из файла f5
+[Info] Записываем элемент Albania;Eurasia;Tirana;28748;2877797 в файл f2
+[Info] Считываем элемент Armenia;Eurasia;Yerevan;29743;2963243 из файла f7
+[Info] Записываем элемент Solomon Islands;Australia;Honiara;28896;686884 в файл f2
+[Info] Считываем элемент Philippines;Eurasia;Manila;300000;109581078 из файла f5
+[Info] Записываем элемент Armenia;Eurasia;Yerevan;29743;2963243 в файл f2
+[Info] Считываем элемент Oman;Eurasia;Muscat;309500;5106626 из файла f7
+[Info] Записываем элемент Philippines;Eurasia;Manila;300000;109581078 в файл f2
+[Info] Считываем элемент Lesotho;Africa;Maseru;30355;2142249 из файла f5
+[Info] Записываем элемент Italy;Eurasia;Roma;301340;60461826 в файл f2
+[Info] Считываем элемент Belgium;Eurasia;Brussels;30528;11589623 из файла f6
+[Info] Записываем элемент Lesotho;Africa;Maseru;30355;2142249 в файл f2
+[Info] Считываем элемент India;Eurasia;New Delhi;3287263;1380004385 из файла f5
+[Info] Записываем элемент Belgium;Eurasia;Brussels;30528;11589623 в файл f2
+[Info] Считываем элемент Poland;Eurasia;Warsaw;312685;37846611 из файла f6
+[Info] Записываем элемент Oman;Eurasia;Muscat;309500;5106626 в файл f2
+[Info] Считываем элемент Macao;Eurasia;-;31;649335 из файла f7
+[Info] Записываем элемент Macao;Eurasia;-;31;649335 в файл f2
+[Info] Считываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 из файла f7
+[Info] Записываем элемент Poland;Eurasia;Warsaw;312685;37846611 в файл f2
+[Info] Считываем элемент Norway;Eurasia;Oslo;323802;5421241 из файла f6
+[Info] Записываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 в файл f2
+[Info] Считываем элемент Congo;Africa;Brazzaville;342000;5518087 из файла f4
+[Info] Записываем элемент Norway;Eurasia;Oslo;323802;5421241 в файл f2
+[Info] Считываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 из файла f6
+[Info] Записываем элемент India;Eurasia;New Delhi;3287263;1380004385 в файл f2
+[Info] Считываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 из файла f5
+[Info] Записываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 в файл f2
+[Info] Считываем элемент Finland;Eurasia;Helsinki;338145;5540720 из файла f6
+[Info] Записываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 в файл f2
+[Info] Считываем элемент Germany;Eurasia;Berlin;357022;83783942 из файла f5
+[Info] Записываем элемент Finland;Eurasia;Helsinki;338145;5540720 в файл f2
+[Info] Считываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 из файла f6
+[Info] Записываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 в файл f2
+[Info] Считываем элемент Bhutan;Eurasia;Thimphu;38394;771608 из файла f7
+[Info] Записываем элемент Congo;Africa;Brazzaville;342000;5518087 в файл f2
+[Info] Считываем элемент Zimbabwe;Africa;Harare;390757;14862924 из файла f4
+[Info] Записываем элемент Germany;Eurasia;Berlin;357022;83783942 в файл f2
+[Info] Считываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 из файла f5
+[Info] Записываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 в файл f2
+[Info] Считываем элемент Japan;Eurasia;Tokyo;377915;126476461 из файла f6
+[Info] Записываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 в файл f2
+[Info] Считываем элемент Cabo Verde;Africa;Praia;4033;555987 из файла f5
+[Info] Записываем элемент Japan;Eurasia;Tokyo;377915;126476461 в файл f2
+[Info] Считываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 из файла f6
+[Info] Записываем элемент Bhutan;Eurasia;Thimphu;38394;771608 в файл f2
+[Info] Считываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 из файла f7
+[Info] Записываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 в файл f2
+[Info] Считываем элемент Switzerland;Eurasia;Bern;41277;8654622 из файла f7
+[Info] Записываем элемент Zimbabwe;Africa;Harare;390757;14862924 в файл f2
+[Info] Считываем элемент Morocco;Africa;Rabat;446550;36910560 из файла f4
+[Info] Записываем элемент Cabo Verde;Africa;Praia;4033;555987 в файл f2
+[Info] Считываем элемент Seychelles;Africa;Victoria;455;98347 из файла f5
+[Info] Записываем элемент Switzerland;Eurasia;Bern;41277;8654622 в файл f2
+[Info] Считываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 из файла f7
+[Info] Записываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 в файл f2
+[Info] Считываем элемент Iraq;Eurasia;Baghdad;438317;40222493 из файла f6
+[Info] Записываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 в файл f2
+[Info] Считываем элемент Estonia;Eurasia;Tallinn;45228;1326535 из файла f7
+[Info] Записываем элемент Iraq;Eurasia;Baghdad;438317;40222493 в файл f2
+[Info] Считываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 из файла f6
+[Info] Записываем элемент Morocco;Africa;Rabat;446550;36910560 в файл f2
+[Info] Считываем элемент Cameroon;Africa;Yaounde;475440;26545863 из файла f4
+[Info] Записываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 в файл f2
+[Info] Считываем элемент Sweden;Eurasia;Stockholm;450295;10099265 из файла f6
+[Info] Записываем элемент Sweden;Eurasia;Stockholm;450295;10099265 в файл f2
+[Info] Считываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 из файла f6
+[Info] Записываем элемент Estonia;Eurasia;Tallinn;45228;1326535 в файл f2
+[Info] Считываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 из файла f7
+[Info] Записываем элемент Seychelles;Africa;Victoria;455;98347 в файл f2
+[Info] Считываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 из файла f5
+[Info] Записываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 в файл f2
+[Info] Считываем элемент Thailand;Eurasia;Bangkok;513120;69799978 из файла f5
+[Info] Записываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 в файл f2
+[Info] Считываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 из файла f7
+[Info] Записываем элемент Cameroon;Africa;Yaounde;475440;26545863 в файл f2
+[Info] Считываем элемент Kenya;Africa;Nairobi;580367;53771296 из файла f4
+[Info] Записываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 в файл f2
+[Info] Считываем элемент Croatia;Eurasia;Zagreb;56594;4105267 из файла f7
+[Info] Записываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 в файл f2
+[Info] Считываем элемент Spain;Eurasia;Madrid;505370;46754778 из файла f6
+[Info] Записываем элемент Spain;Eurasia;Madrid;505370;46754778 в файл f2
+[Info] Считываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 из файла f6
+[Info] Записываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 в файл f2
+[Info] Считываем элемент Yemen;Eurasia;Sanaa;527968;29825964 из файла f6
+[Info] Записываем элемент Thailand;Eurasia;Bangkok;513120;69799978 в файл f2
+[Info] Считываем элемент Guam;Australia;Hagatna;544;168775 из файла f5
+[Info] Записываем элемент Yemen;Eurasia;Sanaa;527968;29825964 в файл f2
+[Info] Считываем элемент Ukraine;Eurasia;Kiev;603550;43733762 из файла f6
+[Info] Записываем элемент Guam;Australia;Hagatna;544;168775 в файл f2
+[Info] Считываем элемент Togo;Africa;Lome;56785;8278724 из файла f5
+[Info] Записываем элемент Croatia;Eurasia;Zagreb;56594;4105267 в файл f2
+[Info] Считываем элемент Isle of Man;Eurasia;Douglas;572;85033 из файла f7
+[Info] Записываем элемент Togo;Africa;Lome;56785;8278724 в файл f2
+[Info] Считываем элемент Botswana;Africa;Gaborone;581730;2351627 из файла f5
+[Info] Записываем элемент Isle of Man;Eurasia;Douglas;572;85033 в файл f2
+[Info] Считываем элемент Latvia;Eurasia;Riga;64589;1886198 из файла f7
+[Info] Записываем элемент Kenya;Africa;Nairobi;580367;53771296 в файл f2
+[Info] Считываем элемент Madagascar;Africa;Antananarivo;587041;27691018 из файла f4
+[Info] Записываем элемент Botswana;Africa;Gaborone;581730;2351627 в файл f2
+[Info] Считываем элемент Central African Republic;Africa;Bangui;622984;4829767 из файла f5
+[Info] Записываем элемент Madagascar;Africa;Antananarivo;587041;27691018 в файл f2
+[Info] Считываем элемент Somalia;Africa;Mogadishu;637657;15893222 из файла f4
+[Info] Записываем элемент Ukraine;Eurasia;Kiev;603550;43733762 в файл f2
+[Info] Считываем элемент France;Eurasia;Paris;643801;65273511 из файла f6
+[Info] Записываем элемент Central African Republic;Africa;Bangui;622984;4829767 в файл f2
+[Info] Считываем элемент South Sudan;Africa;Juba;644329;11193725 из файла f5
+[Info] Записываем элемент Somalia;Africa;Mogadishu;637657;15893222 в файл f2
+[Info] Считываем элемент Zambia;Africa;Lusaka;752618;18383955 из файла f4
+[Info] Записываем элемент France;Eurasia;Paris;643801;65273511 в файл f2
+[Info] Считываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 из файла f6
+[Info] Записываем элемент South Sudan;Africa;Juba;644329;11193725 в файл f2
+[Info] Считываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 из файла f5
+[Info] Записываем элемент Latvia;Eurasia;Riga;64589;1886198 в файл f2
+[Info] Считываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 из файла f7
+[Info] Записываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 в файл f2
+[Info] Считываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 из файла f6
+[Info] Записываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 в файл f2
+[Info] Считываем элемент Singapore;Eurasia;Singapore;697;5850342 из файла f7
+[Info] Записываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 в файл f2
+[Info] Считываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 из файла f6
+[Info] Записываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 в файл f2
+[Info] Считываем элемент Czechia;Eurasia;Prague;78867;10708981 из файла f6
+[Info] Записываем элемент Singapore;Eurasia;Singapore;697;5850342 в файл f2
+[Info] Считываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 из файла f7
+[Info] Записываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 в файл f2
+[Info] Считываем элемент Ireland;Eurasia;Dublin;70273;4937786 из файла f7
+[Info] Записываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 в файл f2
+[Info] Считываем элемент Sierra Leone;Africa;Freetown;71740;7976983 из файла f5
+[Info] Записываем элемент Ireland;Eurasia;Dublin;70273;4937786 в файл f2
+[Info] Считываем элемент Bahrain;Eurasia;Manama;760;1701575 из файла f7
+[Info] Записываем элемент Sierra Leone;Africa;Freetown;71740;7976983 в файл f2
+[Info] Считываем элемент Tonga;Australia;Nuku'alofa;747;105695 из файла f5
+[Info] Записываем элемент Tonga;Australia;Nuku'alofa;747;105695 в файл f2
+[Info] Считываем элемент Australia;Australia;Canberra;7741220;25499884 из файла f5
+[Info] Записываем элемент Zambia;Africa;Lusaka;752618;18383955 в файл f2
+[Info] Считываем элемент Mozambique;Africa;Maputo;799380;31255435 из файла f4
+[Info] Записываем элемент Bahrain;Eurasia;Manama;760;1701575 в файл f2
+[Info] Считываем элемент Serbia;Eurasia;Belgrade;77474;8737371 из файла f7
+[Info] Записываем элемент Australia;Australia;Canberra;7741220;25499884 в файл f2
+[Info] Считываем элемент Turkey;Eurasia;Ankara;783562;84339067 из файла f5
+[Info] Записываем элемент Serbia;Eurasia;Belgrade;77474;8737371 в файл f2
+[Info] Считываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 из файла f7
+[Info] Записываем элемент Turkey;Eurasia;Ankara;783562;84339067 в файл f2
+[Info] Считываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 из файла f5
+[Info] Записываем элемент Czechia;Eurasia;Prague;78867;10708981 в файл f2
+[Info] Считываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 из файла f6
+[Info] Записываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 в файл f2
+[Info] Считываем элемент Kiribati;Australia;Tarawa;811;119449 из файла f5
+[Info] Записываем элемент Mozambique;Africa;Maputo;799380;31255435 в файл f2
+[Info] Считываем элемент Nigeria;Africa;Abuja;923768;206139589 из файла f4
+[Info] Записываем элемент Kiribati;Australia;Tarawa;811;119449 в файл f2
+[Info] Считываем элемент Namibia;Africa;Windhoek;824292;2540905 из файла f5
+[Info] Записываем элемент Namibia;Africa;Windhoek;824292;2540905 в файл f2
+[Info] Считываем элемент China;Eurasia;Beijing;9596961;1439323776 из файла f5
+[Info] Записываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 в файл f2
+[Info] Считываем элемент Austria;Eurasia;Vienna;83871;9006398 из файла f6
+[Info] Записываем элемент Austria;Eurasia;Vienna;83871;9006398 в файл f2
+[Info] Считываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 из файла f6
+[Info] Записываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 в файл f2
+[Info] Считываем элемент Jordan;Eurasia;Amman;89342;10203134 из файла f6
+[Info] Записываем элемент Jordan;Eurasia;Amman;89342;10203134 в файл f2
+[Info] Считываем элемент Portugal;Eurasia;Lisbon;92090;10196709 из файла f6
+[Info] Записываем элемент Portugal;Eurasia;Lisbon;92090;10196709 в файл f2
+[Info] Считываем элемент Hungary;Eurasia;Budapest;93028;9660351 из файла f6
+[Info] Записываем элемент Nigeria;Africa;Abuja;923768;206139589 в файл f2
+[Info] Считываем элемент United States of America;North America;Washington;0;9826675 из файла f4
+[Info] Записываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 в файл f2
+[Info] Считываем элемент Canada;North America;Ottawa;9984670;37742154 из файла f7
+[Info] Записываем элемент Hungary;Eurasia;Budapest;93028;9660351 в файл f2
+[Info] Считываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 из файла f6
+[Info] Записываем элемент China;Eurasia;Beijing;9596961;1439323776 в файл f2
+[Info] Считываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 из файла f5
+[Info] Записываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 в файл f2
+[Info] Считываем элемент Uruguay;South America;Montevideo;176215;3473730 из файла f5
+[Info] Записываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 в файл f2
+[Info] Считываем элемент  из файла f6
+[Info] Записываем элемент Canada;North America;Ottawa;9984670;37742154 в файл f2
+[Info] Считываем элемент  из файла f7
+[Info] Записываем элемент United States of America;North America;Washington;0;9826675 в файл f3
+[Info] Считываем элемент Guatemala;North America;Guatemala City;108889;17915568 из файла f4
+[Info] Записываем элемент Guatemala;North America;Guatemala City;108889;17915568 в файл f3
+[Info] Считываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 из файла f4
+[Info] Записываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 в файл f3
+[Info] Считываем элемент Cuba;North America;Havana;110860;11326616 из файла f4
+[Info] Записываем элемент Cuba;North America;Havana;110860;11326616 в файл f3
+[Info] Считываем элемент Peru;South America;Lima;1285216;32971854 из файла f4
+[Info] Записываем элемент Peru;South America;Lima;1285216;32971854 в файл f3
+[Info] Считываем элемент Nicaragua;North America;Managua;130370;6624554 из файла f4
+[Info] Записываем элемент Nicaragua;North America;Managua;130370;6624554 в файл f3
+[Info] Считываем элемент Montenegro;Eurasia;Podgorica;13812;628066 из файла f4
+[Info] Записываем элемент Montenegro;Eurasia;Podgorica;13812;628066 в файл f3
+[Info] Считываем элемент Suriname;South America;Paramaribo;163820;586632 из файла f4
+[Info] Записываем элемент Suriname;South America;Paramaribo;163820;586632 в файл f3
+[Info] Считываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 из файла f4
+[Info] Записываем элемент Uruguay;South America;Montevideo;176215;3473730 в файл f3
+[Info] Считываем элемент Aruba;South America;Oranjestad;180;106766 из файла f5
+[Info] Записываем элемент Aruba;South America;Oranjestad;180;106766 в файл f3
+[Info] Считываем элемент Guyana;South America;Georgetown;214969;786552 из файла f5
+[Info] Записываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 в файл f3
+[Info] Считываем элемент Mexico;South America;Mexico City;1964375;128932753 из файла f4
+[Info] Записываем элемент Mexico;South America;Mexico City;1964375;128932753 в файл f3
+[Info] Считываем элемент El Salvador;North America;San Salvador;21041;6486205 из файла f4
+[Info] Записываем элемент El Salvador;North America;San Salvador;21041;6486205 в файл f3
+[Info] Считываем элемент Greenland;North America;Nuuk;2166086;56770 из файла f4
+[Info] Записываем элемент Guyana;South America;Georgetown;214969;786552 в файл f3
+[Info] Считываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 из файла f5
+[Info] Записываем элемент Greenland;North America;Nuuk;2166086;56770 в файл f3
+[Info] Считываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 из файла f4
+[Info] Записываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 в файл f3
+[Info] Считываем элемент Haiti;North America;Port-au-prince;27750;11402528 из файла f4
+[Info] Записываем элемент Haiti;North America;Port-au-prince;27750;11402528 в файл f3
+[Info] Считываем элемент Ecuador;South America;Quito;283561;17643054 из файла f4
+[Info] Записываем элемент Ecuador;South America;Quito;283561;17643054 в файл f3
+[Info] Считываем элемент Maldives;Eurasia;Male;298;540544 из файла f4
+[Info] Записываем элемент Maldives;Eurasia;Male;298;540544 в файл f3
+[Info] Считываем элемент Malta;Eurasia;Valletta;316;441543 из файла f4
+[Info] Записываем элемент Malta;Eurasia;Valletta;316;441543 в файл f3
+[Info] Считываем элемент Grenada;Eurasia;Saint George's;344;112523 из файла f4
+[Info] Записываем элемент Grenada;Eurasia;Saint George's;344;112523 в файл f3
+[Info] Считываем элемент Paraguay;South America;Asuncion;406752;7132538 из файла f4
+[Info] Записываем элемент Paraguay;South America;Asuncion;406752;7132538 в файл f3
+[Info] Считываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 из файла f4
+[Info] Записываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 в файл f3
+[Info] Считываем элемент Curacao;South America;Willemstad;444;164093 из файла f4
+[Info] Записываем элемент Curacao;South America;Willemstad;444;164093 в файл f3
+[Info] Считываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 из файла f4
+[Info] Записываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 в файл f3
+[Info] Считываем элемент Costa Rica;North America;San Jose;51100;5094118 из файла f4
+[Info] Записываем элемент Costa Rica;North America;San Jose;51100;5094118 в файл f3
+[Info] Считываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 из файла f4
+[Info] Записываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 в файл f3
+[Info] Считываем элемент Dominica;South America;Roseau;751;71986 из файла f5
+[Info] Записываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 в файл f3
+[Info] Считываем элемент Saint Lucia;South America;Castries;616;183627 из файла f4
+[Info] Записываем элемент Saint Lucia;South America;Castries;616;183627 в файл f3
+[Info] Считываем элемент Panama;North America;Panama;75420;4314767 из файла f4
+[Info] Записываем элемент Dominica;South America;Roseau;751;71986 в файл f3
+[Info] Считываем элемент  из файла f5
+[Info] Записываем элемент Panama;North America;Panama;75420;4314767 в файл f3
+[Info] Считываем элемент Chile;South America;Santiago;756102;19116201 из файла f4
+[Info] Записываем элемент Chile;South America;Santiago;756102;19116201 в файл f3
+[Info] Считываем элемент Brazil;South America;Brasilia;8514877;212559417 из файла f4
+[Info] Записываем элемент Brazil;South America;Brasilia;8514877;212559417 в файл f3
+[Info] Считываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 из файла f4
+[Info] Записываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 в файл f3
+[Info] Считываем элемент  из файла f4
+[Info] Меняем входные и выходные файлы местами
+[Info] Записываем элемент Tanzania;Africa;United Republic of;0;947300 в файл f4
+[Info] Считываем элемент Egypt;Africa;Cairo;1001450;102334404 из файла f2
+[Info] Записываем элемент United States of America;North America;Washington;0;9826675 в файл f4
+[Info] Считываем элемент Guatemala;North America;Guatemala City;108889;17915568 из файла f3
+[Info] Записываем элемент Egypt;Africa;Cairo;1001450;102334404 в файл f4
+[Info] Считываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 из файла f2
+[Info] Записываем элемент Mauritania;Africa;Nouakchott;1030700;4649658 в файл f4
+[Info] Считываем элемент Lebanon;Eurasia;Beirut;10400;6825445 из файла f2
+[Info] Записываем элемент Lebanon;Eurasia;Beirut;10400;6825445 в файл f4
+[Info] Считываем элемент Jamaica;North America;Kingston;10991;2961167 из файла f2
+[Info] Записываем элемент Guatemala;North America;Guatemala City;108889;17915568 в файл f4
+[Info] Считываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 из файла f3
+[Info] Записываем элемент Bolivia (Plurinational State of);South America;Sucre;1098581;11673021 в файл f4
+[Info] Считываем элемент Cuba;North America;Havana;110860;11326616 из файла f3
+[Info] Записываем элемент Jamaica;North America;Kingston;10991;2961167 в файл f4
+[Info] Считываем элемент Hong Kong;Eurasia;-;1104;7496981 из файла f2
+[Info] Записываем элемент Hong Kong;Eurasia;-;1104;7496981 в файл f4
+[Info] Считываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 из файла f2
+[Info] Записываем элемент Ethiopia;Africa;Addis Ababa;1104300;114963588 в файл f4
+[Info] Считываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 из файла f2
+[Info] Записываем элемент Cuba;North America;Havana;110860;11326616 в файл f4
+[Info] Считываем элемент Peru;South America;Lima;1285216;32971854 из файла f3
+[Info] Записываем элемент Bulgaria;Eurasia;Sofia;110879;6948445 в файл f4
+[Info] Считываем элемент Liberia;Africa;Monrovia;111369;5057681 из файла f2
+[Info] Записываем элемент Liberia;Africa;Monrovia;111369;5057681 в файл f4
+[Info] Считываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 из файла f2
+[Info] Записываем элемент Honduras;Africa;Tegucigalpa;112090;9904607 в файл f4
+[Info] Считываем элемент Benin;Africa;Porto-Novo;112622;12123200 из файла f2
+[Info] Записываем элемент Benin;Africa;Porto-Novo;112622;12123200 в файл f4
+[Info] Считываем элемент Gambia;Africa;Banjul;11295;2416668 из файла f2
+[Info] Записываем элемент Gambia;Africa;Banjul;11295;2416668 в файл f4
+[Info] Считываем элемент Colombia;South America;Bogota;1138910;50882891 из файла f2
+[Info] Записываем элемент Colombia;South America;Bogota;1138910;50882891 в файл f4
+[Info] Считываем элемент Qatar;Eurasia;Doha;11586;2881053 из файла f2
+[Info] Записываем элемент Qatar;Eurasia;Doha;11586;2881053 в файл f4
+[Info] Считываем элемент Jersey;Eurasia;Saint Helier;116;107800 из файла f2
+[Info] Записываем элемент Jersey;Eurasia;Saint Helier;116;107800 в файл f4
+[Info] Считываем элемент Eritrea;Africa;Asmara;117600;3546421 из файла f2
+[Info] Записываем элемент Eritrea;Africa;Asmara;117600;3546421 в файл f4
+[Info] Считываем элемент Malawi;Africa;Lilongwe;118484;19129952 из файла f2
+[Info] Записываем элемент Malawi;Africa;Lilongwe;118484;19129952 в файл f4
+[Info] Считываем элемент Niger;Africa;Niamey;1186408;24206644 из файла f2
+[Info] Записываем элемент Niger;Africa;Niamey;1186408;24206644 в файл f4
+[Info] Считываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 из файла f2
+[Info] Записываем элемент Korea (Democratic People's Republic of);Eurasia;Pyongyang;120538;25778816 в файл f4
+[Info] Считываем элемент South Africa;Africa;Cape Town;1219090;59308690 из файла f2
+[Info] Записываем элемент South Africa;Africa;Cape Town;1219090;59308690 в файл f4
+[Info] Считываем элемент Mali;Africa;Bamako;1240192;20250833 из файла f2
+[Info] Записываем элемент Mali;Africa;Bamako;1240192;20250833 в файл f4
+[Info] Считываем элемент Angola;Africa;Luanda;1246700;32866272 из файла f2
+[Info] Записываем элемент Angola;Africa;Luanda;1246700;32866272 в файл f4
+[Info] Считываем элемент Chad;Africa;N'djamena;1284000;16425864 из файла f2
+[Info] Записываем элемент Chad;Africa;N'djamena;1284000;16425864 в файл f4
+[Info] Считываем элемент Greece;Eurasia;Athens;131957;10423054 из файла f2
+[Info] Записываем элемент Peru;South America;Lima;1285216;32971854 в файл f4
+[Info] Считываем элемент Nicaragua;North America;Managua;130370;6624554 из файла f3
+[Info] Записываем элемент Nicaragua;North America;Managua;130370;6624554 в файл f4
+[Info] Считываем элемент Montenegro;Eurasia;Podgorica;13812;628066 из файла f3
+[Info] Записываем элемент Greece;Eurasia;Athens;131957;10423054 в файл f4
+[Info] Считываем элемент Puerto Rico;North America;San Juan;13790;2860853 из файла f2
+[Info] Записываем элемент Puerto Rico;North America;San Juan;13790;2860853 в файл f4
+[Info] Считываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 из файла f2
+[Info] Записываем элемент Montenegro;Eurasia;Podgorica;13812;628066 в файл f4
+[Info] Считываем элемент Suriname;South America;Paramaribo;163820;586632 из файла f3
+[Info] Записываем элемент Tajikistan;Eurasia;Dushanbe;143100;9537645 в файл f4
+[Info] Считываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 из файла f2
+[Info] Записываем элемент Bangladesh;Eurasia;Dhaka;143998;164689383 в файл f4
+[Info] Считываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 из файла f2
+[Info] Записываем элемент Nepal;Eurasia;Kathmandu;147181;29136808 в файл f4
+[Info] Считываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 из файла f2
+[Info] Записываем элемент Timor-Leste;Eurasia;Dili;14874;1318445 в файл f4
+[Info] Считываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 из файла f2
+[Info] Записываем элемент Mongolia;Eurasia;Ulaanbaatar;1564116;3278290 в файл f4
+[Info] Считываем элемент Tunisia;Africa;Tunis;163610;11818619 из файла f2
+[Info] Записываем элемент Tunisia;Africa;Tunis;163610;11818619 в файл f4
+[Info] Считываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 из файла f2
+[Info] Записываем элемент Suriname;South America;Paramaribo;163820;586632 в файл f4
+[Info] Считываем элемент Uruguay;South America;Montevideo;176215;3473730 из файла f3
+[Info] Записываем элемент Iran (Islamic Republic of);Eurasia;Tehran;1648195;83992949 в файл f4
+[Info] Считываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 из файла f2
+[Info] Записываем элемент Russian Federation;Eurasia;Moscow;17098242;145934462 в файл f4
+[Info] Считываем элемент Eswatini;Africa;Mbabane;17364;1160164 из файла f2
+[Info] Записываем элемент Eswatini;Africa;Mbabane;17364;1160164 в файл f4
+[Info] Считываем элемент Libya;Africa;Tripoli;1759540;6871292 из файла f2
+[Info] Записываем элемент Libya;Africa;Tripoli;1759540;6871292 в файл f4
+[Info] Считываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 из файла f2
+[Info] Записываем элемент Uruguay;South America;Montevideo;176215;3473730 в файл f4
+[Info] Считываем элемент Aruba;South America;Oranjestad;180;106766 из файла f3
+[Info] Записываем элемент Kuwait;Eurasia;Kuwait;17818;4270571 в файл f4
+[Info] Считываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 из файла f2
+[Info] Записываем элемент Aruba;South America;Oranjestad;180;106766 в файл f4
+[Info] Считываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 из файла f3
+[Info] Записываем элемент Cambodia;Eurasia;Phnom Penh;181035;16718965 в файл f4
+[Info] Считываем элемент Fiji;Australia;Suva;18274;896445 из файла f2
+[Info] Записываем элемент Fiji;Australia;Suva;18274;896445 в файл f4
+[Info] Считываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 из файла f2
+[Info] Записываем элемент Syrian Arab Republic;Eurasia;Damascus;185180;17500658 в файл f4
+[Info] Считываем элемент Sudan;Africa;Khartoum;1861484;43849260 из файла f2
+[Info] Записываем элемент Sudan;Africa;Khartoum;1861484;43849260 в файл f4
+[Info] Считываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 из файла f2
+[Info] Записываем элемент Indonesia;Eurasia;Jakarta;1904569;273523615 в файл f4
+[Info] Считываем элемент Senegal;Africa;Dakar;196722;16743927 из файла f2
+[Info] Записываем элемент Virgin Islands (U.S.);North America;Charlotte Amalie;1910;104425 в файл f4
+[Info] Считываем элемент Mexico;South America;Mexico City;1964375;128932753 из файла f3
+[Info] Записываем элемент Mexico;South America;Mexico City;1964375;128932753 в файл f4
+[Info] Считываем элемент El Salvador;North America;San Salvador;21041;6486205 из файла f3
+[Info] Записываем элемент Senegal;Africa;Dakar;196722;16743927 в файл f4
+[Info] Считываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 из файла f2
+[Info] Записываем элемент Kyrgyzstan;Eurasia;Bishkek;199951;6524195 в файл f4
+[Info] Считываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 из файла f2
+[Info] Записываем элемент Slovenia;Eurasia;Ljubljana;20273;2078938 в файл f4
+[Info] Считываем элемент Mauritius;Africa;Port Louis;2040;1271768 из файла f2
+[Info] Записываем элемент Mauritius;Africa;Port Louis;2040;1271768 в файл f4
+[Info] Считываем элемент Belarus;Eurasia;Minsk;207600;9449323 из файла f2
+[Info] Записываем элемент Belarus;Eurasia;Minsk;207600;9449323 в файл f4
+[Info] Считываем элемент Israel;Eurasia;Jerusalem;20770;8655535 из файла f2
+[Info] Записываем элемент Israel;Eurasia;Jerusalem;20770;8655535 в файл f4
+[Info] Считываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 из файла f2
+[Info] Записываем элемент El Salvador;North America;San Salvador;21041;6486205 в файл f4
+[Info] Считываем элемент Guyana;South America;Georgetown;214969;786552 из файла f3
+[Info] Записываем элемент Guyana;South America;Georgetown;214969;786552 в файл f4
+[Info] Считываем элемент Greenland;North America;Nuuk;2166086;56770 из файла f3
+[Info] Записываем элемент Saudi Arabia;Eurasia;Riyadh;2149690;34813871 в файл f4
+[Info] Считываем элемент Comoros;Africa;Moroni;2235;869601 из файла f2
+[Info] Записываем элемент Greenland;North America;Nuuk;2166086;56770 в файл f4
+[Info] Считываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 из файла f3
+[Info] Записываем элемент Comoros;Africa;Moroni;2235;869601 в файл f4
+[Info] Считываем элемент Djibouti;Africa;Djibouti;23200;988000 из файла f2
+[Info] Записываем элемент Djibouti;Africa;Djibouti;23200;988000 в файл f4
+[Info] Считываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 из файла f2
+[Info] Записываем элемент Congo (Democratic Republic of the);Africa;Kinshasa;2344858;89561403 в файл f4
+[Info] Считываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 из файла f2
+[Info] Записываем элемент Lao People's Democratic Republic;Eurasia;Vientiane;236800;7275560 в файл f4
+[Info] Считываем элемент Algeria;Africa;Algiers;2381741;43851044 из файла f2
+[Info] Записываем элемент Algeria;Africa;Algiers;2381741;43851044 в файл f4
+[Info] Считываем элемент Romania;Eurasia;Bucharest;238391;19237691 из файла f2
+[Info] Записываем элемент Romania;Eurasia;Bucharest;238391;19237691 в файл f4
+[Info] Считываем элемент Ghana;Africa;Accra;238533;31072940 из файла f2
+[Info] Записываем элемент Ghana;Africa;Accra;238533;31072940 в файл f4
+[Info] Считываем элемент Uganda;Africa;Kampala;241038;45741007 из файла f2
+[Info] Записываем элемент Uganda;Africa;Kampala;241038;45741007 в файл f4
+[Info] Считываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 из файла f2
+[Info] Записываем элемент United Kingdom of Great Britain and Northern Ireland;Eurasia;London;243610;67886011 в файл f4
+[Info] Считываем элемент Guinea;Africa;Conakry;245857;13132795 из файла f2
+[Info] Записываем элемент Guinea;Africa;Conakry;245857;13132795 в файл f4
+[Info] Считываем элемент Reunion;Eurasia;Saint-denis;2512;895312 из файла f2
+[Info] Записываем элемент Reunion;Eurasia;Saint-denis;2512;895312 в файл f4
+[Info] Считываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 из файла f2
+[Info] Записываем элемент North Macedonia;Eurasia;Skopje;25713;2083374 в файл f4
+[Info] Считываем элемент Rwanda;Africa;Kigali;26338;12952218 из файла f2
+[Info] Записываем элемент Luxembourg;Eurasia;Luxembourg;2586;625978 в файл f4
+[Info] Считываем элемент Haiti;North America;Port-au-prince;27750;11402528 из файла f3
+[Info] Записываем элемент Rwanda;Africa;Kigali;26338;12952218 в файл f4
+[Info] Считываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 из файла f2
+[Info] Записываем элемент Western Sahara;Africa;Laayoune / El Aaiun;266000;597339 в файл f4
+[Info] Считываем элемент Gabon;Africa;Libreville;267667;2225734 из файла f2
+[Info] Записываем элемент Gabon;Africa;Libreville;267667;2225734 в файл f4
+[Info] Считываем элемент New Zealand;Australia;Wellington;267710;4822233 из файла f2
+[Info] Записываем элемент New Zealand;Australia;Wellington;267710;4822233 в файл f4
+[Info] Считываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 из файла f2
+[Info] Записываем элемент Kazakhstan;Eurasia;Astana;2724900;18776707 в файл f4
+[Info] Считываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 из файла f2
+[Info] Записываем элемент Burkina Faso;Africa;Ouagadougou;274200;20903273 в файл f4
+[Info] Считываем элемент Argentina;South America;Buenos Aires;2780400;45195774 из файла f2
+[Info] Записываем элемент Haiti;North America;Port-au-prince;27750;11402528 в файл f4
+[Info] Считываем элемент Ecuador;South America;Quito;283561;17643054 из файла f3
+[Info] Записываем элемент Argentina;South America;Buenos Aires;2780400;45195774 в файл f4
+[Info] Считываем элемент Burundi;Africa;Bujumbura;27830;11890784 из файла f2
+[Info] Записываем элемент Burundi;Africa;Bujumbura;27830;11890784 в файл f4
+[Info] Считываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 из файла f2
+[Info] Записываем элемент Equatorial Guinea;Africa;Malabo;28051;1402985 в файл f4
+[Info] Считываем элемент Samoa;Australia;Apia;2831;198414 из файла f2
+[Info] Записываем элемент Samoa;Australia;Apia;2831;198414 в файл f4
+[Info] Считываем элемент Albania;Eurasia;Tirana;28748;2877797 из файла f2
+[Info] Записываем элемент Ecuador;South America;Quito;283561;17643054 в файл f4
+[Info] Считываем элемент Maldives;Eurasia;Male;298;540544 из файла f3
+[Info] Записываем элемент Albania;Eurasia;Tirana;28748;2877797 в файл f4
+[Info] Считываем элемент Solomon Islands;Australia;Honiara;28896;686884 из файла f2
+[Info] Записываем элемент Solomon Islands;Australia;Honiara;28896;686884 в файл f4
+[Info] Считываем элемент Armenia;Eurasia;Yerevan;29743;2963243 из файла f2
+[Info] Записываем элемент Armenia;Eurasia;Yerevan;29743;2963243 в файл f4
+[Info] Считываем элемент Philippines;Eurasia;Manila;300000;109581078 из файла f2
+[Info] Записываем элемент Maldives;Eurasia;Male;298;540544 в файл f4
+[Info] Считываем элемент Malta;Eurasia;Valletta;316;441543 из файла f3
+[Info] Записываем элемент Philippines;Eurasia;Manila;300000;109581078 в файл f4
+[Info] Считываем элемент Italy;Eurasia;Roma;301340;60461826 из файла f2
+[Info] Записываем элемент Italy;Eurasia;Roma;301340;60461826 в файл f4
+[Info] Считываем элемент Lesotho;Africa;Maseru;30355;2142249 из файла f2
+[Info] Записываем элемент Lesotho;Africa;Maseru;30355;2142249 в файл f4
+[Info] Считываем элемент Belgium;Eurasia;Brussels;30528;11589623 из файла f2
+[Info] Записываем элемент Belgium;Eurasia;Brussels;30528;11589623 в файл f4
+[Info] Считываем элемент Oman;Eurasia;Muscat;309500;5106626 из файла f2
+[Info] Записываем элемент Oman;Eurasia;Muscat;309500;5106626 в файл f4
+[Info] Считываем элемент Macao;Eurasia;-;31;649335 из файла f2
+[Info] Записываем элемент Macao;Eurasia;-;31;649335 в файл f4
+[Info] Считываем элемент Poland;Eurasia;Warsaw;312685;37846611 из файла f2
+[Info] Записываем элемент Poland;Eurasia;Warsaw;312685;37846611 в файл f4
+[Info] Считываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 из файла f2
+[Info] Записываем элемент Malta;Eurasia;Valletta;316;441543 в файл f4
+[Info] Считываем элемент Grenada;Eurasia;Saint George's;344;112523 из файла f3
+[Info] Записываем элемент Cote d'Ivoire;Africa;Yamoussoukro;322463;26378274 в файл f4
+[Info] Считываем элемент Norway;Eurasia;Oslo;323802;5421241 из файла f2
+[Info] Записываем элемент Norway;Eurasia;Oslo;323802;5421241 в файл f4
+[Info] Считываем элемент India;Eurasia;New Delhi;3287263;1380004385 из файла f2
+[Info] Записываем элемент India;Eurasia;New Delhi;3287263;1380004385 в файл f4
+[Info] Считываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 из файла f2
+[Info] Записываем элемент Malaysia;Eurasia;Kuala Lumpur;329847;32365999 в файл f4
+[Info] Считываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 из файла f2
+[Info] Записываем элемент Viet Nam;Eurasia;Ha Noi;331210;97338579 в файл f4
+[Info] Считываем элемент Finland;Eurasia;Helsinki;338145;5540720 из файла f2
+[Info] Записываем элемент Finland;Eurasia;Helsinki;338145;5540720 в файл f4
+[Info] Считываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 из файла f2
+[Info] Записываем элемент Moldova (Republic of);Eurasia;Chisinau;33851;4033963 в файл f4
+[Info] Считываем элемент Congo;Africa;Brazzaville;342000;5518087 из файла f2
+[Info] Записываем элемент Congo;Africa;Brazzaville;342000;5518087 в файл f4
+[Info] Считываем элемент Germany;Eurasia;Berlin;357022;83783942 из файла f2
+[Info] Записываем элемент Grenada;Eurasia;Saint George's;344;112523 в файл f4
+[Info] Считываем элемент Paraguay;South America;Asuncion;406752;7132538 из файла f3
+[Info] Записываем элемент Germany;Eurasia;Berlin;357022;83783942 в файл f4
+[Info] Считываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 из файла f2
+[Info] Записываем элемент Taiwan (Province of China);Eurasia;Taipei;35980;23816775 в файл f4
+[Info] Считываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 из файла f2
+[Info] Записываем элемент Guinea-Bissau;Africa;Bissau;36125;1968001 в файл f4
+[Info] Считываем элемент Japan;Eurasia;Tokyo;377915;126476461 из файла f2
+[Info] Записываем элемент Japan;Eurasia;Tokyo;377915;126476461 в файл f4
+[Info] Считываем элемент Bhutan;Eurasia;Thimphu;38394;771608 из файла f2
+[Info] Записываем элемент Bhutan;Eurasia;Thimphu;38394;771608 в файл f4
+[Info] Считываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 из файла f2
+[Info] Записываем элемент Saint Vincent and the Grenadines;North America;Kingstown;389;110940 в файл f4
+[Info] Считываем элемент Zimbabwe;Africa;Harare;390757;14862924 из файла f2
+[Info] Записываем элемент Zimbabwe;Africa;Harare;390757;14862924 в файл f4
+[Info] Считываем элемент Cabo Verde;Africa;Praia;4033;555987 из файла f2
+[Info] Записываем элемент Cabo Verde;Africa;Praia;4033;555987 в файл f4
+[Info] Считываем элемент Switzerland;Eurasia;Bern;41277;8654622 из файла f2
+[Info] Записываем элемент Paraguay;South America;Asuncion;406752;7132538 в файл f4
+[Info] Считываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 из файла f3
+[Info] Записываем элемент Switzerland;Eurasia;Bern;41277;8654622 в файл f4
+[Info] Считываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 из файла f2
+[Info] Записываем элемент Netherlands;Eurasia;Amsterdam;41543;17134872 в файл f4
+[Info] Считываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 из файла f2
+[Info] Записываем элемент Denmark;Eurasia;Copenhagen;43094;5792202 в файл f4
+[Info] Считываем элемент Iraq;Eurasia;Baghdad;438317;40222493 из файла f2
+[Info] Записываем элемент Iraq;Eurasia;Baghdad;438317;40222493 в файл f4
+[Info] Считываем элемент Morocco;Africa;Rabat;446550;36910560 из файла f2
+[Info] Записываем элемент Antigua and Barbuda;North America;Saint John's;442;97929 в файл f4
+[Info] Считываем элемент Curacao;South America;Willemstad;444;164093 из файла f3
+[Info] Записываем элемент Curacao;South America;Willemstad;444;164093 в файл f4
+[Info] Считываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 из файла f3
+[Info] Записываем элемент Morocco;Africa;Rabat;446550;36910560 в файл f4
+[Info] Считываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 из файла f2
+[Info] Записываем элемент Uzbekistan;Eurasia;Tashkent;447400;33469203 в файл f4
+[Info] Считываем элемент Sweden;Eurasia;Stockholm;450295;10099265 из файла f2
+[Info] Записываем элемент Sweden;Eurasia;Stockholm;450295;10099265 в файл f4
+[Info] Считываем элемент Estonia;Eurasia;Tallinn;45228;1326535 из файла f2
+[Info] Записываем элемент Estonia;Eurasia;Tallinn;45228;1326535 в файл f4
+[Info] Считываем элемент Seychelles;Africa;Victoria;455;98347 из файла f2
+[Info] Записываем элемент Seychelles;Africa;Victoria;455;98347 в файл f4
+[Info] Считываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 из файла f2
+[Info] Записываем элемент Papua New Guinea;Australia;Port Moresby;462840;8947024 в файл f4
+[Info] Считываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 из файла f2
+[Info] Записываем элемент Andorra;Eurasia;Andorra la Vella;468;77265 в файл f4
+[Info] Считываем элемент Cameroon;Africa;Yaounde;475440;26545863 из файла f2
+[Info] Записываем элемент Cameroon;Africa;Yaounde;475440;26545863 в файл f4
+[Info] Считываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 из файла f2
+[Info] Записываем элемент Dominican Republic;North America;Santo Domingo;48670;10847910 в файл f4
+[Info] Считываем элемент Costa Rica;North America;San Jose;51100;5094118 из файла f3
+[Info] Записываем элемент Turkmenistan;Eurasia;Ashgabat;488100;6031200 в файл f4
+[Info] Считываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 из файла f2
+[Info] Записываем элемент Slovakia;Eurasia;Bratislava;49035;5459642 в файл f4
+[Info] Считываем элемент Spain;Eurasia;Madrid;505370;46754778 из файла f2
+[Info] Записываем элемент Spain;Eurasia;Madrid;505370;46754778 в файл f4
+[Info] Считываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 из файла f2
+[Info] Записываем элемент Costa Rica;North America;San Jose;51100;5094118 в файл f4
+[Info] Считываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 из файла f3
+[Info] Записываем элемент Bosnia and Herzegovina;Eurasia;Sarajevo;51197;3280819 в файл f4
+[Info] Считываем элемент Thailand;Eurasia;Bangkok;513120;69799978 из файла f2
+[Info] Записываем элемент Trinidad and Tobago;South America;Port of Spain;5128;1399488 в файл f4
+[Info] Считываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 из файла f3
+[Info] Записываем элемент Thailand;Eurasia;Bangkok;513120;69799978 в файл f4
+[Info] Считываем элемент Yemen;Eurasia;Sanaa;527968;29825964 из файла f2
+[Info] Записываем элемент Yemen;Eurasia;Sanaa;527968;29825964 в файл f4
+[Info] Считываем элемент Guam;Australia;Hagatna;544;168775 из файла f2
+[Info] Записываем элемент Guam;Australia;Hagatna;544;168775 в файл f4
+[Info] Считываем элемент Croatia;Eurasia;Zagreb;56594;4105267 из файла f2
+[Info] Записываем элемент Croatia;Eurasia;Zagreb;56594;4105267 в файл f4
+[Info] Считываем элемент Togo;Africa;Lome;56785;8278724 из файла f2
+[Info] Записываем элемент Togo;Africa;Lome;56785;8278724 в файл f4
+[Info] Считываем элемент Isle of Man;Eurasia;Douglas;572;85033 из файла f2
+[Info] Записываем элемент Isle of Man;Eurasia;Douglas;572;85033 в файл f4
+[Info] Считываем элемент Kenya;Africa;Nairobi;580367;53771296 из файла f2
+[Info] Записываем элемент Brunei Darussalam;Eurasia;Bandar Seri Begawan;5765;437479 в файл f4
+[Info] Считываем элемент Saint Lucia;South America;Castries;616;183627 из файла f3
+[Info] Записываем элемент Kenya;Africa;Nairobi;580367;53771296 в файл f4
+[Info] Считываем элемент Botswana;Africa;Gaborone;581730;2351627 из файла f2
+[Info] Записываем элемент Botswana;Africa;Gaborone;581730;2351627 в файл f4
+[Info] Считываем элемент Madagascar;Africa;Antananarivo;587041;27691018 из файла f2
+[Info] Записываем элемент Madagascar;Africa;Antananarivo;587041;27691018 в файл f4
+[Info] Считываем элемент Ukraine;Eurasia;Kiev;603550;43733762 из файла f2
+[Info] Записываем элемент Ukraine;Eurasia;Kiev;603550;43733762 в файл f4
+[Info] Считываем элемент Central African Republic;Africa;Bangui;622984;4829767 из файла f2
+[Info] Записываем элемент Saint Lucia;South America;Castries;616;183627 в файл f4
+[Info] Считываем элемент Dominica;South America;Roseau;751;71986 из файла f3
+[Info] Записываем элемент Central African Republic;Africa;Bangui;622984;4829767 в файл f4
+[Info] Считываем элемент Somalia;Africa;Mogadishu;637657;15893222 из файла f2
+[Info] Записываем элемент Somalia;Africa;Mogadishu;637657;15893222 в файл f4
+[Info] Считываем элемент France;Eurasia;Paris;643801;65273511 из файла f2
+[Info] Записываем элемент France;Eurasia;Paris;643801;65273511 в файл f4
+[Info] Считываем элемент South Sudan;Africa;Juba;644329;11193725 из файла f2
+[Info] Записываем элемент South Sudan;Africa;Juba;644329;11193725 в файл f4
+[Info] Считываем элемент Latvia;Eurasia;Riga;64589;1886198 из файла f2
+[Info] Записываем элемент Latvia;Eurasia;Riga;64589;1886198 в файл f4
+[Info] Считываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 из файла f2
+[Info] Записываем элемент Afghanistan;Eurasia;Kabul;652230;38928346 в файл f4
+[Info] Считываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 из файла f2
+[Info] Записываем элемент Lithuania;Eurasia;Vilnius;65300;2722289 в файл f4
+[Info] Считываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 из файла f2
+[Info] Записываем элемент Sri Lanka;Eurasia;Sri Jayewardenepura Kotte;65610;21413249 в файл f4
+[Info] Считываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 из файла f2
+[Info] Записываем элемент Myanmar;Eurasia;Pyinmana;676578;54409800 в файл f4
+[Info] Считываем элемент Singapore;Eurasia;Singapore;697;5850342 из файла f2
+[Info] Записываем элемент Singapore;Eurasia;Singapore;697;5850342 в файл f4
+[Info] Считываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 из файла f2
+[Info] Записываем элемент Georgia;Eurasia;Tbilisi;69700;3989167 в файл f4
+[Info] Считываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 из файла f2
+[Info] Записываем элемент Micronesia (Federated States of);Australia;Palikir;702;548914 в файл f4
+[Info] Считываем элемент Ireland;Eurasia;Dublin;70273;4937786 из файла f2
+[Info] Записываем элемент Ireland;Eurasia;Dublin;70273;4937786 в файл f4
+[Info] Считываем элемент Sierra Leone;Africa;Freetown;71740;7976983 из файла f2
+[Info] Записываем элемент Sierra Leone;Africa;Freetown;71740;7976983 в файл f4
+[Info] Считываем элемент Tonga;Australia;Nuku'alofa;747;105695 из файла f2
+[Info] Записываем элемент Tonga;Australia;Nuku'alofa;747;105695 в файл f4
+[Info] Считываем элемент Zambia;Africa;Lusaka;752618;18383955 из файла f2
+[Info] Записываем элемент Dominica;South America;Roseau;751;71986 в файл f4
+[Info] Считываем элемент Panama;North America;Panama;75420;4314767 из файла f3
+[Info] Записываем элемент Zambia;Africa;Lusaka;752618;18383955 в файл f4
+[Info] Считываем элемент Bahrain;Eurasia;Manama;760;1701575 из файла f2
+[Info] Записываем элемент Panama;North America;Panama;75420;4314767 в файл f4
+[Info] Считываем элемент Chile;South America;Santiago;756102;19116201 из файла f3
+[Info] Записываем элемент Chile;South America;Santiago;756102;19116201 в файл f4
+[Info] Считываем элемент Brazil;South America;Brasilia;8514877;212559417 из файла f3
+[Info] Записываем элемент Bahrain;Eurasia;Manama;760;1701575 в файл f4
+[Info] Считываем элемент Australia;Australia;Canberra;7741220;25499884 из файла f2
+[Info] Записываем элемент Australia;Australia;Canberra;7741220;25499884 в файл f4
+[Info] Считываем элемент Serbia;Eurasia;Belgrade;77474;8737371 из файла f2
+[Info] Записываем элемент Serbia;Eurasia;Belgrade;77474;8737371 в файл f4
+[Info] Считываем элемент Turkey;Eurasia;Ankara;783562;84339067 из файла f2
+[Info] Записываем элемент Turkey;Eurasia;Ankara;783562;84339067 в файл f4
+[Info] Считываем элемент Czechia;Eurasia;Prague;78867;10708981 из файла f2
+[Info] Записываем элемент Czechia;Eurasia;Prague;78867;10708981 в файл f4
+[Info] Считываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 из файла f2
+[Info] Записываем элемент Pakistan;Eurasia;Islamabad;796095;220892340 в файл f4
+[Info] Считываем элемент Mozambique;Africa;Maputo;799380;31255435 из файла f2
+[Info] Записываем элемент Mozambique;Africa;Maputo;799380;31255435 в файл f4
+[Info] Считываем элемент Kiribati;Australia;Tarawa;811;119449 из файла f2
+[Info] Записываем элемент Kiribati;Australia;Tarawa;811;119449 в файл f4
+[Info] Считываем элемент Namibia;Africa;Windhoek;824292;2540905 из файла f2
+[Info] Записываем элемент Namibia;Africa;Windhoek;824292;2540905 в файл f4
+[Info] Считываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 из файла f2
+[Info] Записываем элемент United Arab Emirates;Eurasia;Abu Dhabi;83600;9890402 в файл f4
+[Info] Считываем элемент Austria;Eurasia;Vienna;83871;9006398 из файла f2
+[Info] Записываем элемент Austria;Eurasia;Vienna;83871;9006398 в файл f4
+[Info] Считываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 из файла f2
+[Info] Записываем элемент Brazil;South America;Brasilia;8514877;212559417 в файл f4
+[Info] Считываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 из файла f3
+[Info] Записываем элемент Azerbaijan;Eurasia;Baku;86600;10139177 в файл f4
+[Info] Считываем элемент Jordan;Eurasia;Amman;89342;10203134 из файла f2
+[Info] Записываем элемент Jordan;Eurasia;Amman;89342;10203134 в файл f4
+[Info] Считываем элемент Portugal;Eurasia;Lisbon;92090;10196709 из файла f2
+[Info] Записываем элемент Venezuela (Bolivarian Republic of);South America;Caracas;912050;28435940 в файл f4
+[Info] Считываем элемент  из файла f3
+[Info] Записываем элемент Portugal;Eurasia;Lisbon;92090;10196709 в файл f4
+[Info] Считываем элемент Nigeria;Africa;Abuja;923768;206139589 из файла f2
+[Info] Записываем элемент Nigeria;Africa;Abuja;923768;206139589 в файл f4
+[Info] Считываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 из файла f2
+[Info] Записываем элемент Cyprus;Eurasia;Nicosia;9251;1207359 в файл f4
+[Info] Считываем элемент Hungary;Eurasia;Budapest;93028;9660351 из файла f2
+[Info] Записываем элемент Hungary;Eurasia;Budapest;93028;9660351 в файл f4
+[Info] Считываем элемент China;Eurasia;Beijing;9596961;1439323776 из файла f2
+[Info] Записываем элемент China;Eurasia;Beijing;9596961;1439323776 в файл f4
+[Info] Считываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 из файла f2
+[Info] Записываем элемент Sao Tome and Principe;Africa;Sao Tome;964;219159 в файл f4
+[Info] Считываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 из файла f2
+[Info] Записываем элемент Korea (Republic of);Eurasia;Seoul;99720;51269185 в файл f4
+[Info] Считываем элемент Canada;North America;Ottawa;9984670;37742154 из файла f2
+[Info] Записываем элемент Canada;North America;Ottawa;9984670;37742154 в файл f4
+[Info] Считываем элемент  из файла f2
+[Info] Меняем входные и выходные файлы местами

@@ -2,27 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace AlgorithmsSorting.ExternalSortingAlgorithms
 {
     public class NaturalMergeSort
     {
+        private int _timeout = 0;
+        public Logger logger = new Logger();
         private int _columnNumber = 0;
         private ColumnType _columnType = ColumnType.str;
         string FileInput = "data.txt";
         int _segments = 1;
-        public NaturalMergeSort(string filename, int columnNumber, ColumnType type)
+        public NaturalMergeSort(string filename, int columnNumber, ColumnType type, int timeout)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
             _columnType = type;
+            _timeout = timeout;
             
         }
-        public NaturalMergeSort(string filename, int columnNumber)
+        public NaturalMergeSort(string filename, int columnNumber, int timeout)
         {
             FileInput = filename;
             _columnNumber = columnNumber;
+            _timeout = timeout;
         }
         public void Sort()
         {
@@ -65,7 +70,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
         private void SplitToFilesAsInt()
         {
             _segments = 1;
-            Console.WriteLine("\n Разделение на два файла");
+            logger.AddLog(new Record("Info", "Разделение на два файла"), _timeout);
             using StreamReader br = new StreamReader(File.OpenRead(FileInput));
             using StreamWriter writerA = new StreamWriter(File.Create("a.txt"));
             using StreamWriter writerB = new StreamWriter(File.Create("b.txt"));
@@ -145,31 +150,31 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 {
                     if (pickedB)
                     {
-                        Console.WriteLine("Сравнение " + elementA + " и " + elementB);
+                        logger.AddLog(new Record("Compare", $"Сравнение {elementA} и {elementB}"), _timeout);
                         if (elementA < elementB)
                         {
                             bw.WriteLine(strA);
-                            Console.WriteLine("Запись " + elementA);
+                            logger.AddLog(new Record("Info", $"Запись {elementA}"), _timeout);
                             pickedA = false;
                         }
                         else
                         {
                             bw.WriteLine(strB);
-                            Console.WriteLine("Запись " + elementB);
+                            logger.AddLog(new Record("Info", $"Запись {elementB}"), _timeout);
                             pickedB = false;
                         }
                     }
                     else
                     {
                         bw.WriteLine(strA);
-                        Console.WriteLine("Запись " + elementA);
+                        logger.AddLog(new Record("Info", $"Запись {elementA}"), _timeout);
                         pickedA = false;
                     }
                 }
                 else
                 {
                     bw.WriteLine(strB);
-                    Console.WriteLine("Запись " + elementB);
+                    logger.AddLog(new Record("Info", $"Запись {elementB}"), _timeout);
                     pickedB = false;
                 }
             }
@@ -178,7 +183,7 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
         private void SplitToFilesAsString()
         {
             _segments = 1;
-            Console.WriteLine("\n Разделение на два файла");
+            logger.AddLog(new Record("Info", "Разделение на два файла"), _timeout);
             using StreamReader sr = new StreamReader(File.OpenRead(FileInput));
             using StreamWriter writerA = new StreamWriter(File.Create("a.txt"));
             using StreamWriter writerB = new StreamWriter(File.Create("b.txt"));
@@ -258,31 +263,31 @@ namespace AlgorithmsSorting.ExternalSortingAlgorithms
                 {
                     if (pickedB)
                     {
-                        Console.WriteLine("Сравнение " + elementA + " и " + elementB);
+                        logger.AddLog(new Record("Info", $"Сравнение {elementA} и {elementB}"), _timeout);
                         if (String.CompareOrdinal(elementA, elementB) < 0)
                         {
                             sw.WriteLine(strA);
-                            Console.WriteLine("Запись " + elementA);
+                            logger.AddLog(new Record("Info", $"Запись {elementA}"), _timeout);
                             pickedA = false;
                         }
                         else
                         {
                             sw.WriteLine(strB);
-                            Console.WriteLine("Запись " + elementB);
+                            logger.AddLog(new Record("Info", $"Запись {elementB}"), _timeout);
                             pickedB = false;
                         }
                     }
                     else
                     {
                         sw.WriteLine(strA);
-                        Console.WriteLine("Запись " + elementA);
+                        logger.AddLog(new Record("Info", $"Запись {elementA}"), _timeout);
                         pickedA = false;
                     }
                 }
                 else
                 {
                     sw.WriteLine(strB);
-                    Console.WriteLine("Запись " + elementB);
+                    logger.AddLog(new Record("Info", $"Запись {elementB}"), _timeout);
                     pickedB = false;
                 }
             }
